@@ -1,0 +1,6 @@
+= KMU-Software ist sicher
+
+Der Verlust von Daten ist ein Risiko für jedes Unternehmen.
+Eine Abmahnung bei einem Verstoß gegen die DSGVO tut weh.
+Sicherheit muss daher bereits von Anfang beachtet werden.
+Man spricht von Security by design.
