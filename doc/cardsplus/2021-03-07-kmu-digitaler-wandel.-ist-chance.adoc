@@ -17,7 +17,13 @@ Leider verließ der Mitarbeiter das Unternehmen.
 Seit dieser Zeit nutzt der Unternehmer die Anwendung, ohne die Möglichkeit, Fehler zu beheben oder neue Fähigkeiten einzubauen.
 
 Die Geschichte hat mich nachdenken lassen.
-Ich habe mich gefragt, welche Merkmale eine Individual-Software für ein KMU haben muss.
+Ich habe mich gefragt, ob Konzepte moderner Software-Entwicklung, die in großen Unternehmen erfolgreich eingesetzt werden, auch für die Produktion einer KMU-Software geeignet sind.
+Ist agile Software-Entwicklung möglich - und sinnvoll?
+Dev-Ops steht u.a. für kontinuierliche Entwicklung.
+Geht das?
+Macht der Einsatz von Cloud-Diensten Sinn?
+
+Bevor ich mich auf die Suche nach einer geeigneten Software-Architektur mache, lege ich die folgenden Randbedingungen für meine Entscheidungen fest.
 
 *Die Software-Produktion muss für ein KMU leistbar sein.*
 
