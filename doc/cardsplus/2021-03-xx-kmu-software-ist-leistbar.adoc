@@ -1,4 +1,4 @@
-= Die Software-Produktion muss für ein KMU leistbar sein.
+= KMU-Software ist leistbar
 
 Das Budget für die Software-Produktion ist begrenzt.
 Es fehlt der Spielraum für Experimente und Irrwege.
