@@ -1,0 +1,45 @@
+= Der digitale Wandel ist eine Chance für KMU
+
+KMU bilden das Rückgrat unserer Wirtschaft, sagt die österreichische Bundesministerin Dr. Margarete Schramböck.
+Dr. Harald Mahrer, Präsident der Wirtschaftskammer in Österreich, sagt, dass KMU rund sieben von zehn Arbeitsplätzen in Österreich sichern.
+KMU sind vom digitalen Wandel direkt betroffen.
+Digitale Technologien sind zum Schlüssel für wirtschaftlichen Erfolg geworden, nicht nur für große Unternehmen.
+Auch ein KMU sollte über Digitalisierung nachdenken.
+
+Ich hatte vor ein paar Monaten die Gelegenheit, mit dem Gründer eines KMU über Software zu sprechen.
+Die Geschichte ist schnell erzählt.
+Mit wachsendem Erfolg brauchte er eine Software für die Leistungserfassung.
+Ein Standardprodukt kam nicht in Frage.
+Zu teuer, nicht passend, zu kompliziert.
+Ein engagierter Mitarbeiter mit IT-Kenntnissen entwickelte mit _Visual Basic_ und einer relationalen Datenbank eine Anwendung, die passte.
+Für den Moment.
+Leider verließ der Mitarbeiter das Unternehmen.
+Seit dieser Zeit nutzt der unternehmer die Anwendung, ohne die Möglichkeit, Fehler zu beheben oder neue Fähigkeiten einzubauen.
+
+Die Geschichte hat mich nachdenken lassen.
+Ich habe mich gefragt, welche Merkmale eine Individual-Software für ein KMU haben muss.
+
+*Die Software-Produktion muss für ein KMU leistbar sein.*
+
+Das Budget für die Software-Produktion ist begrenzt.
+Es fehlt der Spielraum für Experimente.
+Die Konsequenz ist, dass die Software-Produktion in kleinen Schritten erfolgen muss.
+Und die Anwendung sollte förderbar sein.
+
+*Kein IT-Team ist notwendig für den Betrieb der Anwendung.*
+
+Ein KMU kann sich kein IT-Team leisten.
+Oft ist es der Unternehmer selbst, der sich um die IT im Unternehmen kümmert.
+Aber seine Zeit ist eigentlich zu wertvoll dafür.
+Die IT muss aber sicher, zuverlässig und robust sein.
+
+*Informationssicherheit und Datenschutz ist relevant.*
+
+Der Verlust von Daten ist ein Risiko für das Unternehmen.
+Eine Abmahnung der Datenschutzbehörde tut weh.
+
+*Die Anwendung muss mit dem Unternehmen wachsen.*
+
+Mit wachsenden Erfolg steigen die Anforderungen an die Software:
+Mehr Mitarbeiterinnen und Mitarbeiter, mehr Aufträge, größere Aufträge oder neue Geschäftsbereiche.
+
