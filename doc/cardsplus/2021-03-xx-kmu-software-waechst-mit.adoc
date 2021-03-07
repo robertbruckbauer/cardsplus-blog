@@ -1,0 +1,6 @@
+= Die KMU-Software wächst mit
+
+Mit wachsenden Erfolg steigen die Anforderungen an die Software:
+Mehr Mitarbeiterinnen und Mitarbeiter, mehr Aufträge, größere Aufträge oder neue Geschäftsbereiche.
+Die Anwendung muss schnell an neue Bedingungen angepasst werden.
+Dafür muss die Code-Basis hohe Qualität haben.
