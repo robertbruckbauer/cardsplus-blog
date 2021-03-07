@@ -14,7 +14,7 @@ Zu teuer, nicht passend, zu kompliziert.
 Ein engagierter Mitarbeiter mit IT-Kenntnissen entwickelte mit _Visual Basic_ und einer relationalen Datenbank eine Anwendung, die passte.
 Für den Moment.
 Leider verließ der Mitarbeiter das Unternehmen.
-Seit dieser Zeit nutzt der unternehmer die Anwendung, ohne die Möglichkeit, Fehler zu beheben oder neue Fähigkeiten einzubauen.
+Seit dieser Zeit nutzt der Unternehmer die Anwendung, ohne die Möglichkeit, Fehler zu beheben oder neue Fähigkeiten einzubauen.
 
 Die Geschichte hat mich nachdenken lassen.
 Ich habe mich gefragt, welche Merkmale eine Individual-Software für ein KMU haben muss.
@@ -22,24 +22,27 @@ Ich habe mich gefragt, welche Merkmale eine Individual-Software für ein KMU hab
 *Die Software-Produktion muss für ein KMU leistbar sein.*
 
 Das Budget für die Software-Produktion ist begrenzt.
-Es fehlt der Spielraum für Experimente.
-Die Konsequenz ist, dass die Software-Produktion in kleinen Schritten erfolgen muss.
-Und die Anwendung sollte förderbar sein.
+Es fehlt der Spielraum für Experimente und Irrwege.
+Die Konsequenz ist, dass die Software-Produktion in kleinen Schritten und auf der Basis erprobter Software-Architekturen erfolgen muss.
 
 *Kein IT-Team ist notwendig für den Betrieb der Anwendung.*
 
 Ein KMU kann sich kein IT-Team leisten.
 Oft ist es der Unternehmer selbst, der sich um die IT im Unternehmen kümmert.
 Aber seine Zeit ist eigentlich zu wertvoll dafür.
-Die IT muss aber sicher, zuverlässig und robust sein.
+Die Anwendung muss aber sicher, zuverlässig und robust sein.
 
 *Informationssicherheit und Datenschutz ist relevant.*
 
-Der Verlust von Daten ist ein Risiko für das Unternehmen.
-Eine Abmahnung der Datenschutzbehörde tut weh.
+Der Verlust von Daten ist ein Risiko für jedes Unternehmen.
+Eine Abmahnung bei einem Verstoß gegen die DSGVO tut weh.
+Sicherheit muss daher bereits von Anfang beachtet werden.
+Man spricht von _Security by design_. 
 
 *Die Anwendung muss mit dem Unternehmen wachsen.*
 
 Mit wachsenden Erfolg steigen die Anforderungen an die Software:
 Mehr Mitarbeiterinnen und Mitarbeiter, mehr Aufträge, größere Aufträge oder neue Geschäftsbereiche.
+Die Anwendung muss schnell an neue Bedingungen angepasst werden.
+Dafür muss die Code-Basis hohe Qualität haben.
 
