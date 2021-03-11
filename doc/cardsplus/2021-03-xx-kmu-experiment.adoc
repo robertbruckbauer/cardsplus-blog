@@ -21,11 +21,17 @@ Ich war fasziniert von dieser Frage und wollte mich unbedingt auf die Suche nach
 Mein befreundeter Unternehmer fand meine ersten spontanen Ideen sehr interessant.
 Wir vereinbarten eine lose Zusammenarbeit mit dem Ziel, einen Prototypen einer Anwendung zu entwickeln, die seine alte Anwendung ersetzen kann.
 Die Anwendung soll die individuellen Arbeitsabläufe bei der Leistungserfassung abbilden.
-Bei der technischen Ausgestaltung bekomme ichvalle Freiheiten.
+Bei der technischen Ausgestaltung bekomme ich alle Freiheiten.
 Nur eine Bedingung ergänzte der Unternehmer:
-Die Anwendung mzss im Browser laufen.
+Die Anwendung muss im Browser laufen.
 
 Das war vor ca. drei Monaten
 Ich kann eines vorweg nehmen:
 Das Experiment war erfolgreich.
 Die Anwendung läuft.
+Die Zutaten sind Spring Boot, Spring Data UND Liquibase für das Backend mit einer PostgreSQL-Datenbank.
+Für den browser-basierten Client entschied ich mich für svelte, ein innovatives Javascript-Framework.
+
+Für heute soll es das gewesen sein.
+In den nächsten Wochen folgen weitere Beiträge.
+Für die Ungeduldigen habe ich ein Github-Repository vorbereitet.
