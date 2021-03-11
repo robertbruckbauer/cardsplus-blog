@@ -20,7 +20,7 @@ Ist es möglich, eine moderne Anwendung zu bauen, die so individuell wie seine a
 Ich war fasziniert von dieser Frage und wollte mich unbedingt auf die Suche nach einer passenden Antwort machen.
 Der Unternehmer fand meine ersten spontanen Ideen sehr interessant.
 Wir vereinbarten eine lose Zusammenarbeit mit dem Ziel, einen Prototypen einer Anwendung zu entwickeln, die seine alte Anwendung ersetzen kann.
-Die Anwendung soll die individuellen Arbeitsabläufe bei der Leistungserfassung abbilden.
+Die Anwendung sollte die individuellen Arbeitsabläufe bei der Leistungserfassung abbilden.
 Bei der technischen Ausgestaltung hatte ich alle Freiheiten.
 Nur eine Bedingung ergänzte der Unternehmer:
 Die Anwendung muss im Browser laufen.
@@ -29,8 +29,9 @@ Das war vor ca. drei Monaten
 Ich kann eines vorweg nehmen:
 Das Experiment war erfolgreich.
 Die Anwendung läuft.
-Die Zutaten sind Spring Boot, Spring Data UND Liquibase für das Backend mit einer PostgreSQL-Datenbank.
-Für den browser-basierten Client entschied ich mich für svelte, ein innovatives Javascript-Framework.
+Die Zutaten sind Spring Boot, Spring Data und Liquibase für das Backend mit einer PostgreSQL-Datenbank.
+Für den browser-basierten Client setze ich auf svelte.
+Mit Kubernetes will ich die Anwendung robust und sicher betreiben.
 
 Für heute soll es das gewesen sein.
 In den nächsten Wochen folgen weitere Beiträge.
