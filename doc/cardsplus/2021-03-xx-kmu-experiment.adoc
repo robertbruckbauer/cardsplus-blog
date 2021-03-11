@@ -21,7 +21,7 @@ Ich war fasziniert von dieser Frage und wollte mich unbedingt auf die Suche nach
 Der Unternehmer fand meine ersten spontanen Ideen sehr interessant.
 Wir vereinbarten eine lose Zusammenarbeit mit dem Ziel, einen Prototypen einer Anwendung zu entwickeln, die seine alte Anwendung ersetzen kann.
 Die Anwendung soll die individuellen Arbeitsabläufe bei der Leistungserfassung abbilden.
-Bei der technischen Ausgestaltung bekomme ich alle Freiheiten.
+Bei der technischen Ausgestaltung hatte ich alle Freiheiten.
 Nur eine Bedingung ergänzte der Unternehmer:
 Die Anwendung muss im Browser laufen.
 
