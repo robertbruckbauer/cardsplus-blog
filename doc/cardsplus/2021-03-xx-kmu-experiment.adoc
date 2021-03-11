@@ -5,3 +5,27 @@ Er leitet sein Unternehmen seit vielen Jahren erfolgreich.
 Auch die Pandemie, die so vielen zu schaffen macht, übersteht er bis jetzt sehr gut.
 In dem Gespräch ging es um Software.
 Um seine Software.
+Die Geschichte ist schnell erzählt.
+Er brauchte eine Software für die Leistungserfassung. 
+Ein Standardprodukt kam nicht in Frage. 
+Zu teuer, nicht passend, zu kompliziert. 
+Ein engagierter Mitarbeiter mit IT-Kenntnissen entwickelte mit Visual Basic und einer relationalen Datenbank eine Anwendung, die passte. 
+Für den Moment. 
+Leider verließ der Mitarbeiter das Unternehmen. 
+Seit dieser Zeit nutzt der Unternehmer die Anwendung, ohne die Möglichkeit, Fehler zu beheben oder neue Fähigkeiten einzubauen.
+
+In diesem Moment stellte ich mir selbst die folgende Frage:
+Ist es möglich, eine moderne Anwendung zu bauen, die so individuell wie seine alte Anwendung ist, aber mit einem kleinen Budget realisiert werden kann?
+
+Ich war fasziniert von dieser Frage und wollte mich unbedingt auf die Suche nach einer passenden Antwort machen.
+Mein befreundeter Unternehmer fand meine ersten spontanen Ideen sehr interessant.
+Wir vereinbarten eine lose Zusammenarbeit mit dem Ziel, einen Prototypen einer Anwendung zu entwickeln, die seine alte Anwendung ersetzen kann.
+Die Anwendung soll die individuellen Arbeitsabläufe bei der Leistungserfassung abbilden.
+Bei der technischen Ausgestaltung bekomme ichvalle Freiheiten.
+Nur eine Bedingung ergänzte der Unternehmer:
+Die Anwendung mzss im Browser laufen.
+
+Das war vor ca. drei Monaten
+Ich kann eines vorweg nehmen:
+Das Experiment war erfolgreich.
+Die Anwendung läuft.
