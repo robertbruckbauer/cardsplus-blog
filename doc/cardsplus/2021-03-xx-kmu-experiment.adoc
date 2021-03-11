@@ -36,5 +36,7 @@ Mit Kubernetes will ich die Anwendung robust und sicher betreiben.
 Für heute soll es das gewesen sein.
 In den nächsten Wochen folgen weitere Beiträge.
 Für die Ungeduldigen habe ich ein Github-Repository vorbereitet.
-Dort liegt der Quelltext einer Anwendung mit reduzierzer Funktionalität.
+Dort liegt der Quelltext einer Anwendung mit stark reduzierter Funktionalität.
+
+https://github.com/cardsplus/bootscs
 
