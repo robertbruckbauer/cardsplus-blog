@@ -18,7 +18,7 @@ In diesem Moment stellte ich mir selbst die folgende Frage:
 Ist es möglich, eine moderne Anwendung zu bauen, die so individuell wie seine alte Anwendung ist, aber mit einem kleinen Budget realisiert werden kann?
 
 Ich war fasziniert von dieser Frage und wollte mich unbedingt auf die Suche nach einer passenden Antwort machen.
-Mein befreundeter Unternehmer fand meine ersten spontanen Ideen sehr interessant.
+Der Unternehmer fand meine ersten spontanen Ideen sehr interessant.
 Wir vereinbarten eine lose Zusammenarbeit mit dem Ziel, einen Prototypen einer Anwendung zu entwickeln, die seine alte Anwendung ersetzen kann.
 Die Anwendung soll die individuellen Arbeitsabläufe bei der Leistungserfassung abbilden.
 Bei der technischen Ausgestaltung bekomme ich alle Freiheiten.
