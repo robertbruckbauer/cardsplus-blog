@@ -64,12 +64,16 @@ https://www.atlassian.com/cloud[Confluence Cloud]
 als Plattform.
 
 Für heute soll es das gewesen sein.
-In den nächsten Wochen folgen weitere Beiträge, um meine Lösung zu präsentieren und die Konsequenzen meiner Entscheidungen zu bewerten - immer mit Blick auf dem Ziel:
-Eine leistbare, professionell entwickelte und individuell gestaltete Anwendung für ein KMU.
+Es folgen weitere Beiträge, in denen ich meine Lösung präsentiere.
+Ziel war ja eine leistbare, agil entwickelte und individuell gestaltete Anwendung für ein KMU.
+Ich versuche, meine Entscheidungen auf dem Weg zur Lösung nachvollziehbar zu begründen.
+Gerne beantwrote ich dazu auch Fragen in dieser Gruppe.
 
 Die Ungeduldigen können sich den Quelltext der Anwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
 
 https://github.com/cardsplus/bootscs
 
 anschauen.
+Das Projekt dient als Beispiel für meine kommenden Beiträge.
+
 
