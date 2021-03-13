@@ -6,15 +6,15 @@ Auch die Pandemie, die so vielen zu schaffen macht, übersteht er bis jetzt sehr
 In dem Gespräch ging es um Software.
 Um seine Software.
 Die Geschichte ist schnell erzählt.
-Er brauchte eine Software für die Leistungserfassung. 
-Ein Standardprodukt kam nicht in Frage. 
-Zu teuer, nicht passend, zu kompliziert. 
-Ein engagierter Mitarbeiter mit IT-Kenntnissen entwickelte mit Visual Basic und einer relationalen Datenbank eine Anwendung, die passte. 
+Er brauchte eine Software für Leistungserfassung. 
+Ein Standardprodukt kam nicht in Frage - zu teuer, nicht passend, zu kompliziert.
+Ein engagierter Mitarbeiter bot sich an, eine kleine Anwendung zu entwickeln. 
+Mit _Visual Basic_ und einer relationalen Datenbank entstand eine Anwendung, die passte. 
 Für den Moment. 
 Leider verließ der Mitarbeiter das Unternehmen. 
 Seit dieser Zeit nutzt der Unternehmer die Anwendung, ohne die Möglichkeit, Fehler zu beheben oder neue Fähigkeiten einzubauen.
 
-In diesem Moment stellte ich mir selbst die folgende Frage:
+In diesem Moment stellte ich mir selbst folgende Frage:
 Ist es möglich, eine moderne Anwendung zu bauen, die so individuell wie seine alte Anwendung ist, aber mit einem kleinen Budget realisiert werden kann?
 
 Ich war fasziniert von dieser Frage und wollte mich unbedingt auf die Suche nach einer passenden Antwort machen.
@@ -42,12 +42,12 @@ will ich die Anwendung robust und sicher betreiben.
 Qualität ist ein wichtiges Thema bei meinem Entwurf.
 Bei der Code-Qualität setze ich aus Überzeugung auf
 https://clean-code-developer.de[_Clean Code_].
-Beim Testen von Java-Code setze ich auf
+Beim Testen von Java-Code verwende ich
 https://junit.org/junit5/[JUnit5]
 und prüfe die Testabdeckung mit
 https://www.eclemma.org/jacoco/[JaCoCo].
 Bei JavaScript bin ich noch unentschlossen.
-Ein CI-Pipeline mit
+Eine CI-Pipeline mit
 https://github.com/features/actions[Github-Actions]
 integriert alles.
 Mit
@@ -67,7 +67,7 @@ Für heute soll es das gewesen sein.
 Es folgen weitere Beiträge, in denen ich meine Lösung präsentiere.
 Ziel war ja eine leistbare, agil entwickelte und individuell gestaltete Anwendung für ein KMU.
 Ich versuche, meine Entscheidungen auf dem Weg zur Lösung nachvollziehbar zu begründen.
-Gerne beantwrote ich dazu auch Fragen in dieser Gruppe.
+Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
 
 Die Ungeduldigen können sich den Quelltext der Anwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
 
