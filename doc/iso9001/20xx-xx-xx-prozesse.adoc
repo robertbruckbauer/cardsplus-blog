@@ -1,4 +1,3 @@
-
 = Prozessorientierter Ansatz
 
 [,ISO 9001 (2015), Kapitel 0.1]
@@ -7,14 +6,12 @@ Diese Internationale Norm wendet den prozessorientierten Ansatz an, der das Plan
 ____
 
 Das bedeutet, dass ein qualitätsorientiertes Unternehmen seine Prozesse genau kennen muss.
-
-« Wunderbar! Finde ich gut. »
-
 In Gedanken zähle ich die Prozesse auf, die mir sofort einfallen, weil ich selbst beteiligt bin.
 Der von uns gelebte agile Entwicklungsprozess mit Scrum.
 Eh klar.
 Der Prozess zur Lenkung von Anforderungen bei einem unserer Kunden, für den ich als Berater tätig bin. Auch klar.
-Die Erfassung meiner Arbeitszeit und der Abrechnungsprozess. Die Weiterbildung.
+Die Erfassung meiner Arbeitszeit und der Abrechnungsprozess.
+Die Weiterbildung.
 
 Je mehr ich über meine eigenen Tätigkeiten nachdenke, desto mehr frage ich mich, welche anderen Prozesse es noch gibt.
 
@@ -25,15 +22,15 @@ Je mehr ich über meine eigenen Tätigkeiten nachdenke, desto mehr frage ich mic
 « Was passiert, wenn die Alarmanlage eine Störung hat? »
 
 Prozesse sind immer wieder auf bewährte Art und Weise ausgeführte Abfolgen von Tätigkeiten.
-Schnell wird mir klar, dass es mehr Prozesse in einem Unternehmen gibt, als man im ersten Moment annimmt.
-Gerade jene häufig als "trivial" bezeichneten Prozesse, die einem nicht sofort einfallen, die nur einmal im Jahr oder nur bei Störungen durchgeführt werden, sind nicht selten Wissensinseln bei einzelnen Personen im Unternehmen.
+Schnell wird mir klar, dass es mehr Tätigkeiten in einem Unternehmen gibt, als man im ersten Moment annimmt.
+Gerade jene häufig als "trivial" bezeichneten Tätigkeiten, die einem nicht sofort einfallen, die nur einmal im Jahr oder nur bei Störungen durchgeführt werden, sind nicht selten Wissensinseln bei einzelnen Personen im Unternehmen.
 Denkt man darüber nach, wird schnell klar:
 Prozesse sind wichtig.
 Sie haben einen Wert.
 Kontinuierliche Verbesserung der Prozesse ist eine Chance,direkt oder indirekt die Qualität der Produkte des Unternehmens zu verbessern.
 Der Verlust von Wissen über die Prozesse ist hingegen ein Risiko.
 
-Ein Prozess ist ein Baustein in der Systembeschreibung des Managementsystems mit folgenden Eigenschaften:
+In der Systematik von cards+ ist ein Prozess ein Baustein in der Systembeschreibung des Managementsystems mit folgenden Eigenschaften:
 
 * Titel
 * Zweck
@@ -42,5 +39,5 @@ Ein Prozess ist ein Baustein in der Systembeschreibung des Managementsystems mit
 * Risiken und Chancen
 * Tätigkeiten
 
-Mit diesem Katalog an Eigenschaften ergibt sich für die Systembeschreibung ein doch recht komplexer Baustein mit Abhängigkeiten zu weiteren Bausteinen.
-In der Systematik von cards+ sprechen wir bei der weiteren Detaillierung der Prozesse von Bausteinen für Richtlinien, Leitfäden und Arbeitsaufträgen.
+Mit diesem Katalog an Eigenschaften ergibt sich ein doch recht komplexer Baustein mit Abhängigkeiten zu weiteren Bausteinen.
+Bei der weiteren Detaillierung der Prozesse ergeben sie die Bausteinen für Richtlinien, Leitfäden und Arbeitsaufträge.
