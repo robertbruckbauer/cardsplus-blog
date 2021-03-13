@@ -1,0 +1,5 @@
+= Self-Contained System mit Spring Data
+
+JPA
+
+REST mit HAL und HATEOAS

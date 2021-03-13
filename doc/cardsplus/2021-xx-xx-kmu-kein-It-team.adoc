@@ -1,6 +1,0 @@
-= Kein IT-Team
-
-Ein KMU kann sich kein IT-Team leisten.
-Oft ist es der Unternehmer selbst, der sich um die IT im Unternehmen kümmert.
-Aber seine Zeit ist eigentlich zu wertvoll dafür.
-Die Anwendung muss aber sicher, zuverlässig und robust sein.

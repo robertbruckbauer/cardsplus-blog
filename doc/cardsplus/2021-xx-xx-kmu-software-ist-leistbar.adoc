@@ -3,3 +3,9 @@
 Das Budget für die Software-Produktion ist begrenzt.
 Es fehlt der Spielraum für Experimente und Irrwege.
 Die Konsequenz ist, dass die Software-Produktion in kleinen Schritten und auf der Basis erprobter Software-Architekturen erfolgen muss.
+
+*Die Software-Produktion muss für ein KMU leistbar sein.*
+
+Das Budget für die Software-Produktion ist begrenzt.
+Es fehlt der Spielraum für Experimente und Irrwege.
+Die Konsequenz ist, dass die Software-Produktion in kleinen Schritten und auf der Basis erprobter Software-Architekturen erfolgen muss.

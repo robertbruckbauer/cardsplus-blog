@@ -1,0 +1,30 @@
+= KMU-Software ist modern
+
+Im ersten Beitrag dieser Reihe stelle ich die folgende Frage:
+Ist es möglich, eine moderne Anwendung zu bauen, die individuell gestaltet ist, aber mit einem kleinen Budget realisiert werden kann?
+Bevor ich mich auf die Suche nach einer geeigneten Lösung mache, muss ich Randbedingungen für meine Entscheidungen festlegen.
+In diesem Beitrag möchte ich mich festlegen, was für mich "modern" bedeutet.
+
+*Informationssicherheit und Datenschutz*
+
+Der Verlust von Daten ist ein Risiko für jedes Unternehmen.
+Eine Abmahnung bei einem Verstoß gegen die DSGVO tut weh.
+Sicherheit muss daher bereits von Anfang beachtet werden.
+Man spricht von _Security by design_.
+
+*Vollständige Testabdeckung*
+
+Test = Dokumentation
+Abdeckung messen.
+
+*Automatisierung*
+
+*Angemessene Dokumentation*
+
+Kein Alibi.
+Ableitung aus dem Code.
+Wenig Redundanz.
+
+*No Project*
+
+*No DevOps*

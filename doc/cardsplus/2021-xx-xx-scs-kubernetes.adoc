@@ -1,0 +1,5 @@
+= Self-Contained System mit Kubernetes
+
+Gleiches Deployment in Entwicklung, Test und Produktion.
+
+Gleiches Deployment für Cloud (in einem Rechenzentrum) und On-Premise (in den eigenen Räumlichkeiten, vor Ort oder lokal).

@@ -1,0 +1,13 @@
+= KMU-Software bruacht kein IT-Team
+
+Ein KMU kann sich kein IT-Team leisten.
+Oft ist es der Unternehmer selbst, der sich um die IT im Unternehmen kümmert.
+Aber seine Zeit ist eigentlich zu wertvoll dafür.
+Die Anwendung muss aber sicher, zuverlässig und robust sein.
+
+*Kein IT-Team ist notwendig für den Betrieb der Anwendung.*
+
+Ein KMU kann sich kein IT-Team leisten.
+Oft ist es der Unternehmer selbst, der sich um die IT im Unternehmen kümmert.
+Aber seine Zeit ist eigentlich zu wertvoll dafür.
+Die Anwendung muss aber sicher, zuverlässig und robust sein.
