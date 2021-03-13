@@ -1,0 +1,34 @@
+= Projekte im Managementsystem
+
+[,ISO 9001 (2015), Kapitel 1]
+____
+Die in dieser Internationalen Norm festgelegten Anforderungen sind allgemeiner Natur und auf jede Organisation zutreffend, unabhängig von deren Art oder Größe oder von der Art der von ihr bereitgestellten Produkte und Dienstleistungen.
+In dieser Internationalen Norm bezieht sich die Benennung „Produkt“ bzw. „Dienstleistung“ nur auf solche Produkte und Dienstleistungen, die für einen Kunden vorgesehen sind oder von diesem gefordert werden.
+____
+
+Das bedeutet, dass ein qualitätsorientiertes Unternehmen genau wissen muss, was notwendig ist, um erfolgreich zu produzieren.
+Ein Produkt in der IT-Branche ist in erster Linie Software oder eine Dienstleitung, die einen Kunden dabei hilft, selbst Software zu produzieren.
+Das Produkt ist auch ein Rechtsbegriff, der wichtig für Verträge mit dem Kunden ist.
+
+Software wird in einem Produktionsprozess entwickelt.
+Unternehmen setzen dabei auf verschiedene Konzepte.
+Klassische Vorgehen nach dem Wasserfallprinzip wurden ersetzt durch agile Methoden, z.B. Scrum.
+Den Baustein Prozess konnte ich aufgrund der Forderung eines prozessorientierten Ansatzes bereits identifizieren.
+
+Projekte sind im Gegensatz zu Prozessen zielgerichtete, einmalige Vorhaben mit einem Beginn und einem Ende.
+Agile Methoden haben uns in die Lage versetzt, ein Ziel in kleinen Schritten anzustreben.
+Nach jedem Schritt gibt es eine neue, verbesserte Version des Produktes, das Produktinkrement, und das Ziel für den nächsten Schritt wird überprüft und gegebenenfalls sogar angepasst.
+
+Ein Projekt ist ein Baustein in der Systembeschreibung des Managementsystems mit folgenden Eigenschaften:
+
+* Titel
+* Zweck
+* Verantwortliche
+* Projektmitglieder in verschiedenen Rollen
+* Regelungen und Werkzeuge für die Kommunikation
+* Regelungen und Werkzeuge für die Organisation
+* Qualitätsziele
+* Ergebnisse
+
+So schließt sich der Kreis von Prozess, Projekt und Produkt. 
+Je besser ein Managementsystem alle drei Dimensionen aufeinander abstimmt und miteinander vernetzt, umso effizienter und effektiver ist ein Unternehmen im Bezug auf Innovation und Qualität.
