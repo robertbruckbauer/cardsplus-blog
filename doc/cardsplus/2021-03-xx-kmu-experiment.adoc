@@ -27,16 +27,48 @@ Die Anwendung muss im Browser laufen.
 
 Das war vor ca. drei Monaten
 Ich kann eines vorweg nehmen:
-Das Experiment war erfolgreich.
-Die Anwendung läuft.
-Die Zutaten sind Spring Boot, Spring Data und Liquibase für das Backend mit einer PostgreSQL-Datenbank.
-Für den browser-basierten Client setze ich auf svelte.
-Mit Kubernetes will ich die Anwendung robust und sicher betreiben.
+Das Experiment war aus meiner Sicht erfolgreich.
+Die wichtigsten Zutaten sind 
+https://spring.io/projects/spring-boot[Spring Boot],
+https://spring.io/projects/spring-data[Spring Data] und
+https://www.liquibase.org/[Liquibase] für das Backend mit einer
+https://www.postgresql.org/[PostgreSQL-Datenbank].
+Für den browser-basierten Client setze ich auf
+https://svelte.dev/[svelte].
+Mit
+https://kubernetes.io/[Kubernetes]
+will ich die Anwendung robust und sicher betreiben.
+
+Qualität ist ein wichtiges Thema bei meinem Entwurf.
+Bei der Code-Qualität setze ich aus Überzeugung auf
+https://clean-code-developer.de[_Clean Code_].
+Beim Testen von Java-Code setze ich auf
+https://junit.org/junit5/[JUnit5]
+und prüfe die Testabdeckung mit
+https://www.eclemma.org/jacoco/[JaCoCo].
+Bei JavaScript bin ich noch unentschlossen.
+Ein CI-Pipeline mit
+https://github.com/features/actions[Github-Actions]
+integriert alles.
+Mit
+https://cardsplus.info[cards+]
+wird die Lösung von Anfang an und Schritt für Schritt vollständig dokumentiert.
+Basis der Dokumentation ist
+https://asciidoctor.org[Asciidoc(tor)].
+Damit lassen sich Dokumente und Testberichte als Arbeitsstand mit
+https://pages.github.com/[Github-Pages]
+sofort veröffentlichen.
+Die Dokumente werden aber auch als Produktdokumentation in ein Wiki integriert.
+Ich verwendet dazu 
+https://www.atlassian.com/cloud[Confluence Cloud]
+als Plattform.
 
 Für heute soll es das gewesen sein.
-In den nächsten Wochen folgen weitere Beiträge.
-Für die Ungeduldigen habe ich ein Github-Repository vorbereitet.
-Dort liegt der Quelltext einer Anwendung mit stark reduzierter Funktionalität.
+In den nächsten Wochen folgen weitere Beiträge, um meine Lösung zu präsentieren und die Konsequenzen meiner Entscheidungen bewerten.
+
+Die Ungeduldigen können sich den Quelltext der Anwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
 
 https://github.com/cardsplus/bootscs
+
+anschauen.
 
