@@ -64,7 +64,8 @@ https://www.atlassian.com/cloud[Confluence Cloud]
 als Plattform.
 
 Für heute soll es das gewesen sein.
-In den nächsten Wochen folgen weitere Beiträge, um meine Lösung zu präsentieren und die Konsequenzen meiner Entscheidungen bewerten.
+In den nächsten Wochen folgen weitere Beiträge, um meine Lösung zu präsentieren und die Konsequenzen meiner Entscheidungen zu bewerten - immer mit Blick auf dem Ziel:
+Eine leistbare, professionell entwickelte und individuell gestaltete Anwendung für ein KMU.
 
 Die Ungeduldigen können sich den Quelltext der Anwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
 
