@@ -13,7 +13,7 @@ Die Anwendung für die Leistungserfassung hat einen hohen Wert für den Unterneh
 Sie unterstützt *optimal* seine ganz spezielle Arbeitsweise bei der Planung, Durchführung und Abrechnung seiner Leistungen.
 Der Unternehmer ist erfolgreich.
 Die Anwendung ist Teil des Erfolges.
-Die Entwicklungs des Marktes, neue Kundenbeziehungen oder gesetzliche Regelungen verändern auch dieses Unternehmen.
+Die Entwicklung des Marktes, neue Kundenbeziehungen oder gesetzliche Regelungen verändern auch dieses Unternehmen.
 Die Anwendung muss *laufend* an diese kontinuierlichen Veränderungen angepasst werden.
 Der digitale Weg ist ein Weg der kontinuierlichen Veränderung.
 
