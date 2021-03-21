@@ -67,13 +67,12 @@ Für heute soll es das gewesen sein.
 Es folgen weitere Beiträge, in denen ich meine Lösung präsentiere.
 Ziel war ja eine leistbare, agil entwickelte und individuell gestaltete Anwendung für ein KMU.
 Ich versuche, meine Entscheidungen auf dem Weg zur Lösung nachvollziehbar zu begründen.
-Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
 
-Die Ungeduldigen können sich den Quelltext der Anwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
+---
+
+Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
+Die Ungeduldigen können sich den Quelltext einer Beispielanwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
 
 https://github.com/cardsplus/bootscs
 
 anschauen.
-Das Projekt dient als Beispiel für meine kommenden Beiträge.
-
-
