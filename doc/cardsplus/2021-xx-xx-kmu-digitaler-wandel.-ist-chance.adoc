@@ -22,9 +22,9 @@ Sie bieten vielfältige Funktionen:
 Leistungserfassung, Warenwirtschaft, Buchhaltung, Rechnungswesen.
 Das Angebot ist groß.
 
-. SevDesk (https://sevdesk.at) bezeichnet sich selbst als Software für Buchhaltung.
+- SevDesk (https://sevdesk.at) bezeichnet sich selbst als Software für Buchhaltung.
 
-. Helium5 (https://www.helium5.com) erfüllt alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
+- Helium5 (https://www.helium5.com) erfüllt alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
 
 Die beiden Beispiele markieren in etwa die Eckpunkt im Spektrum der Standardsoftware.
 
@@ -45,6 +45,9 @@ In festen Genzen ist eine Anpassung möglich.
 Das reicht vielen Unternehmern.
 In manchen Abläufen müssen sie aber ihre Arbeitsweise oder die ihrer Beschäftigten an die Vorgaben anpassen, die durch die Standardsoftware bestimmt werden.
 
-tbd Fazit
+Erfolgreiche Unternehmer gehen ihren eigenen Weg.
+Der Einsatz von Standardsoftware bedeutet für sie Kompromisse.
+Die Hersteller von Standardsoftware bieten eine funktionierend Lösung.
+Sie kann aber niemals den Unterschied machen.
 
 tbd Excel-Lösungen, z.B. Dienstplan
