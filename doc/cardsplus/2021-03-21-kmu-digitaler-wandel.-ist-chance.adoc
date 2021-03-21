@@ -18,14 +18,11 @@ Die Anwendung muss *laufend* an diese kontinuierlichen Veränderungen angepasst 
 Der digitale Weg ist ein Weg der kontinuierlichen Veränderung.
 
 Andere Unternehmen setzen auf Standardsoftware für Leistungserfassung, Warenwirtschaft, Buchhaltung, Rechnungswesen, Zeiterfassung, u.s.w.
-Die Hersteller sind zahlreich, das Angebot ist groß.
-Die beiden folgenden Beispiele markieren die Eckpunkte im Spektrum der Standardsoftware.
+Die Hersteller sind zahlreich, das Angebot ist riesig.
+Die beiden folgenden Beispiele markieren die Eckpunkte im Spektrum der Standardsoftware für KMU.
 
-- SevDesk (https://sevdesk.at) wird vom Hersteller als Software für Buchhaltung bezeichnet.
-
-- Helium5 (https://helium5.com) erfüllt nach Angaben des Herstellers alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
-
-Die Funktionen der *ersten* Anwendung decken einen wichtigen Bereich in der Abwicklung von Leistungen in einem Unternehmen ab.
+SevDesk (https://sevdesk.at) wird vom Hersteller als Software für Buchhaltung bezeichnet.
+Die Funktionen decken einen wichtigen Bereich in der Abwicklung von Leistungen in einem Unternehmen ab.
 Für andere Bereiche ist allerdings eine andere Anwendung notwendig.
 Das führt in vielen Unternehmen zu einem Flickenteppich von Software unterschiedlicher Hersteller.
 Jede Anwendung sieht anders aus, verhält sich anders.
@@ -35,10 +32,11 @@ Das birgt ein großes Risiko für Inkonsistenzen in den Daten.
 Beschäftigte benötigen Konten in allen Anwendungen.
 Eine Herausforderung für die Administration.
 
-In der *zweiten* Anwendung sind praktisch alle Funktionen integriert, die ein kleines Unternehmen braucht.
+Helium5 (https://helium5.com) erfüllt nach Angaben des Herstellers alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
 Der Funktionsumfang ist riesig.
-Die Anwendung kann viel mehr, als der Unternehmer tatsächlich braucht.
-In festen Grenzen ist eine Anpassung möglich.
+Die Anwendung hat praktisch alle Funktionen, die ein kleines Unternehmen braucht.
+Sie kann viel mehr, als der Unternehmer tatsächlich braucht.
+In festen Grenzen ist eine Anpassung der Anwendung möglich.
 Das reicht vielen Unternehmern.
 In manchen Abläufen müssen sie aber ihre Arbeitsweise oder die ihrer Beschäftigten an die Vorgaben anpassen, die durch die Standardsoftware bestimmt werden.
 
