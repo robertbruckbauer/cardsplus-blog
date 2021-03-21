@@ -55,14 +55,10 @@ Einmal im Monat wird der Dienstplan verifiziert und die Ergebnisse in die Standa
 
 Ich vermute, die Lösungen in den kleinen Unternehmen sind so vielfältig wie die Angebote, die es am Markt für Standardsoftware gibt.
 Standardsoftware wird mit individuellen Insellösungen kombiniert.
-Sie sind Ausdruck der Individualität des Unternehmens.
-Und ein Erfolgsfaktor. 
-
 Standardsoftware zeichnet sich durch Qualität und Zuverlässigkeit aus.
 Sie ist angemessen dokumentiert.
 Es gibt Unterstützung bei der Installation oder bei Problemen.
 Sie wird gewartet, d.h. Fehler werden korrigiert und Lücken geschlossen.
-
 Eine individuelle Insellösung passt optimal zu den Arbeitsabläufen im Unternehmen.
 Sie wird sehr häufig von einer Person erfunden, die dadurch effizienter ihre Aufgaben erledigen kann.
 Die Lösung ist kaum dokumentiert.
