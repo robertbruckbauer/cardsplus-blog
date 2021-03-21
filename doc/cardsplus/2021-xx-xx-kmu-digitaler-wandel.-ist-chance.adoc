@@ -22,9 +22,9 @@ Sie bieten vielfältige Funktionen:
 Leistungserfassung, Warenwirtschaft, Buchhaltung, Rechnungswesen.
 Das Angebot ist groß.
 
-- SevDesk (https://sevdesk.at) bezeichnet sich selbst als Software für Buchhaltung.
+- SevDesk (https://sevdesk.at) wird vom Hersteller als Software für Buchhaltung bezeichnet.
 
-- Helium5 (https://helium5.com) erfüllt alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
+- Helium5 (https://helium5.com) erfüllt nach Angaben des Hetstellers alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
 
 Die beiden Beispiele markieren in etwa die Eckpunkte im Spektrum der Standardsoftware.
 
