@@ -11,7 +11,36 @@ Aber was bedeutet digitaler Wandel für ein KMU?
 In meinem letzten Beitrag habe ich eine Geschichte von einem Unternehmer erzählt, der seit vielen Jahren eine individuelle Anwendung verwendet.
 Die Anwendung für die Leistungserfassung hat einen hohen Wert für den Unternehmer.
 Sie unterstützt *optimal* seine ganz spezielle Arbeitsweise bei der Planung, Durchführung und Abrechnung seiner Leistungen.
-Der Unternehmer ist mit diesem Weg erfolgreich.
+Der Unternehmer ist erfolgreich.
+Die Anwendung ist Teil des Erfolges.
 Die Entwicklungs des Marktes, neue Kundenbeziehungen oder gesetzliche Regelungen verändern auch dieses Unternehmen.
-Die Anwendung muss aber mit an diese kontinuierlichen Veränderungen angepasst werden.
+Die Anwendung muss *laufend* an diese kontinuierlichen Veränderungen angepasst werden.
 Der digitale Weg ist ein Weg der kontinuierlichen Veränderung.
+
+Andere Unternehmen setzen auf Standardsoftware.
+Sie bieten vielfältige Funktionen:
+Leistungserfassung, Warenwirtschaft, Buchhaltung, Rechnungswesen.
+Das Angebot ist groß.
+
+. ServDesk (https://sevdesk.at) bezeichnet sich selbst als Software für Buchhaltung.
+
+. Helium5 (https://www.helium5.com) erfüllt alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
+
+Die beiden Beispiele markieren in etwa die Eckpunkt im Spektrum der Standardsoftware.
+
+Die Funktionen der *ersten* Anwendung decken einen wichtigen Bereich in der Abwicklung von Leistungen in einem Unternehmen ab.
+Für andere Bereiche ist allerdings eine andere Standardsoftware notwendig.
+Das führt in vielen Unternehmen zu einem Flickenteppich von Anwendungen unterschiedlicher Hersteller.
+Eine Integration ist in der Regel nicht möglich.
+Jede Anwendung sieht anders aus, verhält sich anders.
+
+In der *zweiten* Anwendung sind praktisch alle Funktionen integriert, die ein kleines Unternehmen braucht.
+Der Funktionsumfang ist riesig.
+Die Anwendung kann viel mehr, als der Unternehmer tatsächlich braucht.
+In festen Genzen ist eine Anpassung möglich.
+Das reicht vielen Unternehmern.
+In manchen Abläufen müssen sie aber ihre Arbeitsweise oder die ihrer Beschäftigten an die Vorgaben anpassen, die durch die Standardsoftware bestimmt werden.
+
+tbd Fazit
+
+tbd Excel-Lösungen, z.B. Dienstplan
