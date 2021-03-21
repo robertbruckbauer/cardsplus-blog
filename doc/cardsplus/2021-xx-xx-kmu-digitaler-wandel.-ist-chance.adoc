@@ -26,7 +26,7 @@ Das Angebot ist groß.
 
 - Helium5 (https://helium5.com) erfüllt alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
 
-Die beiden Beispiele markieren in etwa die Eckpunkt im Spektrum der Standardsoftware.
+Die beiden Beispiele markieren in etwa die Eckpunkte im Spektrum der Standardsoftware.
 
 Die Funktionen der *ersten* Anwendung decken einen wichtigen Bereich in der Abwicklung von Leistungen in einem Unternehmen ab.
 Für andere Bereiche ist allerdings eine andere Anwendung notwendig.
@@ -47,7 +47,6 @@ In manchen Abläufen müssen sie aber ihre Arbeitsweise oder die ihrer Beschäft
 
 Erfolgreiche Unternehmer gehen ihren eigenen Weg.
 Der Einsatz von Standardsoftware bedeutet für sie Kompromisse.
-Standardsoftware kann aber niemals den Unterschied machen.
 Spezielle Abkäufe im Unternehmen werden organisatorisch geregelt, ohne Unterstützung durch Software.
 Enagierte Beschäftigte schließen solche Lücken häufig mit individuellen Insellösungen.
 Dienstpläne sind ein typisches Beispiel.
@@ -60,7 +59,9 @@ Die Beschäftigten melden die tatsächlichen Arbeitszeiten oder tragen sie selbs
 Einmal im Monat wird der Dienstplan verifiziert und die Ergebnisse in die Standardsoftware für Zeiterfassung eingetragen.
 
 Ich vermute, die Lösungen in den kleinen Unternehmen sind so vielfältig wie die Angebote, die es am Markt für Standardsoftware gibt.
-Lösungen, die eine Kombination aus Standardsoftware und individuellen Insellösungen.
+Standardsoftware wird mit individuellen Insellösungen kombiniert.
+Sie sind Ausdruck der Individualität des Unternehmens.
+Ein Erfolgsfaktor. 
 
 Standardsoftware zeichnet sich durch Qualität und Zuverlässigkeit aus.
 Sie ist angemessen dokumentiert.
