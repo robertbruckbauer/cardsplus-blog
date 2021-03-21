@@ -17,16 +17,13 @@ Die Entwicklungs des Marktes, neue Kundenbeziehungen oder gesetzliche Regelungen
 Die Anwendung muss *laufend* an diese kontinuierlichen Veränderungen angepasst werden.
 Der digitale Weg ist ein Weg der kontinuierlichen Veränderung.
 
-Andere Unternehmen setzen auf Standardsoftware.
-Sie bieten vielfältige Funktionen:
-Leistungserfassung, Warenwirtschaft, Buchhaltung, Rechnungswesen.
-Das Angebot ist groß.
+Andere Unternehmen setzen auf Standardsoftware für Leistungserfassung, Warenwirtschaft, Buchhaltung, Rechnungswesen, Zeiterfassung, u.s.w.
+Die Hersteller sind zahlreich, das Angebot ist groß.
+Folgende zwei Beispiele markieren die Eckpunkte im Spektrum der Standardsoftware.
 
 - SevDesk (https://sevdesk.at) wird vom Hersteller als Software für Buchhaltung bezeichnet.
 
 - Helium5 (https://helium5.com) erfüllt nach Angaben des Hetstellers alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
-
-Die beiden Beispiele markieren in etwa die Eckpunkte im Spektrum der Standardsoftware.
 
 Die Funktionen der *ersten* Anwendung decken einen wichtigen Bereich in der Abwicklung von Leistungen in einem Unternehmen ab.
 Für andere Bereiche ist allerdings eine andere Anwendung notwendig.
@@ -54,14 +51,14 @@ Führungskräfte planen den Dienst mit
 https://www.ionos.at/startupguide/produktivitaet/dienstplan-erstellen-in-excel[Excel-Dateien].
 Die Planung stellt sicher, dass die richtige Anzahl an Beschäftigten mit der richtigen Qualifikation zur richtigen Zeit am richtigen Ort im Einsatz sind.
 Der Dienstplan legt den Beginn und das Ende von Arbeitszeiten fest.
-Die Planung wird laufend an die aktuelle Situation angepasst, z.B. bei ungeplanten Ausfällen beim Personal.
+Die Planung wird laufend an die aktuelle Situation angepasst, z.B. bei einem ungeplanten Ausfall von Personal.
 Die Beschäftigten melden die tatsächlichen Arbeitszeiten oder tragen sie selbst im Dienstplan ein.
 Einmal im Monat wird der Dienstplan verifiziert und die Ergebnisse in die Standardsoftware für Zeiterfassung eingetragen.
 
 Ich vermute, die Lösungen in den kleinen Unternehmen sind so vielfältig wie die Angebote, die es am Markt für Standardsoftware gibt.
 Standardsoftware wird mit individuellen Insellösungen kombiniert.
 Sie sind Ausdruck der Individualität des Unternehmens.
-Ein Erfolgsfaktor. 
+Und ein Erfolgsfaktor. 
 
 Standardsoftware zeichnet sich durch Qualität und Zuverlässigkeit aus.
 Sie ist angemessen dokumentiert.
