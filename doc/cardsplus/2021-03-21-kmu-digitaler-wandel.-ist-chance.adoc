@@ -19,11 +19,11 @@ Der digitale Weg ist ein Weg der kontinuierlichen Veränderung.
 
 Andere Unternehmen setzen auf Standardsoftware für Leistungserfassung, Warenwirtschaft, Buchhaltung, Rechnungswesen, Zeiterfassung, u.s.w.
 Die Hersteller sind zahlreich, das Angebot ist groß.
-Folgende zwei Beispiele markieren die Eckpunkte im Spektrum der Standardsoftware.
+Die beiden folgenden Beispiele markieren die Eckpunkte im Spektrum der Standardsoftware.
 
 - SevDesk (https://sevdesk.at) wird vom Hersteller als Software für Buchhaltung bezeichnet.
 
-- Helium5 (https://helium5.com) erfüllt nach Angaben des Hetstellers alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
+- Helium5 (https://helium5.com) erfüllt nach Angaben des Herstellers alle Anforderungen an eine Software für Einkauf, Verkauf, Warenwirtschaft, Produktion, Zeiterfassung, Finanzbuchhaltung, Reklamationsverwaltung und für die Instandhaltung.
 
 Die Funktionen der *ersten* Anwendung decken einen wichtigen Bereich in der Abwicklung von Leistungen in einem Unternehmen ab.
 Für andere Bereiche ist allerdings eine andere Anwendung notwendig.
@@ -38,13 +38,13 @@ Eine Herausforderung für die Administration.
 In der *zweiten* Anwendung sind praktisch alle Funktionen integriert, die ein kleines Unternehmen braucht.
 Der Funktionsumfang ist riesig.
 Die Anwendung kann viel mehr, als der Unternehmer tatsächlich braucht.
-In festen Genzen ist eine Anpassung möglich.
+In festen Grenzen ist eine Anpassung möglich.
 Das reicht vielen Unternehmern.
 In manchen Abläufen müssen sie aber ihre Arbeitsweise oder die ihrer Beschäftigten an die Vorgaben anpassen, die durch die Standardsoftware bestimmt werden.
 
 Erfolgreiche Unternehmer gehen ihren eigenen Weg.
 Der Einsatz von Standardsoftware bedeutet für sie Kompromisse.
-Spezielle Abkäufe im Unternehmen werden organisatorisch geregelt, ohne Unterstützung durch Software.
+Spezielle Abläufe im Unternehmen werden organisatorisch geregelt, ohne Unterstützung durch Software.
 Enagierte Beschäftigte schließen solche Lücken häufig mit individuellen Insellösungen.
 Dienstpläne sind ein typisches Beispiel.
 Führungskräfte planen den Dienst mit
@@ -72,7 +72,7 @@ Nur ganz wenige Personen sind in der Lage, Fehler zu korrigieren oder Lücken zu
 Verlässt diese Person das Unternehmen, ist das sehr häufig das Ende für die Lösung.
 
 Das ist ein Dilemma.
-Standardsoftware kann eine individuelle Insellösungen nicht oder nur mit kostenpflichtiger Anpassung ersetzen.
+Standardsoftware kann eine individuelle Insellösung nicht oder nur mit kostenpflichtiger Anpassung ersetzen.
 Der Austausch einer Standardsoftware durch eine andere, leistungsfähigere Standardsoftware bedeutet eine risikoreiche und teure Migration.
 Der Einsatz einer nicht dokumentierten individuellen Lösung stellt für ein kleines Unternehmen ebenfalls ein nicht zu unterschätzendes Risiko dar.
 
