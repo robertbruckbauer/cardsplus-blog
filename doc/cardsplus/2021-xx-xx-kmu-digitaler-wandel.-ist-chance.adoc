@@ -78,3 +78,17 @@ Das ist ein kleines Dilemma.
 Standardsoftware kann eine individuelle Insellösungen nicht oder nur mit kostenpflichtiger Anpassung (Stichwort Customizing) ersetzen.
 Der Austausch einer Standardsoftware durch eine andere, leistungsfähigere Standardsoftware bedeutet eine risikoreiche und teure Migration.
 Der Einsatz einer nicht dokumentierten individuellen Lösung stellt für ein kleines Unternehmen ebenfalls ein nicht zu unterschätzendes Risiko dar.
+
+Der digitale Wandel ist eine Chance für ein KMU, individuelle Insellösungen in der gleichen Qualität und mit der selben Zuverlässigkeit wie Standardsoftware zu realisieren.
+Ziel ist nicht, Standardsoftware durch individuelle Anwendungen zu ersetzen.
+Leistbare, agil entwickelte und individuell gestaltete Anwendungen sollen Standardsoftware ergänzen.
+Und zwar als Ausdruck der Individualität des Unternehmens.
+
+---
+
+Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
+Die Ungeduldigen können sich den Quelltext der Anwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
+
+https://github.com/cardsplus/bootscs
+
+anschauen. Das Projekt dient als Beispiel für meine kommenden Beiträge.
