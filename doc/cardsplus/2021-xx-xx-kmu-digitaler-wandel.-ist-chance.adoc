@@ -50,4 +50,16 @@ Der Einsatz von Standardsoftware bedeutet für sie Kompromisse.
 Die Hersteller von Standardsoftware bieten eine funktionierend Lösung.
 Sie kann aber niemals den Unterschied machen.
 
-tbd Excel-Lösungen, z.B. Dienstplan
+Ich vermute, die Lösungen in den Unternehmen sind so vielfältig wie die Angebote, die es am Markt für Standardsoftware gibt.
+Spezielle Abkäufe im Unternehmen werden organisatorisch geregelt, ohne Unterstützung durch Software.
+Enagierte Beschäftigte schließen solche Lücken häufig mit individuellen Insellösungen.
+Dienstpläne sind ein typisches Beispiel.
+Führungskräfte planen den Dienst mit
+https://www.ionos.at/startupguide/produktivitaet/dienstplan-erstellen-in-excel[Excel-Dateien].
+Die Planung stellt sicher, dass die richtige Anzahl an Beschäftigten mit der richtigen Qualifikation zur richtigen Zeit am richtigen Ort im Einsatz sind.
+Der Dienstplan legt den Beginn und das Ende von Arbeitszeiten fest.
+Die Planung wird laufend an die aktuelle Situation angepasst, z.B. bei ungeplanten Ausfällen beim Personal.
+Die Beschäftigten melden die tatsächlichen Arbeitszeiten oder tragen sie selbst im Dienstplan ein.
+Einmal im Monat wird der Dienstplan verifiziert und die Ergebnisse in die Standardsoftware eingetragen.
+
+tbd Fazit
