@@ -70,9 +70,9 @@ Sie wird gewartet, d.h. Fehler werden korrigiert und Lücken geschlossen.
 
 Eine individuelle Insellösung passt optimal zu den Arbeitsabläufen im Unternehmen.
 Sie wird sehr häufig von einer Person erfunden, die dadurch effizienter ihre Aufgaben erledigen kann.
-Nur diese Person ist in der Lage, Fehler zu korrigieren oder Lücken zu schließen.
-Sie ist nicht dokumentiert.
-Verlässt diese Person das Unternehmen, stirbt die Insellösung.
+Die Lösung ist kaum dokumentiert.
+Nur ganz wenige Personen sind in der Lage, Fehler zu korrigieren oder Lücken zu schließen.
+Verlässt diese Person das Unternehmen, ist das sehr häufig das Ende für die Lösung.
 
 Das ist ein kleines Dilemma.
 Standardsoftware kann eine individuelle Insellösungen nicht oder nur mit kostenpflichtiger Anpassung (Stichwort Customizing) ersetzen.
