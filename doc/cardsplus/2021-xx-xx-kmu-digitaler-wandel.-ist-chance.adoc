@@ -74,8 +74,8 @@ Die Lösung ist kaum dokumentiert.
 Nur ganz wenige Personen sind in der Lage, Fehler zu korrigieren oder Lücken zu schließen.
 Verlässt diese Person das Unternehmen, ist das sehr häufig das Ende für die Lösung.
 
-Das ist ein kleines Dilemma.
-Standardsoftware kann eine individuelle Insellösungen nicht oder nur mit kostenpflichtiger Anpassung (Stichwort Customizing) ersetzen.
+Das ist ein Dilemma.
+Standardsoftware kann eine individuelle Insellösungen nicht oder nur mit kostenpflichtiger Anpassung ersetzen.
 Der Austausch einer Standardsoftware durch eine andere, leistungsfähigere Standardsoftware bedeutet eine risikoreiche und teure Migration.
 Der Einsatz einer nicht dokumentierten individuellen Lösung stellt für ein kleines Unternehmen ebenfalls ein nicht zu unterschätzendes Risiko dar.
 
@@ -91,4 +91,5 @@ Die Ungeduldigen können sich den Quelltext der Anwendung mit etwas reduzierter 
 
 https://github.com/cardsplus/bootscs
 
-anschauen. Das Projekt dient als Beispiel für meine kommenden Beiträge.
+anschauen.
+Das Projekt dient als Beispiel für meine Beiträge.
