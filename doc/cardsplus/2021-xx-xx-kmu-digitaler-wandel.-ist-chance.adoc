@@ -87,9 +87,8 @@ Und zwar als Ausdruck der Individualität des Unternehmens.
 ---
 
 Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
-Die Ungeduldigen können sich den Quelltext der Anwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
+Die Ungeduldigen können sich den Quelltext einer Beispielanwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
 
 https://github.com/cardsplus/bootscs
 
 anschauen.
-Das Projekt dient als Beispiel für meine Beiträge.
