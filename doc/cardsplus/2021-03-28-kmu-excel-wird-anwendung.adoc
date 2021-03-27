@@ -44,10 +44,10 @@ https://www.linkedin.com/pulse/7-biggest-excel-mistakes-all-time-andrew-hoag
 
 https://blogs.oracle.com/smb/10-of-the-costliest-spreadsheet-boo-boos-in-history
 
-Die `Excel`-Insellösung kann durch eine individuelle Web-Anwendung ersetzt werden, um alle Probleme zu lösen.
+Die `Excel`-Insellösung kann durch eine individuelle Web-Anwendung ersetzt werden.
 
 *Eine Web-Anwendung kann nicht unkontrolliert verteilt werden.*
-Sie kann auf verschiedenen Arbeitsgeräten aufgerufen.
+Sie kann auf verschiedenen Arbeitsgeräten aufgerufen werden.
 Auf den Arbeitsgeräten muss nur ein geeigneter Web-Browser installiert sein.
 Verteilt wird nur der Link auf die Anwendung.
 
