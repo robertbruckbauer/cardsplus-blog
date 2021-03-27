@@ -88,12 +88,12 @@ Nur Verwalter können kritische Funktionen aufrufen, z.B. externe Schnittstellen
 Durch individuelle Programmierung gibt es hier keine Grenzen.
 
 *Eine Web-Anwendung ist gespeichertes Wissen.*
-Datenstrukturen der Web-Anwendung beschreiben wichtige Daten.
-Algorithmen berücksichten Zusammenhänge zwischen den Daten. 
+Datenstrukturen der Web-Anwendung beschreiben Eigenschaften wichtiger Daten.
+Verfahren im Umgang mit diesen Daten führen werden zu Algorithmen.
 Abläufe im Unternehmen beeinflussen die Gestaltung der Bedienoberfläche.
-Quelltext ist lesbares Wissen.
+Der Quelltext, ggfs. mit Kommentaren der Entwickler, ist wichtiges explizites Wissen über das Unternehmen.
 
-Die Liste der Vorteile eine Web-Anwendung im Vergleich zu `Excel` ist lang.
+Die Liste der Vorteile einer Web-Anwendung im Vergleich zu `Excel` ist lang.
 Die Argumente sprechen für eine Web-Anwendung.
 Es gibt aber auch einen Nachteil.
 Die Kosten.
