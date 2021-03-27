@@ -1,0 +1,111 @@
+= Excel-Insellösung wird Web-Anwendung
+
+Das Office-Programm `Excel` ist eine weit verbreitete Standardsoftware in Millionen von Unternehmen auf der ganzen Welt.
+KMU nutzen das Programm für vielfältige Zwecke:
+Auftragsverwaltung,
+https://www.it-im-kmu.com/microsoft365/#Ausgangssituation3[Projektplanung], 
+https://www.it-im-kmu.com/microsoft365/#Ausgangssituation1[Einsatzplanung], 
+https://www.it-im-kmu.com/microsoft365/#Ausgangssituation5[Preiskalkulation],
+Finanzprognosen,
+Risikomanagement, 
+https://www.it-im-kmu.com/microsoft365/#Ausgangssituation4[Genehmigungsprozesse],
+u.v.m.
+Excel bietet mehr als Tabellenkalkulationen.
+Komplexe Berechnungen, umfangreiche Formulare und optisch ansprechende Diagramme sind nur einige Beispiele.
+Es braucht wenig Zeit, um eine Excel-Anwendung zu erstellen.
+
+Der Nutzen von `Excel` steht außer Frage.
+
+Die `Excel`-Insellösung kann sich schnell in eine `Excel`-Hölle verwandeln.
+Die Datei wird per E-Mail oder Chat geteilt.
+Sie liegt in unzähligen Versionen auf verschiedenen Arbeitsgeräten oder geteilten Ablagen im Netzwek des Unternehmens oder in der Cloud.
+Es ist unklar, welcher Stand der letzte, gültige ist.
+Eine gleichzeitige Bearbeitung einer Datei ist praktisch unmöglich.
+Eine konsequente Organisation kann dieses Problem lösen.
+Es erfordert aber große Disziplin bei den Nutzern.
+
+Die Formeln bilden das Fundament einer `Excel`-Insellösung.
+Sie sind wichtiges Wissen.
+Die Ergebnisse der Formeln beeinflussen Vorgänge im Unternehmen (z.B. Dienstpläne) oder steuern finanzielle Transaktionen (z.B. Preiskalkulation).
+Eine Formel kann aber sehr leicht durch _Copy & Paste_ unabsichtlich durch einen festen Wert überschrieben werden.
+Tritt ein Fehler auf, sind die Nutzer schnell überfordert.
+Sie übernehmen den Lösungsvorschlag, den `Excel` anbietet, ohne alle Zusammenhänge zu verstehen.
+Die Folge ist, dass die `Excel`-Insellösung nicht mehr wie geplant funktioniert.
+
+[,businessinsider.com,2013]
+____
+It's all in JP Morgan's 129 page report on the $6 billion trading loss. In an appendix on page 127, the report talks about how one London-based quant was working on a new VaR (Value at Risk) model for the Chief Investment Office.
+On top of not being tested correctly, the report states that the model suffered from some pretty standard Excel flaws.
+____
+
+Eine Recherche im Internet zeigt sehr schnell, dass Probleme mit `Excel` kein Einzelfall sind, z.B.
+
+https://www.linkedin.com/pulse/7-biggest-excel-mistakes-all-time-andrew-hoag
+
+https://blogs.oracle.com/smb/10-of-the-costliest-spreadsheet-boo-boos-in-history
+
+Die `Excel`-Insellösung kann durch eine individuelle Web-Anwendung ersetzt werden, um alle Probleme zu lösen.
+
+*Eine Web-Anwendung kann nicht unkontrolliert verteilt werden.*
+Sie kann auf verschiedenen Arbeitsgeräten aufgerufen.
+Auf den Arbeitsgeräten muss nur ein geeigneter Web-Browser installiert sein.
+Verteilt wird nur der Link auf die Anwendung.
+
+*Eine Web-Anwendung steuert die Eingabe.*
+Nutzer sehen nur die Felder, die sie sehen können.
+Feldvalidierung sorgt dafür, dass Daten korrekt eingegeben wertden.
+Formularvalidierung sorgt dafür, dass die Eingaben vollständig sind.
+Es gibt *keine* Möglichkeit, eine Formel zu überschreiben oder zu ändern.
+Eine komplexe Eingabe kann auch gestaffelt werden.
+Die Daten werden thematisch gegliedert eingegeben, z.B. bei einem Auftrag werden zuerst die Daten des Aufraggebers eingegeben, dann die geforderten Leistung und zum Schluss die Adresse für die Zustellung.
+In jedem Schritt werden die eingegebenen Daten validiert.
+Eine unvollständige Eingabe ist unmöglich.
+Damit vermeidet man nicht nur Fehler beim Umgang mit den Daten, sondern erhöht auch gleichzeitig den Komfort für die Nutzer.
+
+*Eine Web-Anwendung wird programmiert.*
+Das bedeutet, dass es einen Entwicklungsprozess gibt.
+Der Quellcode der Anwendung wird versioniert, d.h. Änderungen sind *immer* nachvollziehbar.
+Die Änderungen werden geplant.
+Agile Methoden sorgen hier für hohe Qualität.
+In kleinen Schritten wird die Software geändert, getestet und dokumentiert.
+In kurzen Abständen kann die Software für die Nutzer bereitgestellt.
+Die Aktualisierung einer modernen Web-Anwendung, die in der Cloud betrieben wird, bedeutet keinen oder nur eine kurze Unterbrechung der Verfügbarkeit.
+
+*Eine Web-Anwedung kann skaliert werden*
+Eine `Excel`-Datei ist keine Datenbank und lässt sich nicht skalieren.
+Die Web-Anwendung nutzt eine relationale Datenbank.
+Der Einsatz von Transaktionen, _Caching_ oder _Pooling_ sorgt für mehr Effizienz und Performanz.
+
+*Eine Web-Anwendung erlaubt Mehrfachnutzung.*
+Anders als eine `Excel`-Datei kann die Web-Anwendung von mehreren Nutzern gleichzeitig verwendet werden.
+Die gleichzeitige Änderung gleicher Daten wird spätestens beim Speichern in der Datenbank verhindert.
+Der Konflikt wird entweder automatisch nach festen Regeln gelöst oder dem Nutzer angezeigt.
+
+*Eine Web-Anwendung hat ein Berechtigungskonzept*.
+Nutzer haben Rollen.
+Eine Web-Anwendung unterscheidet mindestens Verwalter und Bearbeiter.
+Nur Verwalter können kritische Funktionen aufrufen, z.B. externe Schnittstellen, oder Systemparameter ändern, die die Funktionen des Web-Anwendung beeinflussen.
+Durch individuelle Programmierung gibt es hier keine Grenzen.
+
+*Eine Web-Anwendung ist gespeichertes Wissen.*
+Datenstrukturen der Web-Anwendung beschreiben wichtige Daten.
+Algorithmen berücksichten Zusammenhänge zwischen den Daten. 
+Abläufe im Unternehmen beeinflussen die Gestaltung der Bedienoberfläche.
+Quelltext ist lesbares Wissen.
+
+Die Liste der Vorteile eine Web-Anwendung ist lang.
+Die Argumente sprechen für eine Web-Anwendung.
+Es gibt aber auch einen Nachteil.
+Die Kosten.
+Sie entstehen durch die Herstellung der Software, den Betrieb der Web-Anwendung und die Wartung.
+Mit dem Gesamtkonzept `esy` können die Kosten kontrolliert werden.
+`bootscs` ist die Basis-Software dazu.
+
+---
+
+Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
+Die Ungeduldigen können sich den Quelltext einer Beispielanwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
+
+https://github.com/cardsplus/bootscs
+
+anschauen.

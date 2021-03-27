@@ -1,5 +1,0 @@
-= Excel-Insellösung wird eine browser-basierte App
-
-tbd Excel-Lösung am Beispiel Dienstplan
-
-tbd bootscs-App für Einsatzplanung
