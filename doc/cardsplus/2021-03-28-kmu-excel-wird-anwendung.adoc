@@ -18,7 +18,7 @@ Der Nutzen von `Excel` steht außer Frage.
 
 Die `Excel`-Insellösung kann sich schnell in eine `Excel`-Hölle verwandeln.
 Die Datei wird per E-Mail oder Chat geteilt.
-Sie liegt in unzähligen Versionen auf verschiedenen Arbeitsgeräten oder geteilten Ablagen im Netzwek des Unternehmens oder in der Cloud.
+Sie liegt in unzähligen Versionen auf verschiedenen Arbeitsgeräten oder geteilten Ablagen im Netzwerk des Unternehmens oder in der Cloud.
 Es ist unklar, welcher Stand der letzte bzw. gültige ist.
 Eine gleichzeitige Bearbeitung einer Datei ist praktisch unmöglich.
 Eine konsequente Organisation kann dieses Problem lösen.
@@ -52,13 +52,11 @@ Auf den Arbeitsgeräten muss nur ein geeigneter Web-Browser installiert sein.
 Verteilt wird nur der Link auf die Anwendung.
 
 *Eine Web-Anwendung steuert die Eingabe.*
-Nutzer sehen nur die Felder, die sie sehen können.
-Feldvalidierung sorgt dafür, dass Daten korrekt eingegeben werden.
-Formularvalidierung sorgt dafür, dass die Eingaben vollständig sind.
+In Formularen sorgt die Feldvalidierung dafür, dass Daten korrekt eingegeben werden.
 Es gibt *keine* Möglichkeit, eine Formel zu überschreiben oder zu ändern.
-Eine komplexe Eingabe kann auch gestaffelt werden.
-Die Daten werden thematisch gegliedert eingegeben, z.B. bei einem Auftrag werden zuerst die Daten des Aufraggebers eingegeben, dann die geforderten Leistung und zum Schluss die Adresse für die Zustellung.
-In jedem Schritt werden die eingegebenen Daten validiert.
+Eine komplexe Eingabe wird gestaffelt.
+Die Daten werden thematisch gegliedert eingegeben, z.B. bei einem Auftrag zuerst die Daten des Aufraggebers, dann die geforderten Leistung und zum Schluss die Adresse für die Zustellung.
+Vor dem Abschluss eines Bearbeitungvorganges werden die eingegebenen Daten unter Berücksichtigung von Abhängigkeiten validiert.
 Eine unvollständige Eingabe ist unmöglich.
 Damit vermeidet man nicht nur Fehler beim Umgang mit den Daten, sondern erhöht auch gleichzeitig den Komfort für die Nutzer.
 
