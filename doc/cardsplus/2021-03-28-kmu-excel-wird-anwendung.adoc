@@ -53,7 +53,7 @@ Verteilt wird nur der Link auf die Anwendung.
 
 *Eine Web-Anwendung steuert die Eingabe.*
 Nutzer sehen nur die Felder, die sie sehen können.
-Feldvalidierung sorgt dafür, dass Daten korrekt eingegeben wertden.
+Feldvalidierung sorgt dafür, dass Daten korrekt eingegeben werden.
 Formularvalidierung sorgt dafür, dass die Eingaben vollständig sind.
 Es gibt *keine* Möglichkeit, eine Formel zu überschreiben oder zu ändern.
 Eine komplexe Eingabe kann auch gestaffelt werden.
