@@ -19,7 +19,7 @@ Der Nutzen von `Excel` steht außer Frage.
 Die `Excel`-Insellösung kann sich schnell in eine `Excel`-Hölle verwandeln.
 Die Datei wird per E-Mail oder Chat geteilt.
 Sie liegt in unzähligen Versionen auf verschiedenen Arbeitsgeräten oder geteilten Ablagen im Netzwek des Unternehmens oder in der Cloud.
-Es ist unklar, welcher Stand der letzte, gültige ist.
+Es ist unklar, welcher Stand der letzte bzw. gültige ist.
 Eine gleichzeitige Bearbeitung einer Datei ist praktisch unmöglich.
 Eine konsequente Organisation kann dieses Problem lösen.
 Es erfordert aber große Disziplin bei den Nutzern.
@@ -32,7 +32,7 @@ Tritt ein Fehler auf, sind die Nutzer schnell überfordert.
 Sie übernehmen den Lösungsvorschlag, den `Excel` anbietet, ohne alle Zusammenhänge zu verstehen.
 Die Folge ist, dass die `Excel`-Insellösung nicht mehr wie geplant funktioniert.
 
-[,businessinsider.com,2013]
+[,businessinsider.com (2013)]
 ____
 It's all in JP Morgan's 129 page report on the $6 billion trading loss. In an appendix on page 127, the report talks about how one London-based quant was working on a new VaR (Value at Risk) model for the Chief Investment Office.
 On top of not being tested correctly, the report states that the model suffered from some pretty standard Excel flaws.
@@ -93,7 +93,7 @@ Algorithmen berücksichten Zusammenhänge zwischen den Daten.
 Abläufe im Unternehmen beeinflussen die Gestaltung der Bedienoberfläche.
 Quelltext ist lesbares Wissen.
 
-Die Liste der Vorteile eine Web-Anwendung ist lang.
+Die Liste der Vorteile eine Web-Anwendung im Vergleich zu `Excel` ist lang.
 Die Argumente sprechen für eine Web-Anwendung.
 Es gibt aber auch einen Nachteil.
 Die Kosten.
