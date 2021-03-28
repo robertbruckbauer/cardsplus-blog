@@ -24,7 +24,7 @@ Eine gleichzeitige Bearbeitung einer Datei ist praktisch unmöglich.
 Eine konsequente Organisation kann dieses Problem lösen.
 Es erfordert aber große Disziplin bei den Nutzern.
 
-Die Formeln bilden das Fundament einer `Excel`-Insellösung.
+Formeln bilden das Fundament einer `Excel`-Insellösung.
 Sie sind wichtiges Wissen.
 Die Ergebnisse der Formeln beeinflussen Vorgänge im Unternehmen (z.B. Dienstpläne) oder steuern finanzielle Transaktionen (z.B. Preiskalkulation).
 Eine Formel kann aber sehr leicht durch _Copy & Paste_ unabsichtlich durch einen festen Wert überschrieben werden.
@@ -72,7 +72,7 @@ Die Aktualisierung einer modernen Web-Anwendung, die in der Cloud betrieben wird
 *Eine Web-Anwedung kann skaliert werden*
 Eine `Excel`-Datei ist keine Datenbank und lässt sich nicht skalieren.
 Die Web-Anwendung nutzt eine relationale Datenbank.
-Der Einsatz von Transaktionen, _Caching_ oder _Pooling_ sorgt für mehr Effizienz und Performanz.
+Der Einsatz von Transaktionen, _Caching_ oder _Pooling_ sorgt für mehr Effizienz und Leistungsfähigkeit.
 
 *Eine Web-Anwendung erlaubt Mehrfachnutzung.*
 Anders als eine `Excel`-Datei kann die Web-Anwendung von mehreren Nutzern gleichzeitig verwendet werden.
@@ -82,14 +82,14 @@ Der Konflikt wird entweder automatisch nach festen Regeln gelöst oder dem Nutze
 *Eine Web-Anwendung hat ein Berechtigungskonzept*.
 Nutzer haben Rollen.
 Eine Web-Anwendung unterscheidet mindestens Verwalter und Bearbeiter.
-Nur Verwalter können kritische Funktionen aufrufen, z.B. externe Schnittstellen, oder Systemparameter ändern, die die Funktionen des Web-Anwendung beeinflussen.
+Nur Verwalter können kritische Funktionen aufrufen (z.B. externe Schnittstellen) oder Systemparameter ändern, welche die Funktionen der Web-Anwendung beeinflussen.
 Durch individuelle Programmierung gibt es hier keine Grenzen.
 
 *Eine Web-Anwendung ist gespeichertes Wissen.*
 Datenstrukturen der Web-Anwendung beschreiben Eigenschaften wichtiger Daten.
-Verfahren im Umgang mit diesen Daten führen werden zu Algorithmen.
-Abläufe im Unternehmen beeinflussen die Gestaltung der Bedienoberfläche.
-Der Quelltext, ggfs. mit Kommentaren der Entwickler, ist wichtiges explizites Wissen über das Unternehmen.
+Verfahrensweisen im Umgang mit diesen Daten führen zu Algorithmen.
+Abläufe im Unternehmen beeinflussen die Gestaltung der Ansichten.
+Der Quelltext, ggfs. mit Kommentaren der Entwickler, ist darum wichtiges explizites Wissen über das Unternehmen.
 
 Die Liste der Vorteile einer Web-Anwendung im Vergleich zu `Excel` ist lang.
 Die Argumente sprechen für eine Web-Anwendung.
