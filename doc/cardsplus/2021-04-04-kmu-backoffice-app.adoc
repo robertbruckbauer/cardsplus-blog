@@ -18,7 +18,9 @@ Eine Leistungserfassung sorgt für schnelle und korrekte Abrechnung.
 In einer Zeiterfassung erfassen Beschäftigte ihre Arbeitszeiten selbst. 
 Alle Funktionen einer Standardsoftware sind miteinander verknüpft.
 Über Schnittstellen werden Daten ausgetauscht.
-Für diesen Beitrag gilt die Prämisse, dass ihr Einsatz wohl überlegt und sinnvoll ist.
+
+Für diesen Beitrag gilt die Prämisse, dass der Einsatz von Standardsoftware wohl überlegt und für das Unternehmen sinnvoll ist.
+Für meine späteren Überlegung gelten noch folgende weitere Prämissen.
 
 ---
 
@@ -40,10 +42,10 @@ Die Angaben aus der Web-Seite der Herstellers sind ohne Gewähr.
 Standardsoftware ist immer eine Kompromiss für ein Unternehmen.
 Individuelle Vorgänge oder Hierarchien im Unternehmen lassen sich nicht oder nur unvollständig in der Software abbilden.
 Begriffe, die in der Software verwendet werden, unterscheiden sich von den Begriffen, die im Unternehmen verwendet werden.
-Je nach Hersteller gibt es mehr oder weniger Möglichkeiten, die Software anzupassen.
+Je nach Hersteller gibt es mehr oder weniger Möglichkeiten, die Software an indviduelle Bedürfnisse in einem Unternehmen anzupassen.
 In der Regel ist so eine Anpassung aber mit zusätzlichen Kosten verbunden.
 
-1. Die Lizenzen für die Nutzung der Software werden teurer.
+1. Die Software kann nur mit einer teureren `Pro`- oder `Enterprise`-Lizenz angepasst werden.
 2. Die Software kann nur als kostenpflichtige Dienstleistung von einem Experten angepasst werden.
 3. Die Software kann durch kostenpflichtige Programmierung individuell erweitert werden.
 
@@ -78,7 +80,7 @@ Trotz Checkliste wird die Leistungserfassung praktisch nur vom Unternehmer genut
 Sie ist wichtig für die Bestimmung von Kapazitäten als Grundlage für die Auftragsplanung.
 
 Die Beschäftigten erfassen ihre Arbeitszeit in Dienstplänen, die als Excel-Dateien vorliegen.
-Diese Dienstpläne werden einmal im Monat vom Unternehmer selbst oder einer Assistentin in seinem Auftrag geprüft, ggfs. nach Rücksprache mit dem Beschäftigten korrigiert und in das System für die Leistungserfassung manuell übertragen.
+Diese Dienstpläne werden einmal im Monat vom Unternehmer selbst oder einer Assistent*in in seinem Auftrag geprüft, ggfs. nach Rücksprache mit dem Beschäftigten korrigiert und in das System für die Leistungserfassung manuell übertragen.
 Die Excel-Dateien werden von den Führungskräften selbst gepflegt.
 Schulungsunterlagen gibt es keine.
 Im Onboarding erklärt die Führungskraft einem neuen Beschäftigten das Vorgehen und die Verwendung der Excel-Datei.
@@ -89,7 +91,7 @@ Bevor ein Beschäftigter die Software nutzen kann, muss er geschult werden.
 Schulungsunterlagen des Herstellers (z.B. ein Handbuch und eine Reihe von Videos) liegen vor.
 Sie werden für die Schulung unverändert verwendet.
 Es fehlt leider eine Integration mit der Leistungserfassung.
-Beim Abschluss eines Auftrages werden die Daten aus dem System für die Leistungserfassung vom Unternehmer selbst oder einer Assistentin in seinem Auftrag manuell in das System für die Buchhaltung übernommen.
+Beim Abschluss eines Auftrages werden die Daten aus dem System für die Leistungserfassung vom Unternehmer selbst oder einer Assistent*in in seinem Auftrag manuell in das System für die Buchhaltung übernommen.
 Bei einem Auftrag für einen Neukunden werden vorher die Stammdaten für den neuen Kunden angelegt.
 
 ---
