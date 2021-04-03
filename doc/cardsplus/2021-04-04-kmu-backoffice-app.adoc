@@ -152,18 +152,25 @@ Sie stellt kein außergewöhnliches Risiko dar.
 Die Web-Anwendung kostet Geld.
 Sie muss hergestellt werden.
 Sie hat laufende Kosten für den Betrieb und Wartung, aber keine Lizenzkosten.
-Die Kosten müssen mit den Kosten verrechnet werden, die durch die Schwachstellen kontinuierlich entstehen.
-Das sind Kosten, die entstehen, weil Daten korrigiert werden müssen, weil sie entweder falsch eingegeben oder falsch übertragen wurden.
-Das sind Kosten, die entstehen, wenn falsche Daten zu fehlerhafter Preiskalkulation oder Kapazitätsplanung führen.
-Das sind Kosten, die durch fehlerhafte Abrechnung entstehen, weil Leistungsdaten falsch eingegeben wurden oder fehlten.
+
+Die Web-Anwendung nicht zu machen kostet auch Geld.
+Indirekt.
+Daten werden weiterhin manuell übertragen.
+Dabei passieren Fehler, die korrigiert werden.
+Das kostet Zeit.
+Zeit ist Geld.
+Manche Fehler werden nicht sofort gefunden.
+Falsche Daten führen zu fehlerhafter Preiskalkulation oder Kapazitätsplanung.
+Die Folge sind unzufriedene Kunden.
+Das kann finanzielle Schäden nach sich ziehen.
+Zumindest aber leidet der Ruf des Unternehmens.
+Es geht auch um die Frage, welchen Wert Qualität in einem Unternehmen hat.
 
 Mit dem Gesamtkonzept `esy` können die Kosten für Herstellung und Wartung minimiert werden.
-`bootscs` ist die Basis-Software dazu, die den Betrieb in der Cloud ermöglicht.
+`bootscs` ist die Basis-Software dazu, die den Betrieb der Web-Anwendung in der Cloud ermöglicht.
 Robust.
 Skalierbar.
 Mit Kostenkontrolle.
-
-Es geht auch um die Frage, welchen Wert Qualität in einem Unternehmen hat.
 
 ---
 
