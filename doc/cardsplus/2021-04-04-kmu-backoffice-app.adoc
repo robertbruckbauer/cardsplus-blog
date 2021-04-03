@@ -15,7 +15,7 @@ Mit einem Terminkalender werden wichtige Termine zentral organisiert.
 In einer Datenbank werden Kontakte von Kunden und Lieferanten gepflegt und sicher aufbewahrt.
 Aufträge werden termingerecht abgewickelt und angemessen dokumentiert. 
 Eine Leistungserfassung sorgt für schnelle und korrekte Abrechnung.
-In einer Zeiterfassung erfassen Beschäftigte ihre Arbeitszeiten selbst. 
+In einer Zeiterfassung geben Beschäftigte ihre Arbeitszeiten selbst ein. 
 Alle Funktionen einer Standardsoftware sind miteinander verknüpft.
 Über Schnittstellen werden Daten ausgetauscht.
 
