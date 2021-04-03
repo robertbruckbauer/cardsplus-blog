@@ -35,8 +35,8 @@ Will man das Produkt anpassen, dann liegt die Gebühr schon bei 150€.
 Möchte man auch noch Support haben, dann enden wir bei 300€.
 Die Angaben aus der Web-Seite der Herstellers sind ohne Gewähr.
 
-Mit stegenden Nutzerzahlen steigen die absoluten Kosten.
-Sie steigen sogar enorm, wenn die Progression der Geühren in groben Schritten erfolgt.
+Mit steigenden Nutzerzahlen steigen die absoluten Kosten.
+Sie steigen sogar enorm, wenn die Progression der Gebühren in groben Schritten erfolgt.
 Mehr Nutzer bedeutet außerdem, dass ein Ausfall der Anwendung spürbare finanzielle Schäden verursacht.
 Der Wunsch nach Support steigt.
 Und damit auch der Lizenzpreis.
@@ -46,7 +46,7 @@ Und damit auch der Lizenzpreis.
 *Standardsoftware wird teurer, je mehr individuelle Anpassungen gemacht werden.*
 Standardsoftware ist immer eine Kompromiss für ein Unternehmen.
 Individuelle Vorgänge oder Hierarchien im Unternehmen lassen sich nicht oder nur unvollständig in der Software abbilden.
-Begriffe, die in der Software verwendet werden, unterscheiden sich von den Begriffen, die im Unternehmen verwendet werden.
+Begriffe, die in der Software verwendet werden, unterscheiden sich von Begriffen, die im Unternehmen verwendet werden.
 Je nach Hersteller gibt es mehr oder weniger Möglichkeiten, die Software an indviduelle Bedürfnisse in einem Unternehmen anzupassen.
 In der Regel ist so eine Anpassung aber mit zusätzlichen Kosten verbunden.
 
@@ -66,7 +66,7 @@ Die Kosten steigen, je mehr eine Standardsoftware an individuelle Vorgaben angep
 ---
 
 *Standardprodukte bieten stabile Schnittstellen, die langfristig verfügbar sind.*
-Je weiter der digitale Wandel in einem Unternehmen fortgeschritte ist, desto mehr Standardsoftware ist im Einsatz.
+Je weiter der digitale Wandel in einem Unternehmen fortgeschritten ist, desto mehr Standardsoftware ist im Einsatz.
 Jede Standardsoftware muss daher in eine wachsende IT-Landschaft integriert werden.
 Standardsoftware bietet dafür Standardschnittstellen.
 Standardschnittstellen sind sehr häufig herstellerübergreifend als Industriestandard genormt.
@@ -80,7 +80,7 @@ Das Standardprodukt für die Leistungserfassung ist umfangreich und kompliziert.
 Bevor ein Beschäftigter die Software nutzen kann, muss er geschult werden.
 Schulungsunterlagen des Herstellers (z.B. ein Handbuch und eine Reihe von Videos) liegen vor.
 Für die interne Schulung gibt es aber eine umfassende Excel-Checkliste, die vom Unternehmer selbst erstellt wurde, weil die Software zu viele Funktionen hat, die nicht genutzt werden.
-Die Checkliste beschreibt exakt, wie ein Auftrag erfasst wird und die erbrachten Leistung dokumentiert werden.
+Die Checkliste beschreibt exakt, wie ein Auftrag erfasst wird und die erbrachten Leistungen dokumentiert werden.
 Der Unternehmer ist der einzige Experte für die Beschäftigten, wenn sie Rückfragen haben.
 Trotz Checkliste wird die Leistungserfassung praktisch nur vom Unternehmer genutzt.
 Sie ist wichtig für die Bestimmung von Kapazitäten als Grundlage für die Auftragsplanung.
@@ -88,7 +88,7 @@ Sie ist wichtig für die Bestimmung von Kapazitäten als Grundlage für die Auft
 Die Beschäftigten erfassen ihre Arbeitszeit in Dienstplänen, die als Excel-Dateien vorliegen.
 Diese Dienstpläne werden einmal im Monat vom Unternehmer selbst oder einer Assistent*in in seinem Auftrag geprüft, ggfs. nach Rücksprache mit dem Beschäftigten korrigiert und in das System für die Leistungserfassung manuell übertragen.
 Die Excel-Dateien werden von den Führungskräften selbst gepflegt.
-Sie sind es auch, die Rückfragen der Beschäftigen beantworten.
+Sie sind es auch, die Rückfragen der Beschäftigten beantworten.
 Schulungsunterlagen gibt es keine.
 Im Onboarding erklärt die Führungskraft einem neuen Beschäftigten einmal das Vorgehen und die Verwendung der Excel-Datei.
 
@@ -125,7 +125,7 @@ In den Ansichten werden Begriffe verwendet, wie sie im Unternehmen gelten.
 Hilfetexte und Ausfüllhilfen unterstützen die Nutzer der Web-Anwendung.
 
 *Ad 2.*
-Die Web-Anwendung ersetzt die getilten Excel-Dateien.
+Die Web-Anwendung ersetzt die geteilten Excel-Dateien.
 Es gibt nur eine Version der Ansicht für die Eingabe.
 Die eingegebenen Daten werden nach einer Validierung über eine Schnittstelle in das System für die Leistungserfassung übertragen.
 Die Regeln für die Valisierung sind individuell für das Unternehmen.
@@ -133,11 +133,11 @@ Die Excel-Dateien können jederzeit als Bericht erstellt werden.
 Sie gelten aber als Kopien.
 
 *Ad 3.*
-Wird eine Auftrag in System der Leistungserfassung abgeschlossen, dann werden die Daten zusätzlich über eine Schnittstelle auch an das System für die Buchhaltung übertragen.
+Wird ein Auftrag in System der Leistungserfassung abgeschlossen, dann werden die Daten zusätzlich über eine Schnittstelle auch an das System für die Buchhaltung übertragen.
 Ggfs. wird vorher ein Neukunde in den Stammdaten angelegt.
 
 Mit der Web-Anwendung werden die wichtigen individuellen Vorgänge im Unternehmen individuell abgebildet.
-Die Qualität der Daten steigt, weil es keine fehleranfälligen manulle Übertragungen von Daten gibt.
+Die Qualität der Daten steigt, weil es keine fehleranfällige manuelle Übertragungen von Daten gibt.
 Die Schulung für die Beschäftigten wird massiv vereinfacht.
 Die Ansichten sind maßgeschneidert und durch die Begriffe des Unternehmens für alle verständlich.
 Sie enthalten Hilfetexte und Ausfüllhilfen für die Eingaben.
@@ -146,7 +146,7 @@ Durch die Synchronisierung der Daten aus der Web-Anwendung über die Schnittstel
 Nur Verwalter müssen besonders geschult werden.
 Sie können das volle Potential der Standardsoftware ausnutzen.
 
-Die Web-Anwendung ist ein weiteres System in einer wachstenden IT-Landschaft eines Unternehmens im digitalen Wandel.
+Die Web-Anwendung ist ein weiteres System in einer wachsenden IT-Landschaft eines Unternehmens im digitalen Wandel.
 Sie stellt kein außergewöhnliches Risiko dar.
 
 Die Web-Anwendung kostet Geld.
