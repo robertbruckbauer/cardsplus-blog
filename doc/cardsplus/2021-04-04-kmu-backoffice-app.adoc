@@ -1,0 +1,159 @@
+= Individuelle Lösung mit Backoffice-App
+
+KMU nutzen Standardsoftware in vielen Bereichen des Unternehmens.
+Das Spektrum der eingesetzten Software beginnt mit allseits bekannten Office-Produkten (z.B. von
+https://www.microsoft.com/de-de/microsoft-365/business/compare-all-microsoft-365-business-products[Microsoft])
+und endet mit komplexer Software für CRM (z.B. 
+https://www.salesforce.com/de/solutions/small-business-solutions/why-salesforce[Salesforce]),
+ERP (z.B. 
+https://www.sage.com/de-at/erp[Sage])
+oder HR (z.B.
+https://www.personio.de[Personio]).
+Die Gründe für den Einsatz solcher Standardprodukte sind vielfältig.
+In einer digitalen Lösung sind viele Daten auf einen Klick verfügbar.
+Mit einem Terminkalender werden wichtige Termine zentral organisiert.
+In einer Datenbank werden Kontakte von Kunden und Lieferanten gepflegt und sicher aufbewahrt.
+Aufträge werden termingerecht abgewickelt und angemessen dokumentiert. 
+Eine Leistungserfassung sorgt für schnelle und korrekte Abrechnung.
+In einer Zeiterfassung erfassen Beschäftigte ihre Arbeitszeiten selbst. 
+Alle Funktionen einer Standardsoftware sind miteinander verknüpft.
+Über Schnittstellen werden Daten ausgetauscht.
+Für diesen Beitrag gilt die Prämisse, dass ihr Einsatz wohl überlegt und sinnvoll ist.
+
+---
+
+*Standardsoftware wird teurer, je mehr Nutzer sie verwenden.*
+Mit dem Erfolg eines Unternehmens steigt in der Regel auch die Anzahl der Nutzer der Standardsoftware.
+Die Gebühr für die Nutzung unterliegt bei den meisten Herstellern einer Progression, d.h. je mehr Nutzer desto günster der Preis pro Nutzer.
+Allerdings steigen die absoluten Kosten trotzdem, weil die Progression der Geühren in groben Schritten erfolgt.
+Bei 
+https://www.salesforce.com/de/editions-pricing/sales-cloud/[Salesforce]
+kostet CRM in der Cloud pro Monat für bis zu 10 Nutzer 25€.
+Ab dem 11. Nutzer sind es 75€.
+Will man das Produkt anpassen, dann liegt die Gebühr schon bei 150€.
+Möchte man auch noch Support haben, dann enden wir bei 300€.
+Die Angaben aus der Web-Seite der Herstellers sind ohne Gewähr.
+
+---
+
+*Standardsoftware wird teurer, je mehr individuelle Anpassungen gemacht werden.*
+Standardsoftware ist immer eine Kompromiss für ein Unternehmen.
+Individuelle Vorgänge oder Hierarchien im Unternehmen lassen sich nicht oder nur unvollständig in der Software abbilden.
+Begriffe, die in der Software verwendet werden, unterscheiden sich von den Begriffen, die im Unternehmen verwendet werden.
+Je nach Hersteller gibt es mehr oder weniger Möglichkeiten, die Software anzupassen.
+In der Regel ist so eine Anpassung aber mit zusätzlichen Kosten verbunden.
+
+1. Die Lizenzen für die Nutzung der Software werden teurer.
+2. Die Software kann nur als kostenpflichtige Dienstleistung von einem Experten angepasst werden.
+3. Die Software kann durch kostenpflichtige Programmierung individuell erweitert werden.
+
+Punkt 1 ist oft Voraussetzung für die Punkte 2 und 3.
+Vor allem Punkt 3 führt zu einer großen Abhängigkeit des KMU von Hersteller der Software.
+Und es besteht immer das Risiko, dass durch Änderungen im Standardprodukt auch die individuelle Programmierung geändert werden muss.
+Das führt zu weiteren Kosten oder zum Verlust der individuellen Anpassung.
+Standardsoftware verursacht also zusätzliche Kosten.
+Mit den allgemein üblichen Abo-Modellen der Hersteller sind das laufende Kosten.
+Die Kosten steigen, je mehr eine Stanardsoftware an individuelle Vorgaben angepasst wird.
+
+---
+
+*Standardprodukte bieten stabile Schnittstellen, die langfristig verfügbar sind.*
+Je weiter der digitale Wandel in einem KMU fortgeschritte ist, desto mehr Standardsoftware ist im Einsatz.
+Jede Standardsoftware muss daher in eine wachsende die IT-Landschaft integriert werden.
+Standardsoftware bietet dafür Standardschnittstellen.
+Standardschnittstellen sind sehr häufig herstellerübergreifend als Industriestandard genormt (z.B. ´LDAP` für Benutzerverwaltung).
+Auf jeden Fall sind Schnittstellen langfristig verfügbar und gut dokumentiert.
+
+---
+
+Nehmen wir an, ein Unternehmen in der Logisitik-Branche nutzt Office-Produkte von Microsoft und setzt auf Standardsoftware für die Buchhaltung und Leistungserfassung.
+
+Das Standardprodukt für die Leistungserfassung ist umfangreich und kompliziert.
+Bevor ein Beschäftigter die Software nutzen kann, muss er geschult werden.
+Schulungsunterlagen des Herstellers (z.B. ein Handbuch und eine Reihe von Videos) liegen vor.
+Für die SChulung gibt es aber eine umfassende Excel-Checkliste, die vom Unternehmer selbst erstellt wurde, weil die Software zu viele Funktionen hat, die nicht genutzt werden.
+Die Checkliste beschreibt exakt, wie ein Auftrag erfasst wird und die erbrachten Leistung dokumentiert werden.
+Der Unternehmer ist der einzige Experte für die Beschäftigten, wenn sie Rückfragen haben.
+Trotz Checkliste wird die Leistungserfassung praktisch nur vom Unternehmer genutzt.
+Sie ist wichtig für die Bestimmung von Kapazitäten als Grundlage für die Auftragsplanung.
+
+Die Beschäftigten erfassen ihre Arbeitszeit in Dienstplänen, die als Excel-Dateien vorliegen.
+Diese Dienstpläne werden einmal im Monat vom Unternehmer selbst oder einer Assistentin in seinem Auftrag geprüft, ggfs. nach Rücksprache mit dem Beschäftigten korrigiert und in das System für die Leistungserfassung manuell übertragen.
+Die Excel-Dateien werden von den Führungskräften selbst gepflegt.
+Schulungsunterlagen gibt es keine.
+Im Onboarding erklärt die Führungskraft einem neuen Beschäftigten das Vorgehen und die Verwendung der Excel-Datei.
+Sie sind es auch, die Rückfragen der Beschäftigen beantworten.
+
+Das Standardprodukt für die Buchhaltung ist einfach.
+Bevor ein Beschäftigter die Software nutzen kann, muss er geschult werden.
+Schulungsunterlagen des Herstellers (z.B. ein Handbuch und eine Reihe von Videos) liegen vor.
+Sie werden für die Schulung unverändert verwendet.
+Es fehlt leider eine Integration mit der Leistungserfassung.
+Beim Abschluss eines Auftrages werden die Daten aus dem System für die Leistungserfassung vom Unternehmer selbst oder einer Assistentin in seinem Auftrag manuell in das System für die Buchhaltung übernommen.
+Bei einem Auftrag für einen Neukunden werden vorher die Stammdaten für den neuen Kunden angelegt.
+
+---
+
+In diesem Szenario gibt es drei wesentliche Schwachstellen.
+
+1. Das Wissen über den Einsatz der Software ist beschränkt auf wenige Personen.
+Die Schulungsunterlagen sind nicht ausreichend.
+2. Dienstpläne werden in geteilten Excel-Dateien eingegeben und manuell in die Leistungserfassung übertragen.
+Excel-Dateien liegen in unterschiedlichen Version vor.
+Die manuelle Übertragung der Daten ist fehleranfällig.
+3. Aufträge werden für die Abrechnung manuell aus dem System für Leistungserfassung in das System für die Buchhaltung übertragen.
+Die manuelle Übertragung der Daten ist fehleranfällig.
+
+Alle drei Schwachstellen können durch eine individuelle Web-Anwendung gelöst werden.
+
+*Ad 1.*
+Die Web-Anwendung zeigt Dienstpläne und Aufträge an.
+Sie unterscheidet Bearbeiter und Verwalter.
+Nur Verwalter sehen alle Daten.
+Die Web-Anwendung hat individuell gestaltete Ansichten für die Eingabe von Daten.
+Die Eingaben werden beschränkt.
+Die Regeln sind individuell für das Unternehmen.
+In den Ansichten werden Begriffe verwendet, wie sie im Unternehmen gelten.
+Hilfetexte und Ausfüllhilfen unterstützen die Nutzer der Web-Anwendung.
+
+*Ad 2.*
+Die Web-Anwendung ersetzt die getilten Excel-Dateien.
+Es gibt nur eine Version der Ansicht für die Eingabe.
+Die eingegebenen Daten werden nach einer Validierung über eine Schnittstelle in das System für die Leistungserfassung übertragen.
+Die Regeln für die Valisierung sind individuell für das Unternehmen.
+Die Excel-Dateien können jederzeit als Bericht erstellt werden.
+Sie gelten aber als Kopien.
+
+*Ad 3.*
+Wird eine Auftrag in System der Leistungserfassung abgeschlossen, dann werden die Daten zusätzlich über eine Schnittstelle auch an das System für die Buchhaltung übertragen.
+Ggfs. wird vorher ein Neukunde in den Stammdaten angelegt.
+
+Mit der Web-Anwendung werden die wichtigen individuellen Vorgänge im Unternehmen individuell abgebildet.
+Die Qualität der Daten steigt, weil es keine fehleranfälligen manulle Übertragungen von Daten gibt.
+Die Schulung für die Beschäftigten wird massiv vereinfacht.
+Die Ansichten sind maßgeschneidert und durch die Begriffe des Unternehmens für alle verständlich.
+Sie enthalten Hilfetexte und Ausfüllhilfen für die Eingaben.
+
+Durch die Synchronisierung der Daten aus der Web-Anwendung über die Schnittstellen in die Systeme für die Leistungserfassung und Buchhaltung können Verwalter alle Funktionen der Standardsoftware nutzen.
+Nur Verwalter müssen besonders geschult werden.
+Sie können das volle Potential der Standardsoftware ausnutzen.
+
+Die Web-Anwendung ist ein weiteres System in einer wachstenden IT-Landschaft eines Unternehmens im digitalen Wandel.
+Sie stellt kein außergewöhnliches Risiko dar.
+
+Die Web-Anwendung kostet Geld.
+Die Kosten müssen aber mit den Kosten verrechnet werden, die durch die Schwachstellen kontinuierlich entstehen.
+Das sind Kosten, die entstehen, weil Daten korrigiert werden müssen, weil sie entweder falsch eingegeben oder falsch übertragen wurden.
+Das sind Kosten, die entstehen, wenn falsche Daten zu fehlerhafter Preiskalkulation oder Kapazitätsplanung führen.
+Das sind Kosten, die durch fehlerhafte Abrechnung entstehen, weil Leistungsdaten falsch eingegeben wurden oder fehlten.
+
+Es geht auch um die Frage, welchen Wert Qualität in einem Unternehmen hat.
+
+---
+
+Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
+Die Ungeduldigen können sich den Quelltext einer Beispielanwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
+
+https://github.com/cardsplus/bootscs
+
+anschauen.
