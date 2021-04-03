@@ -3,3 +3,11 @@
 Gleiches Deployment in Entwicklung, Test und Produktion.
 
 Gleiches Deployment für Cloud (in einem Rechenzentrum) und On-Premise (in den eigenen Räumlichkeiten, vor Ort oder lokal).
+
+Google Cloud Kubernetes Autopilot
+
+https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot
+
+https://www.youtube.com/watch?v=_JKsv2BtAnY
+
+https://t3n.de/news/komplex-google-launcht-fuer-1358912/
