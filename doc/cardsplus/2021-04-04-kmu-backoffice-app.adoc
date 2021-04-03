@@ -27,7 +27,6 @@ Für meine späteren Überlegung gelten noch folgende weitere Prämissen.
 *Standardsoftware wird teurer, je mehr Nutzer sie verwenden.*
 Mit dem Erfolg eines Unternehmens steigt in der Regel auch die Anzahl der Nutzer der Standardsoftware.
 Die Gebühr für die Nutzung unterliegt bei den meisten Herstellern einer Progression, d.h. je mehr Nutzer desto günster der Preis pro Nutzer.
-Allerdings steigen die absoluten Kosten trotzdem, weil die Progression der Geühren in groben Schritten erfolgt.
 Bei 
 https://www.salesforce.com/de/editions-pricing/sales-cloud/[Salesforce]
 kostet CRM in der Cloud pro Monat für bis zu 10 Nutzer 25€.
@@ -35,6 +34,12 @@ Ab dem 11. Nutzer sind es 75€.
 Will man das Produkt anpassen, dann liegt die Gebühr schon bei 150€.
 Möchte man auch noch Support haben, dann enden wir bei 300€.
 Die Angaben aus der Web-Seite der Herstellers sind ohne Gewähr.
+
+Mit stegenden Nutzerzahlen steigen die absoluten Kosten.
+Sie steigen sogar enorm, wenn die Progression der Geühren in groben Schritten erfolgt.
+Mehr Nutzer bedeutet außerdem, dass ein Ausfall der Anwendung spürbare finanzielle Schäden verursacht.
+Der Wunsch nach Support steigt.
+Und damit auch der Lizenzpreis.
 
 ---
 
@@ -50,10 +55,11 @@ In der Regel ist so eine Anpassung aber mit zusätzlichen Kosten verbunden.
 3. Die Software kann durch kostenpflichtige Programmierung individuell erweitert werden.
 
 Punkt 1 ist oft Voraussetzung für die Punkte 2 und 3.
-Vor allem Punkt 3 führt zu einer großen Abhängigkeit des Unternehmens von Hersteller der Software.
-Und es besteht immer das Risiko, dass durch Änderungen im Standardprodukt auch die individuelle Programmierung geändert werden muss.
-Das führt zu weiteren Kosten oder zum Verlust der individuellen Anpassung.
-Standardsoftware verursacht also zusätzliche Kosten.
+Vor allem Punkt 3 führt zu einer großen Abhängigkeit des Unternehmens vom Hersteller der Software.
+Und es besteht immer das Risiko, dass durch Änderungen in der Standardversion auch die individuelle Programmierung geändert werden muss.
+Das führt zu weiteren Kosten oder zum Verlust der individuellen Programmierung.
+
+Standardsoftware mit Anpassungen verursacht also zusätzliche Kosten.
 Mit den allgemein üblichen Abo-Modellen der Hersteller sind das laufende Kosten.
 Die Kosten steigen, je mehr eine Standardsoftware an individuelle Vorgaben angepasst wird.
 
