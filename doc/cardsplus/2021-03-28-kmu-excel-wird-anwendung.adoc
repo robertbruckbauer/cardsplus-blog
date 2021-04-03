@@ -56,7 +56,7 @@ In Formularen sorgt die Feldvalidierung dafür, dass Daten korrekt eingegeben we
 Es gibt *keine* Möglichkeit, eine Formel zu überschreiben oder zu ändern.
 Eine komplexe Eingabe wird gestaffelt.
 Die Daten werden thematisch gegliedert eingegeben, z.B. bei einem Auftrag zuerst die Daten des Aufraggebers, dann die geforderten Leistung und zum Schluss die Adresse für die Zustellung.
-Vor dem Abschluss eines Bearbeitungvorganges werden die eingegebenen Daten unter Berücksichtigung von Abhängigkeiten validiert.
+Vor dem Abschluss eines Bearbeitungsvorganges werden die eingegebenen Daten unter Berücksichtigung von Abhängigkeiten validiert.
 Eine unvollständige Eingabe ist unmöglich.
 Damit vermeidet man nicht nur Fehler beim Umgang mit den Daten, sondern erhöht auch gleichzeitig den Komfort für die Nutzer.
 
@@ -69,7 +69,7 @@ In kleinen Schritten wird die Software geändert, getestet und dokumentiert.
 In kurzen Abständen kann die Software für die Nutzer bereitgestellt.
 Die Aktualisierung einer modernen Web-Anwendung, die in der Cloud betrieben wird, bedeutet keinen oder nur eine kurze Unterbrechung der Verfügbarkeit.
 
-*Eine Web-Anwedung kann skaliert werden*
+*Eine Web-Anwendung kann skaliert werden*
 Eine `Excel`-Datei ist keine Datenbank und lässt sich nicht skalieren.
 Die Web-Anwendung nutzt eine relationale Datenbank.
 Der Einsatz von Transaktionen, _Caching_ oder _Pooling_ sorgt für mehr Effizienz und Leistungsfähigkeit.
