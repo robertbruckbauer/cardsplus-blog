@@ -80,7 +80,7 @@ Das Standardprodukt für die Leistungserfassung ist umfangreich und kompliziert.
 Sie ist wichtig für die Bestimmung von Kapazitäten als Grundlage für die Auftragsplanung.
 Bevor ein Beschäftigter die Software nutzen kann, muss er geschult werden.
 Schulungsunterlagen des Herstellers liegen vor.
-Für die interne Schulung gibt es aber eine umfassende Excel-Checkliste, die vom Unternehmer selbst erstellt wurde, weil die Software zu viele Funktionen hat, die nicht genutzt werden.
+Für die interne Schulung gibt es eine umfassende Excel-Checkliste, die vom Unternehmer selbst erstellt wurde, weil die Software zu viele Funktionen hat, die nicht genutzt werden.
 Die Checkliste beschreibt exakt, wie ein Auftrag erfasst wird und die erbrachten Leistungen dokumentiert werden.
 Der Unternehmer ist der einzige Experte für die Beschäftigten, wenn sie Rückfragen haben.
 
