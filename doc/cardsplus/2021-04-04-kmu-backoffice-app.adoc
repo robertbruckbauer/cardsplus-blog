@@ -51,8 +51,8 @@ Je nach Hersteller gibt es mehr oder weniger Möglichkeiten, die Software an ind
 In der Regel ist so eine Anpassung mit zusätzlichen Kosten verbunden.
 
 1. Die Software kann nur mit einer teureren `Pro`- oder `Enterprise`-Lizenz angepasst werden.
-2. Die Software kann als kostenpflichtige Dienstleistung von einem Experten angepasst werden.
-3. Die Software kann durch kostenpflichtige Programmierung individuell erweitert werden.
+2. Die Software wird als kostenpflichtige Dienstleistung von einem Experten angepasst.
+3. Die Software wird durch kostenpflichtige Programmierung individuell erweitert.
 
 Punkt 1 ist oft Voraussetzung für die Punkte 2 und 3.
 Vor allem Punkt 3 führt zu einer großen Abhängigkeit des KMU vom Hersteller der Software.
