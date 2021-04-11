@@ -2,7 +2,7 @@
 
 In vorangegangenen Beiträgen habe ich versucht, Gründe zu finden, warum ein KMU eine individuelle Anwendung braucht.
 Der Einsatz von Individualsoftware empfiehlt sich besonders in den Fällen, in denen die Software Teil des Kerngeschäftes ist.
-Um sich von der Konkurrenz abzugrenzen und in bestimmten Punkten außergewöhnlich stark zu sein, lohnt es sich, diese Stärken mithilfe einer eigens entwickelten Software zu unterstützen.
+Die eigenen Stärken mithilfe einer selbst entwickelten Software zu unterstützen kann den Unterschied machen.
 
 https://www.xing.com/communities/posts/excel-inselloesung-wird-web-anwendung-1021654096
 
