@@ -8,7 +8,7 @@ https://www.xing.com/communities/posts/individuelle-backoffice-app-fuer-das-kmu-
 
 Eine Excel-Insellösung kann zum Risiko werden.
 Standardsoftware kann nicht ausreichend an besondere Bedürfnisse im KMU angepasst werden.
-In beiden Fällen ist eine individuelle Anwendung eine möglich Lösung.
+In beiden Fällen ist eine individuelle Anwendung eine geeignete Lösung.
 
 Was hindert also ein KMU, individuelle Anwendungen einzusetzen?
 
@@ -16,6 +16,7 @@ Was hindert also ein KMU, individuelle Anwendungen einzusetzen?
 Die Leistungen der Cloud-Dienste haben ihren Preis.
 Die Kosten sind abhängig von den benötigten Ressourcen.
 Daten in der Cloud zu speichern kostet ebenfalls Geld.
+Cloud-Dienstleister bieten eine Vielzahl an Preis- und Nutzungsmodellen an, die den Zugang und die Nutzung von Cloud-Ressourcen auf unterschiedliche Weise berechnen. 
 
 *Fehlendes Wissen über die Möglichkeiten von Cloud-Technologien.*
 Die ersten Angebote für Online-Dienste wurden von Amazon im Jahr 2006 ins Leben gerufen.
@@ -29,8 +30,21 @@ Kontrollverlust und Sicherheitsrisiken zählen zu den häufigsten Argumenten geg
 Datenschützer kritisieren die Anbieter von Cloud-Diensten.
 Bei Umfragen geben Unternehmer an, dass sie sich vor einen unberechtigten Zugriff auf sensible Unternehmensdaten fürchten.
 Der Brand eines Rechenzentrums in 2021 hat gezeigt, dass auch die Cloud eine physische Grundlage hat.
+Gibt ein Unternehmen seine IT aus der Hand, so verliert es in bestimmtem Umfang auch die Steuerungsmöglichkeiten.
 
 ---
+
+Cloud-Technologien haben schon längst Einzug gehalten in den KMU.
+Ungeplant.
+Beschäftigte nutzen -Cloud Storage_ für private Zwecke, z.B. Dropbox, Box, Gmx oder die kostenlosen Angebote von Google, Microsoft oder Drive.
+Sie kommunizieren mit WhatsApp, Facebook oder anderen Social-Media-Angeboten.
+Schnell passiert es, dass diese Dienste auch für berufliche Zwecke genutzt werden.
+Die Covid-19-bedingte Mobilarbeit hat diesen Trend noch verstärkt.
+Die Situation birgt jedoch große Risiken für Datenschutz und Informationssicherheit.
+
+Cloud-Technologien sind eine Chance für ein KMU.
+_Cloud Computing_ ist nicht bloß eine IT-Infrastruktur.
+Es ist ein flexibles Rechenzentrum – ortsunabhängig und ohne IT-Team nutzbar.
 
 https://www.informatik-aktuell.de/betrieb/virtualisierung/vorbehalte-gegen-cloud-computing-erwartungen-und-realitaet.html
 
