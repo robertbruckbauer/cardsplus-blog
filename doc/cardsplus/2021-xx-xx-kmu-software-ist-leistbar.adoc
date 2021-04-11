@@ -1,11 +1,67 @@
 = KMU-Software ist leistbar
 
+In vorangegangenen Beiträgen habe ich versucht, Gründe zu finden, warum ein KMU eine individuelle Anwendung braucht.
+
+https://www.xing.com/communities/posts/excel-inselloesung-wird-web-anwendung-1021654096
+
+https://www.xing.com/communities/posts/individuelle-backoffice-app-fuer-das-kmu-1021697116
+
+Eine Excel-Insellösung kann zum Risiko werden.
+Standardsoftware kann nicht ausreichend an besondere Bedürfnisse im KMU angepasst werden.
+In beiden Fällen ist eine individuelle Anwendung eine möglich Lösung.
+
+Was hindert also ein KMU, individuelle Anwendungen einzusetzen?
+
+*Angst vor einer Kostenexplosion.*
+Die Leistungen der Cloud-Dienste haben ihren Preis.
+Die Kosten sind abhängig von den benötigten Ressourcen.
+Daten in der Cloud zu speichern kostet ebenfalls Geld.
+
+*Fehlendes Wissen über die Möglichkeiten von Cloud-Technologien.*
+Die ersten Angebote für Online-Dienste wurden von Amazon im Jahr 2006 ins Leben gerufen.
+Cloud-basierte Anwendungen haben sich mittlerweile in der gesamten Wirtschaft durchgesetzt.
+Laut Bitkom nutzten drei von vier Unternehmen im Jahr 2019 Rechenleistungen aus der Cloud.
+Trotzdem fehlt häufig das Wissen über jene Cloud-Technologien, die über das Speichern von Kontakten, Bildern oder Dokumenten hinausgehen.
+Vielen Unternehmern ist nicht klar, wie einfach _Cloud Computing_ und _Cloud Storage_ mittlerweile genutzt werden kann.
+
+*Vorbehalte wegen Kontrollverlust durch die Cloud-Technologien.*
+Kontrollverlust und Sicherheitsrisiken zählen zu den häufigsten Argumenten gegen den Einsatz von Cloud-Technologien.
+Datenschützer kritisieren die Anbieter von Cloud-Diensten.
+Bei Umfragen geben Unternehmer an, dass sie sich vor einen unberechtigten Zugriff auf sensible Unternehmensdaten fürchten.
+Der Brand eines Rechenzentrums in 2021 hat gezeigt, dass auch die Cloud eine physische Grundlage hat.
+
+---
+
+https://www.informatik-aktuell.de/betrieb/virtualisierung/vorbehalte-gegen-cloud-computing-erwartungen-und-realitaet.html
+
+https://www.cloudcomputing-insider.de/vier-kostenfallen-in-der-cloud-a-800400/
+
+https://www.bitkom.org/Presse/Presseinformation/Drei-von-vier-Unternehmen-nutzen-Cloud-Computing
+
+https://www.handelsblatt.com/technik/it-internet/special-cloud-computing/it-recht-fallstricke-beim-cloud-computing/4031642-all.html
+
+Daten in der Cloud verschlüsseln 
+
+Solides Sicherungskonzept ist auch in der digitalen Welt erforderlich ist.
+
+Daten in der Cloud zu speichern kann Kosten sparen.
+Kein IT-Team reduziert Personalkosten.
+_NoOps_
+Kostenkontrolle durch _Auto Scaling_
+
+Der Einsatz von Individualsoftware empfiehlt sich besonders in den Fällen, in denen die Software Teil des Kerngeschäftes ist. Um sich von der Konkurrenz abzugrenzen und in bestimmten Punkten außergewöhnlich stark zu sein, lohnt es sich, diese Stärken mithilfe einer eigens entwickelten Software zu unterstützen.
+
+Grundsätzlich lässt sich sagen, dass viele Prozesse (z.B. die Lohnbuchhaltung oder das CRM) sich in den verschiedenen Unternehmen nicht sonderlich unterscheiden, wodurch hier eine individuelle Softwareentwicklung, vor allem in Hinblick auf die Kosten, keinen entscheidenden Vorteil bieten würde.
+
 Das Budget für die Software-Produktion ist begrenzt.
 Es fehlt der Spielraum für Experimente und Irrwege.
 Die Konsequenz ist, dass die Software-Produktion in kleinen Schritten und auf der Basis erprobter Software-Architekturen erfolgen muss.
 
-*Die Software-Produktion muss für ein KMU leistbar sein.*
+---
 
-Das Budget für die Software-Produktion ist begrenzt.
-Es fehlt der Spielraum für Experimente und Irrwege.
-Die Konsequenz ist, dass die Software-Produktion in kleinen Schritten und auf der Basis erprobter Software-Architekturen erfolgen muss.
+Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
+Die Ungeduldigen können sich den Quelltext einer Beispielanwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
+
+https://github.com/cardsplus/bootscs
+
+anschauen.
