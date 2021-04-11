@@ -49,7 +49,9 @@ Die Situation birgt jedoch große Risiken für Datenschutz und Informationssiche
 
 Cloud-Technologien sind eine Chance für ein KMU.
 _Cloud Computing_ ist nicht bloß eine IT-Infrastruktur.
-Es ist ein flexibles Rechenzentrum – ortsunabhängig und ohne IT-Team nutzbar.
+Es ist ein flexibles Rechenzentrum – ortsunabhängig und ohne eigenes IT-Team nutzbar.
+_Cloud Storage_ und Kommunikationskanäle werden vom Unternehmen bereitgestellt.
+Dadurch behält das Unternehme die Kontrolle über seine Daten.
 
 https://www.informatik-aktuell.de/betrieb/virtualisierung/vorbehalte-gegen-cloud-computing-erwartungen-und-realitaet.html
 
