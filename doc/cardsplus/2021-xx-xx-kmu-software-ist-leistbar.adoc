@@ -36,7 +36,12 @@ Gibt ein Unternehmen seine IT aus der Hand, so verliert es in bestimmtem Umfang 
 
 Cloud-Technologien haben schon längst Einzug gehalten in den KMU.
 Ungeplant.
-Beschäftigte nutzen -Cloud Storage_ für private Zwecke, z.B. Dropbox, Box, Gmx oder die kostenlosen Angebote von Google, Microsoft oder Drive.
+Beschäftigte nutzen _Cloud Storage_ für private Zwecke, z.B. 
+https://dropbox.com[Dropbox], 
+https://www.gmx.net/cloud[GMX] oder die Angebote von 
+https://www.google.at/drive[Google], 
+https://onedrive.live.com[Microsoft] oder
+https://www.amazon.de/clouddrive[Amazon].
 Sie kommunizieren mit WhatsApp, Facebook oder anderen Social-Media-Angeboten.
 Schnell passiert es, dass diese Dienste auch für berufliche Zwecke genutzt werden.
 Die Covid-19-bedingte Mobilarbeit hat diesen Trend noch verstärkt.
