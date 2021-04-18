@@ -1,0 +1,111 @@
+= KMU-Software in der Cloud
+
+In vorangegangenen Beiträgen habe ich versucht, Gründe zu finden, warum ein KMU eine individuelle Anwendung braucht.
+Die eigenen Stärken mithilfe einer selbst entwickelten Software zu unterstützen kann den Unterschied machen.
+
+https://www.xing.com/communities/posts/excel-inselloesung-wird-web-anwendung-1021654096
+
+https://www.xing.com/communities/posts/individuelle-backoffice-app-fuer-das-kmu-1021697116
+
+Eine Excel-Insellösung kann zum Risiko werden.
+Standardsoftware kann nicht ausreichend an besondere Bedürfnisse im KMU angepasst werden.
+In beiden Fällen ist eine individuelle Anwendung eine geeignete Lösung.
+
+Was hindert also ein KMU, individuelle Anwendungen einzusetzen?
+
+*Angst vor einer Kostenexplosion.*
+Die Leistungen der Cloud-Dienste haben ihren Preis.
+Die Kosten sind abhängig von den benötigten Ressourcen.
+Daten in der Cloud zu speichern kostet ebenfalls Geld.
+Cloud-Dienstleister bieten eine Vielzahl an Preis- und Nutzungsmodellen an, die den Zugang und die Nutzung von Cloud-Ressourcen auf unterschiedliche Weise berechnen. 
+
+*Fehlendes Wissen über die Möglichkeiten von Cloud-Technologien.*
+Die ersten Angebote für Online-Dienste wurden von Amazon im Jahr 2006 ins Leben gerufen.
+Cloud-basierte Anwendungen haben sich mittlerweile in der gesamten Wirtschaft durchgesetzt.
+Laut Bitkom nutzten drei von vier Unternehmen im Jahr 2019 Rechenleistungen aus der Cloud.
+Trotzdem fehlt häufig das Wissen über jene Cloud-Technologien, die über das Speichern von Kontakten, Bildern oder Dokumenten hinausgehen.
+Vielen Unternehmern ist nicht klar, wie einfach _Cloud Computing_ und _Cloud Storage_ mittlerweile genutzt werden kann.
+
+*Vorbehalte wegen Kontrollverlust durch die Cloud-Technologien.*
+Kontrollverlust und Sicherheitsrisiken zählen zu den häufigsten Argumenten gegen den Einsatz von Cloud-Technologien.
+Datenschützer kritisieren die Anbieter von Cloud-Diensten.
+Bei Umfragen geben Unternehmer an, dass sie sich vor einen unberechtigten Zugriff auf sensible Unternehmensdaten fürchten.
+Der Brand eines Rechenzentrums in 2021 hat gezeigt, dass auch die Cloud eine physische Grundlage hat.
+Gibt ein Unternehmen seine IT aus der Hand, so verliert es in bestimmtem Umfang auch die Steuerungsmöglichkeiten.
+
+---
+
+Cloud-Technologien haben schon längst Einzug gehalten in den KMU.
+Ungeplant.
+Beschäftigte nutzen _Cloud Storage_ für private Zwecke, z.B. 
+https://dropbox.com[Dropbox], 
+https://www.gmx.net/cloud[GMX] oder die Angebote von 
+https://www.google.at/drive[Google], 
+https://onedrive.live.com[Microsoft] oder
+https://www.amazon.de/clouddrive[Amazon].
+Sie kommunizieren mit 
+https://www.whatsapp.com[WhatsApp],
+https://www.facebook.com[Facebook]
+oder anderen Social-Media-Angeboten.
+Schnell passiert es, dass diese Dienste auch für berufliche Zwecke genutzt werden.
+Die Covid-19-bedingte Mobilarbeit hat diesen Trend noch verstärkt.
+Die Situation birgt jedoch große Risiken für Datenschutz und Informationssicherheit.
+
+Cloud-Technologien sind eine Chance für ein KMU.
+_Cloud Computing_ ist nicht bloß eine IT-Infrastruktur.
+Es ist ein flexibles Rechenzentrum – ortsunabhängig und ohne eigenes IT-Team nutzbar.
+_Cloud Storage_ und Kommunikationskanäle werden vom Unternehmen bereitgestellt.
+Dadurch behält das Unternehme die Kontrolle über seine Daten.
+
+Cloud-Technologien einzusetzen erfordert spezielles Wissen und vor allem Erfahrung.
+Die Wahl des richtigen Preismodells ist entscheidend.
+Der vermeintliche Kostenvorteil ist schnell hinfällig, wenn die tatsächliche Nutzung nicht kontinuierlich überprüft wird.
+Daten müssen verschlüsselt werden.
+Ein solides Sicherungskonzept ist auch in der digitalen Welt erforderlich.
+Daten in der Cloud zu speichern spart Kosten, wenn ein KMU kein eigenes IT-Team mehr braucht.
+_No Ops_ nennt sich das Konzept.
+Das Konzept basiert auf größtmöglicher Automatisierung bei der Installation der Software und kontinuierlicher Kontrolle aller Ressourcen der Anwendung im Betrieb.
+
+Ein KMU kann sich Erfahrung von einem Partnerunternehmen holen.
+Dieser strategische Partner für die Software-Entwicklung muss auf die besonderen Bedingungen in einem KMU Rücksicht nehmen.
+
+*Das Budget für die Software-Produktion ist begrenzt.*
+Einem KMU fehlt in der Regel der Spielraum für Experimente und Irrwege.
+Die Konsequenz ist, dass die Software-Produktion auf der Basis erprobter Software-Architekturen erfolgen muss.
+
+*Die Software-Produktion ist agil.*
+Das Wort „agil“ in seiner heutigen Bedeutung wurde vor allem durch das Manifest für agile Software-Entwicklung geprägt.
+KMU-Software kann agil entwickelt werden.
+Enge Zusammenarbeit von Kunde und Entwickler sorgt für Zufriedenheit auf beiden Seiten.
+
+*Die Software-Produktion ist inkrementell.*
+Agile Software-Entwicklung ist empi­risch, inkre­men­tell und itera­tiv.
+Durch Erfahrung und regelmäßige Beobachtung verbessern sich die Entwickler.
+Selbst­organi­siert. 
+In kur­zen Zyk­len ent­wickelt sie kunden­wirk­same Inkre­mente, maxi­mal moti­viert durch direktes Feedback vom Kunden.
+Durch Iteration, also das ständige Wiederholen von Tätigkeiten, werden Entwickler besser und können in der Folge schneller entwickeln -- mit gleichbleibendem Anspruch an die Qualität der Software.
+
+*Die Software ist vollständig dokumentiert.*
+Die Software-Produktion ist auf eine lange Zeit ausgerichtet.
+Dafür muss die Software in einem Umfang dokumentiert sein, der ausreicht, um langfristige Wartung zu gewährleisten.
+Da aber das Volumen des Auftrags nicht ausreicht, dass im Partnerunternehmen dafür ein permanentes Team vorgehalten wird, muss die Dokumentation so gut sein, dass ein Entwickler sich in kurzer Zeit einarbeiten kann.
+
+*Die Software gehört dem KMU.*
+Das Partnerunternehmen entwickelt die Software im Auftrag des KMU.
+Das KMU kann die Software lizenzfrei betreiben.
+
+Das Gesamtkonzept `esy` lässt sich sehr gut mit agiler Software-Entwicklung kombinieren.
+Mit `cards+` wird Dokumentation zur leistbaren Aufgabe. 
+`bootscs` ist die Basis-Software, die inkrementell an die Bedürfnisse eines KMU angepasst werden kann.
+Zielgerichtet.
+Schnell.
+Mit hoher Qualität.
+
+---
+
+Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
+Die Ungeduldigen können sich den Quelltext einer Beispielanwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
+
+https://github.com/cardsplus/bootscs
+
+anschauen.
