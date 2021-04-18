@@ -1,6 +1,6 @@
 = KMU-Software in der Cloud
 
-In vorangegangenen Beiträgen habe ich versucht, Gründe zu finden, warum ein KMU eine individuelle Anwendung braucht.
+In den beiden letzten Beiträgen in diesem Forum habe ich versucht, Gründe zu finden, warum ein KMU eine individuelle Anwendung braucht.
 Die eigenen Stärken mithilfe einer auf die Bedürfnisse des KMU zugeschnittenen individuell entwickelten Software zu unterstützen kann in jeder Branche den Unterschied machen.
 
 Was hindert also ein KMU, individuelle Anwendungen einzusetzen?
