@@ -1,0 +1,5 @@
+= KMU-Software ist leistbar
+
+Eine Excel-Insellösung kann zum Risiko werden.
+Standardsoftware kann nicht ausreichend an besondere Bedürfnisse im KMU angepasst werden.
+In beiden Fällen ist eine individuelle Anwendung eine geeignete Lösung.

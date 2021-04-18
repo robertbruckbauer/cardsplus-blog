@@ -1,15 +1,11 @@
 = KMU-Software in der Cloud
 
 In vorangegangenen Beiträgen habe ich versucht, Gründe zu finden, warum ein KMU eine individuelle Anwendung braucht.
-Die eigenen Stärken mithilfe einer selbst entwickelten Software zu unterstützen kann den Unterschied machen.
+Die eigenen Stärken mithilfe einer selbst entwickelten Software zu unterstützen kann in jeder Branche den Unterschied machen.
 
 https://www.xing.com/communities/posts/excel-inselloesung-wird-web-anwendung-1021654096
 
 https://www.xing.com/communities/posts/individuelle-backoffice-app-fuer-das-kmu-1021697116
-
-Eine Excel-Insellösung kann zum Risiko werden.
-Standardsoftware kann nicht ausreichend an besondere Bedürfnisse im KMU angepasst werden.
-In beiden Fällen ist eine individuelle Anwendung eine geeignete Lösung.
 
 Was hindert also ein KMU, individuelle Anwendungen einzusetzen?
 
@@ -17,7 +13,9 @@ Was hindert also ein KMU, individuelle Anwendungen einzusetzen?
 Die Leistungen der Cloud-Dienste haben ihren Preis.
 Die Kosten sind abhängig von den benötigten Ressourcen.
 Daten in der Cloud zu speichern kostet ebenfalls Geld.
-Cloud-Dienstleister bieten eine Vielzahl an Preis- und Nutzungsmodellen an, die den Zugang und die Nutzung von Cloud-Ressourcen auf unterschiedliche Weise berechnen. 
+Cloud-Dienstleister bieten eine Vielzahl an Preis- und Nutzungsmodellen an, die den Zugang und die Nutzung von Cloud-Ressourcen auf unterschiedliche Weise berechnen.
+Ein Vergleich ist in vielen Fällen schwierig.
+Erfahrung fehlt.
 
 *Fehlendes Wissen über die Möglichkeiten von Cloud-Technologien.*
 Die ersten Angebote für Online-Dienste wurden von Amazon im Jahr 2006 ins Leben gerufen.
@@ -80,15 +78,18 @@ Enge Zusammenarbeit von Kunde und Entwickler sorgt für Zufriedenheit auf beiden
 
 *Die Software-Produktion ist inkrementell.*
 Agile Software-Entwicklung ist empi­risch, inkre­men­tell und itera­tiv.
-Durch Erfahrung und regelmäßige Beobachtung verbessern sich die Entwickler.
+Durch Erfahrung und regelmäßige Beobachtung verbessern sich Kunde und Entwickler.
 Selbst­organi­siert. 
-In kur­zen Zyk­len ent­wickelt sie kunden­wirk­same Inkre­mente, maxi­mal moti­viert durch direktes Feedback vom Kunden.
-Durch Iteration, also das ständige Wiederholen von Tätigkeiten, werden Entwickler besser und können in der Folge schneller entwickeln -- mit gleichbleibendem Anspruch an die Qualität der Software.
+In kur­zen Zyk­len ent­wickelt sie kunden­wirk­same Inkre­mente, maxi­mal moti­viert durch gegenseitiges Feedback.
+Iteration, also das ständige Wiederholen von Tätigkeiten, macht Entwickler besser.
+In der Folge können sie schneller entwickeln -- mit gleichbleibendem Anspruch an die Qualität der Software.
 
 *Die Software ist vollständig dokumentiert.*
-Die Software-Produktion ist auf eine lange Zeit ausgerichtet.
+Software-Produktion für ein KMU wird auf eine lange Zeit ausgerichtet.
 Dafür muss die Software in einem Umfang dokumentiert sein, der ausreicht, um langfristige Wartung zu gewährleisten.
-Da aber das Volumen des Auftrags nicht ausreicht, dass im Partnerunternehmen dafür ein permanentes Team vorgehalten wird, muss die Dokumentation so gut sein, dass ein Entwickler sich in kurzer Zeit einarbeiten kann.
+Eine Unterbrechung der Software-Produktion ist der Normalfall. 
+Nur bei Bedarf wird sie neu gestartet.
+Die Dokumentation muss so gut sein, dass ein Entwickler sich in kurzer Zeit einarbeiten kann.
 
 *Die Software gehört dem KMU.*
 Das Partnerunternehmen entwickelt die Software im Auftrag des KMU.
