@@ -27,7 +27,7 @@ Vielen Unternehmern ist nicht klar, wie einfach _Cloud Computing_ und _Cloud Sto
 *Vorbehalte wegen Kontrollverlust durch die Cloud-Technologien.*
 Kontrollverlust und Sicherheitsrisiken zählen zu den häufigsten Argumenten gegen den Einsatz von Cloud-Technologien.
 Datenschützer kritisieren die Anbieter von Cloud-Diensten.
-Bei Umfragen geben Unternehmer an, dass sie sich vor einen unberechtigten Zugriff auf sensible Unternehmensdaten fürchten.
+Bei Umfragen geben Unternehmer an, dass sie sich vor einem unberechtigten Zugriff auf sensible Unternehmensdaten fürchten.
 Der Brand eines Rechenzentrums in 2021 hat gezeigt, dass auch die Cloud eine physische Grundlage hat.
 Gibt ein Unternehmen seine IT aus der Hand, so verliert es in bestimmtem Umfang auch die Steuerungsmöglichkeiten.
 
