@@ -1,5 +1,114 @@
 = KMU-Software ist leistbar
 
-Eine Excel-Insellösung kann zum Risiko werden.
-Standardsoftware kann nicht ausreichend an besondere Bedürfnisse im KMU angepasst werden.
-In beiden Fällen ist eine individuelle Anwendung eine geeignete Lösung.
+Unter dem Begriff Individualsoftware, auch individuelle Software genannt, versteht man eine speziell auf die Bedürfnisse eines Anwenders oder einer Anwendergruppe abgestimmte und somit maßgeschneiderte entwickelte Software.
+Mit einer Individualsoftware ist dein Unternehmen absolut flexibel. Diese Softwarelösung ist maßgeschneidert auf deine Geschäftsprozesse, stetig erweiterbar und ebenso skalierbar.
+Eine individuelle Software ist wie ein maßgeschneiderter Anzug. 
+Sie entscheiden, was Ihre neue Software leisten soll und welchen Funktionsumfang Sie benötigen. 
+Von der Farbe der Anwendung bis hin zur genauen Definition der Funktionen können Sie während der Entwicklung Ihrer Software selbst bestimmen, wie Ihre perfekte Software aussehen soll.
+
+Standardsoftware bedeutete, dass die Software für eine breite Masse an Usern geschrieben wurde und mittels Lizenzierung vertrieben wird. 
+Es wird nicht auf individuelle Bedürfnisse der einzelnen User eingegangen, sondern eine Menge an verschiedenen Standard-Features angeboten. 
+Die Kosten für die Entwicklung dieser Standardsoftware werden daher auf sehr viele tausende Nutzer aufgeteilt. 
+
+Von Standartsoftware spricht man, wenn es bereits Lösungen für weit verbreitete Aufgaben gibt. 
+Ein gutes Beispiel hierfür ist ein Textverarbeitungsprogramm wie OpenOffice, mit dem man Texte schreiben kann. 
+Viele Menschen müssen Texte schreiben, haben dabei aber verschiedene Schwerpunkte. 
+So unterscheidet sich eine Doktorarbeit in Struktur und Formatierung ziemlich von einer Gebrauchsanweisung. 
+Das Office-Programm bietet als Standartsoftware unterschiedliche Formatierungsmöglichkeiten und kann daher beide Anforderungen abdecken. 
+Dadurch, dass die Software am Ende an sehr viele Benutzer verkauft wird, kann die meist aufwändige Entwicklung entsprechend verteilt werden. 
+So zahlt man als Lizenzgebühr meist einmalig einen überschaubaren Betrag zwischen einigen Euros und einigen hundert bis tausend Euros. 
+Aktuell gibt es eine Entwicklung in Richtung von Abo-Modellen für Cloudbasierte Software, bei denen eine monatliche Gebühr für ein Rundum-Sorglos-Paket gezahlt wird. 
+Dabei kommt der Benutzer immer in den Genuss der aktuellsten Version und braucht sich über Updates keine Sorgen mehr machen.
+
+Branchensoftware ist nicht ganz so universell nutzbar, löst dafür aber die Anforderungen einer bestimmten Zielgruppe sehr gut ab. 
+Ein Beispiel hierfür wäre die Buchungssoftware eines Restaurants. 
+Wahrscheinlich müssen alle Restaurants die konsumierten Speisen der verschiedenen Tische nachhalten, idealerweise Reservierungen verwalten können, Bestellungen sollten am besten direkt nach Aufnahme in der Küche in der richtigen Reihenfolge erscheinen und so weiter. 
+Hat nun ein Entwickler einmal eine entsprechende Software für ein Restaurant entwickelt, so kann er dieses Programm vielen weiteren Restaurants anbieten. 
+Für die Restaurants ist das oft deutlich günstiger als eine individuelle Lösung, auch wenn unter Umständen einige Komprisse in Kauf genommen oder der ein oder andere Geschäftsprozess umgestellt werden muss. 
+Auch die fortlaufende Betreuung ist günstiger, da der Aufwand entsprechend aufgeteilt werden kann.
+
+Sowohl bei Standard- als auch Branchensoftware zahlt der Benutzer durch die Mehrfachnutzung nur einen sehr überschaubaren Betrag für die Benutzung der Software. 
+Das die tatsächlichen Entwicklungskosten dabei sehr viel höher liegen, kann deshalb schnell aus dem Auge verloren werden.
+
+https://www.webrunners.de/wieviel-kostet-es-eine-software-entwickeln-zu-lassen/
+
+Es gibt individuelle Software, die genau auf die Bedürfnisse Ihres Unternehmens zugeschnitten ist. 
+Und es gibt Standardsoftware, auf die Sie alle Ihre Unternehmensprozesse zuschneiden müssen. 
+Was ist Ihnen lieber?
+
+Keine Software von der Stange. 
+Wir gehen auf individuelle Bedürfnisse und Herausforderungen ein und erarbeiten maßgeschneiderte digitale Lösungen für unsere Kunden.
+
+https://www.google.com/amp/s/digitalisierungscoach.com/2018/07/02/wieviel-kostet-es-eine-software-entwickeln-zu-lassen/amp/
+
+https://www.trinidat.de/software-wiki/individualsoftware-kosten/
+
+Standardsoftware scheint die kostengünstigere Lösung zu sein. 
+Die Schnelligkeit für die Bereitstellung der ersten 30 bis 70% Funktionsumfang und die kostengünstige Implementation in einer ersten Phase ist ein gutes Argument für den Einsatz von Standardsoftware und verlockt zu einem voreiligen Entscheid. 
+Bei näherer oder nachhaltiger Betrachtung trügt der Schein. 
+Standardsoftware stellt meist viele Funktionen bereit, die gar nicht benötigt werden. 
+Die Komplexität steigt dadurch, sowohl für die Programmierung, die Anpassung der unternehmensinternen Abläufe an die vorgegebenen Prozesse der Standardsoftware und auch für die Anwendung selbst, denn die Workflows können aufwändig und zeitraubend sein. 
+Diese Faktoren können die Kosten erhöhen, nicht nur bei der Implementation, sondern auch im Betrieb und für die Datenpflege.
+
+Oft ist eine Standardsoftware in der Gesamtbetrachtung teurer als eine Individualsoftware. 
+Denn individuelle Software wird von Anfang an auf Ihre Bedürfnisse hin massgeschneidert. 
+Unnötige Funktionen und Abhängigkeiten können weg gelassen werden. 
+Dennoch können alle Wünsche und Anforderungen erfüllt und angepasst werden.
+
+Wenn Sie sich für eine individuelle Softwarelösung entscheiden, dann haben Sie den Vorteil, dass Sie und Ihr Unternehmen selbst die Prozesse und Anforderungen definieren können. 
+Diese werden spezifiziert und durch Sie für die Umsetzung frei gegeben. Nach erfolgter Programmierung testen Sie die Funktionen auf Basis Ihrer Anforderungen. 
+Auch Korrekturen und Änderungen können vorgenommen und erneut getestet werden.
+
+Eine individuelle IT Lösung ist damit schlank und so individuell wie Ihr Unternehmen. Sie ist hinsichtlich individueller Prozesse von Anfang an besser und effizienter als eine out-of-the-box-Lösung.
+
+NEXT:IT MACHT SOFTWAREENTWICKLUNG BEZAHLBAR.
+OB FÜR EINE UMFASSENDE PROJEKTVERWALTUNG ODER FÜR DIE RECHNUNGSSTELLUNG UND ZAHLUNGSÜBERWACHUNG INKLUSIVE MAHNWESEN: 
+NEXT:IT ERARBEITET SOFTWARE-LÖSUNGEN, DIE PERFEKT ZU KLEINEN UND MITTLEREN BETRIEBEN PASSEN.
+Software-Lösungen, die Anwendern in Unternehmen einen Nutzen bringen, haben ihren Preis: 
+Insbesondere jährliche Lizenzgebühren, also die für die Überlassung eines Nutzungsrechts zu entrichtenden Gebühren, verteuern so manches Angebot. 
+Bei next:it legen wir deshalb großen Wert darauf, individuelle Geschäftsprozesse mit individuell entwickelten Software-Lösungen so zu unterstützen, dass unsere Auftraggeber nie mehr als einmal dafür bezahlen. 
+Das spart unterm Strich über die Nutzungsdauer Kosten in nicht unerheblicher Höhe.
+
+next:it entwickelt Software für Unternehmen aller Größen und Branchen – vom Architekturbüro über die Immobilienverwaltung bis zum zahntechnischen Labor (Dentallabor). 
+Gerne kalkulieren wir für Sie eine Softwareentwicklung, die Ihre Geschäftsprozesse im Kleinen oder im Großen unterstützt und deren Bezahlbarkeit gewährleistet ist.
+
+Software hat nur einen Zweck: 
+Das Leben zu erleichtern – und das beginnt schon bei der Entwicklung. 
+Wir leben und lieben cutting-edge Technologie und nutzen diese, um leistungsstarke Softwarelösungen mit hoher Geschäftskritikalität für unsere Businesskunden zu entwickeln. 
+Wir setzten ausschließlich auf solide und weit verbreitete Technologien, damit Ihre Software langfristig wartbar und skalierbar bleibt.
+
+Unternehmen sind umso erfolgreicher, je schneller oder besser sie auf sich ändernde Gegebenheiten reagieren, neue Geschäftschancen ergreifen sowie Kundendienstleistungen verbessern.
+
+Eine klare und durchdachte Architektur ist die Basis für die Qualität, Wartbarkeit und Leistungsfähigkeit Ihrer Software. 
+Die fundierte Struktur reduziert somit auch den Aufwand für zukünftige Features. 
+
+*Clean Code*
+Keep it simple and orderly – Wir folgen dem Prinzip Code muss intuitiv verständlich und leicht zu ändern sein. 
+Somit vermeiden wir unnötige Komplexität. 
+Software muss sich einfach an geänderte Anforderungen und Rahmenbedingungen anpassen lassen. 
+Sauberer Code garantiert Wartbarkeit, kurzer Einarbeitungszeiten und schnellere Umsetzungen.
+
+*Agil & transparent*
+Enge Zusammenarbeit und konstante Feedbackschleifen garantieren Ihnen höchste Flexibilität und Transparenz. 
+Wir entwickeln inkrementell enge Sprintzyklen halten die Risiken klein und überschaubar. 
+Ein auf Ihre individuellen Bedürfnisse angepasstes Team begleitet sie auf dem Weg zur idealen Softwarelösung.
+
+Wie kann individuelle Softwareentwicklung Ihrem Unternehmen helfen?
+Veränderungen des Geschäftsumfeldes sind eine der größten Herausforderungen für die meisten Unternehmen. Bei einer hohen Dynamik des Marktes können fehlende Anpassungen an aktuelle Bedingungen schwerwiegende Folgen haben. Daher ist es ein natürlicher und notwendiger Prozess, die Entwicklung von Software im Einklang mit dem Wachstum des Unternehmens zu bringen und auf individuelle/kundenspezifische Softwareentwicklung zu setzen.
+
+Wie kann individuelle Softwareentwicklung Ihrem Unternehmen helfen?
+Veränderungen des Geschäftsumfeldes sind eine der größten Herausforderungen für die meisten Unternehmen. Bei einer hohen Dynamik des Marktes können fehlende Anpassungen an aktuelle Bedingungen schwerwiegende Folgen haben. Daher ist es ein natürlicher und notwendiger Prozess, die Entwicklung von Software im Einklang mit dem Wachstum des Unternehmens zu bringen und auf individuelle/kundenspezifische Softwareentwicklung zu setzen.
+
+Grafik Produktivität zum Thema Kundenspezifische Software entwicklung
+Erhöhte Produktivität
+Software, die speziell für die individuellen Bedürfnisse Ihres Unternehmens entwickelt wurde, verkürzt Arbeitsabläufe, verbessert die Kommunikation und steigert die Effizienz Ihres Teams.
+
+Grafik Maßgeschneiderte Software zum Thema Kundenspezifische Software entwicklung
+Steigerung des Wettbewerbsvorteils
+Bei Standardsoftware sind Sie an den Entwicklungszyklus des Software-Herstellers gebunden und erhalten dieselben Updates wie Ihre Konkurrenz. Maßgeschneiderte Software wiederum ermöglicht Ihnen innovative Lösungen zu entwickeln und diese in kürzester Zeit an den Markt zu bringen.
+
+Grafik Schnelligkeit zum Thema Kundenspezifische Software entwicklung
+Kürzere Reaktionszeiten, schnellere Entscheidungen
+Maßgeschneiderte Prozesse und softwaregestützte Auswertungen ermöglichen es Ihren Mitarbeitern präzisere und schnellere Entscheidungen zu treffen und schaffen Ihrem Unternehmen einen erheblichen Wettbewerbsvorteil.
+
+https://www.google.com/amp/s/www.pumox.com/individualsoftware/kundenspezifische-software-entwicklung/amp
