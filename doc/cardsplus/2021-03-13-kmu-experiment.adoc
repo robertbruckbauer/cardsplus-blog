@@ -71,7 +71,7 @@ Ich versuche, meine Entscheidungen auf dem Weg zur Lösung nachvollziehbar zu be
 ---
 
 Gerne beantworte ich dazu auch Fragen in dieser Gruppe.
-Die Ungeduldigen können sich den Quelltext einer Beispielanwendung mit etwas reduzierter Funktionalität sofort im Github-Repository
+Die Ungeduldigen können sich den Quelltext einer Beispielanwendung mit reduzierter Funktionalität sofort im Github-Repository
 
 https://github.com/cardsplus/bootscs
 
