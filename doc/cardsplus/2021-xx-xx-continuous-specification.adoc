@@ -1,0 +1,28 @@
+
+
+CI, C Deployment, C Delivery. Allos kontinuierlich. Warum nicht auch kontinuierlich Dokumentieren?
+Das schlägt auch der Autor in 
+https://www.infoq.com/articles/continuous-documentation/
+vor.
+In vielen Dingen hat er recht.
+Bindung zum Code.
+Prüfbarkeit.
+Qualität.
+
+
+Aber Dokumentieren ist eon kreativer Prozess.
+Er kann nicht komplett automatisiert werden.
+
+Ein Architekturbild muss auf den Punkt bringen, um was es geht.
+Auf das wichtige reduzieren.
+Nicht mit Masse erschlagen.
+
+Eine Vision muss der Kunde verstehen.
+Sie muss in der Sprache der Nutzer geschrieben sein.
+Sie ist wichtiger Input für die Entwicklung.
+
+Besser: C Specification.
+Spring Rest Docs
+Schemadateien für Json, Avro, Protobuf oder XML
+Konfigurationsdateien, z.B. Kubernetes, deklarativ
+Sauberer Code, ausgeschnitten mit der include-Direktive von Asciidoc, garniert mit einer Überschrift und einen einführenden Satz.
