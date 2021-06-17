@@ -1,28 +1,66 @@
+= Warum nicht kontinuierlich Dokumentieren?
 
+In dem Beitrag mit dem Titel "Shifting to Continuous Documentation as a New Approach for Code Knowledge" erklärt der Autor das Prinzip der kontinuierlichen Dokumentation.
+Er bezieht sich dabei auf andere Prinzipien, die in der modernen Software-Entwicklung nicht mehr wegzudenken sind.
+Wir bauen und testen unsere Software kontinuierlich mit dem Ziel, früh Fehler zu entdecken (fail fast) und nennen es _Continuous Integration_.
+Wir liefern unsere Software häufig mit dem Ziel, sie in kleinen gut testbaren Schritten zu verändern und nennen es _Continuous Deployment_.
+Wir liefern die Software in kurzen Abständen mit dem Ziel, auf jeden Bedarf der Kunden und Nutzer sicher und schnell zu reagieren und nennen es _Continuous Delivery_.
+Warum dokumentieren wir unserer Software nicht auch kontinuierlich und nennen es _Continuous Documentation_?
 
-CI, C Deployment, C Delivery. Allos kontinuierlich. Warum nicht auch kontinuierlich Dokumentieren?
-Das schlägt auch der Autor in 
+> Continuous Documentation is the process that optimizes and reduces drift between the codebase and code-specific knowledge. Continuous Documentation applies the paradigm of automated integration of documentation into the development pipelines, by building and updating documentation incrementally, thereby keeping it in sync with the codebase. Continuous Documentation means that the Documentation is Always up-to-date; Created when best and code-coupled.
+
 https://www.infoq.com/articles/continuous-documentation/
-vor.
-In vielen Dingen hat er recht.
-Bindung zum Code.
-Prüfbarkeit.
-Qualität.
 
+---
 
-Aber Dokumentieren ist eon kreativer Prozess.
+Dokumentation ist keine Option bei der Entwicklung einer nicht trivialen Software.
+Sie ist notwendig, um die gewünschte Geschwindigkeit bei der Realisierung neuer Fähigkeiten zu erreichen, ohne die Qualität der Software insgesamt zu gefährden.
+
+Dokumentation ist wichtiges Wissen.
+Selbst ein sehr gut lesbarer Code kann nur erklären, wie etwas funktioniert.
+Wer wann was mit der Software tut kann Code alleine kaum erklären.
+
+Dokumentation sollte korrekt sein.
+Sie muss geprüft werden.
+Dafür muss sie prüfbar sein.
+Es muss Kritierien geben, um entscheiden zu können, ob etwas richtig oder falsch ist.
+
+Dokumentation sollte vollständig sein.
+Dafür muss bekannt sein, was 100% bedeutet.
+Es muss ein definiertes Soll geben.
+
+---
+
+Dokumentieren ist ein kreativer Prozess.
 Er kann nicht komplett automatisiert werden.
-
 Ein Architekturbild muss auf den Punkt bringen, um was es geht.
 Auf das wichtige reduzieren.
 Nicht mit Masse erschlagen.
-
 Eine Vision muss der Kunde verstehen.
-Sie muss in der Sprache der Nutzer geschrieben sein.
+Sie muss in seiner Sprache geschrieben sein.
 Sie ist wichtiger Input für die Entwicklung.
 
-Besser: C Specification.
+Spezifizieren ist das Präzisieren von geforderten Fähigkeiten.
+In einem agilen Entwicklungsprozess wird inkrementell spezifiziert.
+Jeder Fortschritt in der Implementierung führt zu einer Veränderung in der Spezifikation.
+
 Spring Rest Docs
 Schemadateien für Json, Avro, Protobuf oder XML
 Konfigurationsdateien, z.B. Kubernetes, deklarativ
 Sauberer Code, ausgeschnitten mit der include-Direktive von Asciidoc, garniert mit einer Überschrift und einen einführenden Satz.
+
+
+
+Zum Abschluss noch eine Bemerkung.
+
+
+Also ein drittes CD?
+
+
+Warum aktualisieren wir die Spezifikation unserer Software nicht auch kontinuierlich und nennen es _Continuous Specification_?
+
+
+Wir müssen die Art und Weise, wie wir Dokumentation erstellen und konsumieren, ändern und den Prinzipien der kontinuierlichen Dokumentation folgen: die Erstellung von code-gekoppelter Dokumentation
+
+
+
