@@ -45,10 +45,12 @@ Jeder Fortschritt in der Implementierung führt zu einer Veränderung in der Spe
 Eine Spezifikation ist eine code-gekoppelte Dokumentation.
 Aufgrund der Nähe zum Code muss eine Spezifikation mit dem Code zusammen versioniert werden.
 
-Für eine Spezifikation bietet `Asciidoc` als Format an.
+Für eine Spezifikation bietet sich `Asciidoc` als Format an.
 Eine Konfigurationsdatei oder jede Schemadatei für Json, Avro, Protobuf oder XML kann mit der `source`-Direktive direkt als Spezifikation verwendet werden.
-Sauberer Code, ausgeschnitten mit der `include`-Direktive von Asciidoc, garniert mit einer Überschrift und einen einführenden Satz.
-Mit Spring REST Docs werden Asciidoc-Fragmente für ein REST-API generiert.
+Sauberer Code, ausgeschnitten mit der `include`-Direktive von Asciidoc, oder Asciidoc-Fragmente, generiert mit Spring REST Docs, werden mit einer Überschrift und einen einführenden Satz versehen zur perfekten Beschreibung.
+Mit Asciidoc können einfach Tabellen gestaltet werden.
+Die Daten können aus einer CSV-Datei geladen werden.
+Mit der Diagramm-Erweiterung von Asciidoc werden einf
 
 Zum Abschluss noch eine Bemerkung.
 
