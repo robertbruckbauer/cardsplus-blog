@@ -14,7 +14,7 @@ https://www.infoq.com/articles/continuous-documentation/
 ---
 
 Dokumentation ist keine Option bei der Entwicklung einer nicht trivialen Software.
-Sie ist notwendig, um die gewünschte Geschwindigkeit bei der Realisierung neuer Fähigkeiten zu erreichen, ohne die Qualität der Software insgesamt zu gefährden.
+Sie ist notwendig, um die gewünschte Geschwindigkeit bei der Realisierung neuer Funktionen zu erreichen, ohne die Qualität der Software insgesamt zu gefährden.
 
 Dokumentation ist wichtiges Wissen.
 Selbst ein sehr gut lesbarer Code kann nur erklären, wie etwas funktioniert.
@@ -34,13 +34,12 @@ Es muss ein definiertes Soll geben.
 Dokumentieren ist ein kreativer Prozess.
 Er kann nicht komplett automatisiert werden.
 Ein Architekturbild muss auf den Punkt bringen, um was es geht.
-Auf das wichtige reduzieren.
-Nicht mit Masse erschlagen.
+Es ist eine Visualisierung für das große Ganze, reduziert auf die Kernkomponenten.
 Eine Vision muss der Kunde verstehen.
 Sie muss in seiner Sprache geschrieben sein.
 Sie ist wichtiger Input für die Entwicklung.
 
-Spezifizieren ist das Präzisieren von geforderten Fähigkeiten.
+Spezifizieren ist das Präzisieren von geforderten Fähigkeiten einer Software.
 In einem agilen Entwicklungsprozess wird inkrementell spezifiziert.
 Jeder Fortschritt in der Implementierung führt zu einer Veränderung in der Spezifikation.
 Eine Spezifikation ist eine code-gekoppelte Dokumentation.
