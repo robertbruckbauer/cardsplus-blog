@@ -2,7 +2,7 @@
 
 In dem Beitrag mit dem Titel "Shifting to Continuous Documentation as a New Approach for Code Knowledge" erklärt der Autor das Prinzip der kontinuierlichen Dokumentation.
 Er bezieht sich dabei auf andere Prinzipien, die in der modernen Software-Entwicklung nicht mehr wegzudenken sind.
-Wir bauen und testen unsere Software kontinuierlich mit dem Ziel, früh Fehler zu entdecken (fail fast) und nennen es _Continuous Integration_.
+Mit _Continuous Integration_ bauen und testen wir unsere Software kontinuierlich mit dem Ziel, früh Fehler zu entdecken (fail fast).
 Wir liefern unsere Software häufig mit dem Ziel, sie in kleinen gut testbaren Schritten zu verändern und nennen es _Continuous Deployment_.
 Wir liefern die Software in kurzen Abständen mit dem Ziel, auf jeden Bedarf der Kunden und Nutzer sicher und schnell zu reagieren und nennen es _Continuous Delivery_.
 Warum dokumentieren wir unserer Software nicht auch kontinuierlich und nennen es _Continuous Documentation_?
@@ -50,18 +50,17 @@ Eine Konfigurationsdatei oder jede Schemadatei für Json, Avro, Protobuf oder XM
 Sauberer Code, ausgeschnitten mit der `include`-Direktive von Asciidoc, oder Asciidoc-Fragmente, generiert mit Spring REST Docs, werden mit einer Überschrift und einen einführenden Satz versehen zur perfekten Beschreibung.
 Mit Asciidoc können einfach Tabellen gestaltet werden.
 Die Daten können aus einer CSV-Datei geladen werden.
-Mit der Diagramm-Erweiterung von Asciidoc werden einf
+Mit der Diagramm-Erweiterung von Asciidoc wird der Text ganz einfach um Grafiken ergänzt.
+Text mit Visualisierungen wirkt stärker.
+Gute Diagramme unterstützen das überfliegende Lesen.
+Asciidoc hat noch viele Funktionen.
 
-Zum Abschluss noch eine Bemerkung.
+https://docs.asciidoctor.org/asciidoc/latest/
 
+---
 
-Also ein drittes CD?
-
-
-Warum aktualisieren wir die Spezifikation unserer Software nicht auch kontinuierlich und nennen es _Continuous Specification_?
-
-
-Wir müssen die Art und Weise, wie wir Dokumentation erstellen und konsumieren, ändern und den Prinzipien der kontinuierlichen Dokumentation folgen: die Erstellung von code-gekoppelter Dokumentation
-
-
-
+Dokumentation ist wichtig und sollte nicht auf später verschoben werden.
+Gute Dokumentation macht uns besser.
+Dokumentieren muss zu eine Aufgabe werden, die ohne zu zögern während der Entwicklung erledigt wird.
+Mit _Continuous Specification_ ändern wir die Art und Weise, wie wir Dokumentation erstellen und konsumieren.
+Wir folgen den Prinzipien der kontinuierlichen Verbesserung.
