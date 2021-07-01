@@ -53,7 +53,6 @@ Die Daten können aus einer CSV-Datei geladen werden.
 Mit der Diagramm-Erweiterung von Asciidoc wird der Text ganz einfach um Grafiken ergänzt.
 Text mit Visualisierungen wirkt stärker.
 Gute Diagramme unterstützen das überfliegende Lesen.
-Asciidoc hat noch viele Funktionen.
 
 https://docs.asciidoctor.org/asciidoc/latest/
 
