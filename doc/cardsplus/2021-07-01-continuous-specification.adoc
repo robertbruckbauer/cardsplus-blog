@@ -7,7 +7,7 @@ Wir liefern unsere Software häufig mit dem Ziel, sie in kleinen gut testbaren S
 Wir liefern die Software in kurzen Abständen mit dem Ziel, auf jeden Bedarf der Kunden und Nutzer sicher und schnell zu reagieren und nennen es _Continuous Delivery_.
 Warum dokumentieren wir unserer Software nicht auch kontinuierlich und nennen es _Continuous Documentation_?
 
-> Continuous Documentation is the process that optimizes and reduces drift between the codebase and code-specific knowledge. Continuous Documentation applies the paradigm of automated integration of documentation into the development pipelines, by building and updating documentation incrementally, thereby keeping it in sync with the codebase. Continuous Documentation means that the Documentation is Always up-to-date; Created when best and code-coupled.
+> Continuous Documentation is the process that optimizes and reduces drift between the codebase and code-specific knowledge. Continuous Documentation applies the paradigm of automated integration of documentation into the development pipelines, by building and updating documentation incrementally, thereby keeping it in sync with the codebase. Continuous Documentation means that the Documentation is always up-to-date; Created when best and code-coupled.
 
 https://www.infoq.com/articles/continuous-documentation/
 
