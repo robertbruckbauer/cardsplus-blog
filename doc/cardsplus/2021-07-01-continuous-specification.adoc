@@ -49,7 +49,7 @@ Für eine Spezifikation bietet sich `Asciidoc` als Format an.
 Eine Konfigurationsdatei oder jede Schemadatei für Json, Avro, Protobuf oder XML kann mit der `source`-Direktive direkt als Spezifikation verwendet werden.
 Sauberer Code, ausgeschnitten mit der `include`-Direktive von Asciidoc, oder Asciidoc-Fragmente, generiert mit Spring REST Docs, werden mit einer Überschrift und einen einführenden Satz versehen zur perfekten Beschreibung.
 Mit Asciidoc können einfach Tabellen gestaltet werden.
-Die Daten können aus einer CSV-Datei geladen werden.
+Die Daten können aus einer CSV-Datei geladen werden, die in einem CI-Jobs erstellt wird.
 Mit der Diagramm-Erweiterung von Asciidoc wird der Text ganz einfach um Grafiken ergänzt.
 Text mit Visualisierungen wirkt stärker.
 Gute Diagramme unterstützen das überfliegende Lesen.
