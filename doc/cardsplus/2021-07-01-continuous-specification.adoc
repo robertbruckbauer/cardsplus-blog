@@ -59,6 +59,6 @@ https://docs.asciidoctor.org/asciidoc/latest/
 
 Dokumentation ist wichtig und sollte nicht auf später verschoben werden.
 Gute Dokumentation macht uns besser.
-Dokumentieren muss zu eine Aufgabe werden, die ohne zu zögern während der Entwicklung erledigt wird.
+Dokumentieren muss eine Aufgabe werden, die ohne zu zögern während der Entwicklung erledigt wird.
 Mit _Continuous Documentation_ ändern wir die Art und Weise, wie wir Spezifikationen erstellen und integriert in einer Produktdokumentation konsumieren.
 Wir folgen den Prinzipien der kontinuierlichen Verbesserung in den Dimensionen Code, Test und Spezifikation.
