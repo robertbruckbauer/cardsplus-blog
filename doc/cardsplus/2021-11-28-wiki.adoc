@@ -1,16 +1,22 @@
-Jeder Nutzer hat Wissen, dass es sich mit der Welt zu teilen lohnt.
+Jedes Mitglied eines Entwicklungsteams hat Wissen über die Software, dass es sich zu teilen lohnt.
+Mit allen am Projekt beteiligten Personen.
 
-Wikis sind wertvolle Instrumente, wenn es darum geht, Inhalte zu strukturieren, sie zu dokumentieren und weiterzuentwickeln. Das haben viele Organisationen und Unternehmen längst erkannt und setzen Wikis im Wissensmanagement ein. 
+Ein Wiki ist ein wertvolles Instrument, um Wissen einfach und schnell zu teilen.
 
-Der Ausdruck _wiki_ kommt aus dem Hawaiischen, bedeutet so viel wie "schnell, flink" und beschreibt treffend, was Wikis für viele Anwendungsfelder so interessant macht:
+____
+Der Ausdruck _wiki_ kommt aus dem Hawaiischen, bedeutet so viel wie "schnell, flink".
+____
 
-Inhalte in Wikis lassen sich schnell und einfach ändern und erweitern: Mit nur einem Mausklick wechseln Sie in den Editiermodus und werden vom Leser zum Schreiber. Mit einem weiteren Mausklick lassen sich vorgenommene Änderungen speichern.
+Inhalte im Wiki lassen sich schnell und einfach ändern und erweitern.
+Mit nur einem Mausklick wechselt ein Leser in den Editiermodus, wird zum Schreiber.
 
-Anders als jährlich erscheinende Lexika, wird Wikipedia täglich aktualisiert. Editieren und ergänzen können dabei alle Leser und das sogar, ohne sich vorher zu registrieren. Auch neue Artikel entstehen so.
+Änderungen werden von anderen Lesern kontrolliert und gegebenenfalls erneut geändert.
+Das Prinzip der vielen Augen vermeidet Fehler.
 
-Änderungen werden wiederum von anderen ehrenamtlich Mitwirkenden kontrolliert und gegebenenfalls geändert. Essenzieller Teil des Prozesses sind ausführliche Diskussionen, besonders bei kontrovers diskutierten Themen. Falsche Informationen werden also spätestens nach einigen Versionen überarbeitet und korrigiert.
+Essenzieller Teil des Prozesses sind ausführliche Diskussionen, besonders bei kontrovers diskutierten Themen. 
+Falsche Informationen werden also spätestens nach einigen Versionen überarbeitet und korrigiert.
 
-Essenziell ist bei Wikipedia, dass Inhalte und Änderungen durch Quellen belegt werden, die im besten Fall frei einsehbar sind. Durch diese Quellen zeigen Sie anderen Mitwirkenden, welche Belege Sie für Ihre Angaben haben. Gute Quellen können also darüber entscheiden, ob eine Änderung übernommen wird oder nicht.
+In Wikipedia werden Inhalte durch Quellen belegt.
+In einem Wiki für Software ist Code ein Beleg für die Korrektheit.
 
-Das Prinzip der vielen Augen soll Fehler vermeiden, trotzdem wird Wikipedia in wissenschaftlichen Arbeiten oft nicht als Quelle akzeptiert. In so einem Fall sollten Sie die verlinkten Quellen nutzen und stattdessen diese als Quelle angeben.
-
+Informationen erhalten durch das Wiki die Struktur, die durch die Bausteine von cards+ vorgegeben werden.
