@@ -1,8 +1,10 @@
-Jedes Mitglied eines Entwicklungsteams hat Wissen über Software, dass es sich zu teilen lohnt.
+Software-Entwicklungsprojekte sind häufig gekennzeichnet durch einen eklatanten Mangel an nützlicher Dokumentation.
+*Jedes* Mitglied eines Entwicklungsteams hat Wissen über die Software.
+Es lohnt sich, dieses wertvolle Wissen zu teilen.
 Mit allen am Ergebnis des Entwicklungsprozesses - dem Produkt - beteiligten Personen.
 
-Ein Wiki ist ein wertvolles Instrument, um dieses Wissen als Produktdokumentation bereitzustellen.
 Eine Pro­­dukt­­doku­­men­­tation hat das Ziel, den Zustand eines Pro­dukt­­es so exakt wie mög­­lich zu beschrei­­ben.
+Ein Wiki ist ein geeignetes Instrument, um dieses Wissen als Produktdokumentation bereitzustellen.
 Inhalte im Wiki lassen sich schnell ändern und erweitern.
 Mit nur einem Mausklick wechselt ein Leser in den Editiermodus, wird zum Schreiber.
 
@@ -13,7 +15,7 @@ ____
 Änderungen werden von anderen Lesern kontrolliert und gegebenenfalls erneut geändert.
 Das Prinzip der vielen Augen vermeidet Fehler oder führt zu Diskussionen.
 Durch die Kommentarfunktion im Wiki können solche Diskussion transparent für alle Leser gemacht werden.
-Potentiell falsche Informationen werden dadurch automatisch markiert.
+Potentiell falsche Informationen werden durch einen Kommentar markiert.
 
 In Wikipedia werden Inhalte durch Quellen belegt.
 In einem Wiki mit einer Produktdokumentation ist Code ein Beleg für die Korrektheit von Inhalten.
@@ -22,7 +24,7 @@ Der Code ist die Wahrheit.
 Das Wiki ist ein wesent­licher Bestand­teil des Gesamt­kon­zep­tes von cards+.
 Durch _Domain-Driven Design_ (kurz DDD) haben Entwickler gelernt, die Software zu strukturieren.
 cards+ erfin­det DDD nicht neu.
-cards+ ist ein Ange­bot, ein agiler Ansatz, um die Ergeb­nisse der Modellierung aus dem DDD in einem Wiki zu sichern
+cards+ ist ein Ange­bot, ein agiler Ansatz, um die Ergeb­nisse der Modellierung aus dem DDD in einem Wiki zu sichern.
 Die Bausteine von cards+ geben dem Wiki eine nachvollziehbare Struktur.
 Mit _Asciidoc_ ist es sehr einfach, Teile des Codes als Spezifikation in die Produktdokumentation im Wiki einzubetten.
 
