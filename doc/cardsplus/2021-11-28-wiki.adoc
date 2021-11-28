@@ -1,14 +1,13 @@
 Jedes Mitglied eines Entwicklungsteams hat Wissen über die Software, dass es sich zu teilen lohnt.
 Mit allen am Projekt beteiligten Personen.
 
-Ein Wiki ist ein wertvolles Instrument, um Wissen einfach und schnell zu teilen.
+Ein Wiki ist ein wertvolles Instrument, um Wissen zu teilen.
+Inhalte im Wiki lassen sich schnell ändern und erweitern.
+Mit nur einem Mausklick wechselt ein Leser in den Editiermodus, wird zum Schreiber.
 
 ____
 Der Ausdruck _wiki_ kommt aus dem Hawaiischen, bedeutet so viel wie "schnell, flink".
 ____
-
-Inhalte im Wiki lassen sich schnell und einfach ändern und erweitern.
-Mit nur einem Mausklick wechselt ein Leser in den Editiermodus, wird zum Schreiber.
 
 Änderungen werden von anderen Lesern kontrolliert und gegebenenfalls erneut geändert.
 Das Prinzip der vielen Augen vermeidet Fehler oder führt zu Diskussionen.
