@@ -11,12 +11,18 @@ Inhalte im Wiki lassen sich schnell und einfach ändern und erweitern.
 Mit nur einem Mausklick wechselt ein Leser in den Editiermodus, wird zum Schreiber.
 
 Änderungen werden von anderen Lesern kontrolliert und gegebenenfalls erneut geändert.
-Das Prinzip der vielen Augen vermeidet Fehler.
-
-Essenzieller Teil des Prozesses sind ausführliche Diskussionen, besonders bei kontrovers diskutierten Themen. 
-Falsche Informationen werden also spätestens nach einigen Versionen überarbeitet und korrigiert.
+Das Prinzip der vielen Augen vermeidet Fehler oder führt zu Diskussionen.
+Durch die Kommentarfunktion im Wiki können solche Diskussion trabsparent für alle Leser gemacht werden.
+Poentiell falsche Informationen werden dadurch automatisch markiert.
 
 In Wikipedia werden Inhalte durch Quellen belegt.
 In einem Wiki für Software ist Code ein Beleg für die Korrektheit.
+Mit _Asciidoc_ ist es sehr einfach, Teile des Codes in der Dokumentation einzubetten.
+
+Beispiel include von application.yml einer Spring-Boot-Anwendung
+
+Beispiel include einer avro-Datei als Spezifikation
+
+Beispiel include von Teilen des Codes mit tag-direktive im Code
 
 Informationen erhalten durch das Wiki die Struktur, die durch die Bausteine von cards+ vorgegeben werden.
