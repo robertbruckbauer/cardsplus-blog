@@ -50,7 +50,7 @@ Zu jedem API wird eine eigene _Asciidoc_-Datei angelegt, mit allen wichtigen Hin
 Wie so etwas im Detail aussehen kann, zeigt das Github-Repository
 https://cardsplus.github.io/demoscs/[demoscs].
 
-Besonders bemerkenswert ist, dass jeder Kommentar der Entwickler auch im Wiki veröffentlicht werden und damit für alle Projektbeteiligten lesbar.
+Besonders bemerkenswert ist, dass Kommentare der Entwickler veröffentlicht und damit für alle Projektbeteiligten im Wiki lesbar werden.
 Anhand dieser Kommentare und mit den eingebetteten Code-Fragmenten kann die Dokumentation von jedem Leser überprüft wrerden.
 
 
