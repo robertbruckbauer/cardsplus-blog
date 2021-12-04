@@ -43,7 +43,7 @@ Die Datei `application.yaml` zeigt die zentrale Konfiguration der Anwendung.
 Die Eigenschaften von JPA-Entitäten werden durch das Einbetten der annotierten Felder sehr gut beschrieben.
 Zu jeder Service-Klasse wird eine eigene _Asciidoc_-Datei angelegt, mit allen fachlichen Regeln und anderen wichtigen Hinweisen zur Implementierung.
 Wie so etwas im Detail aussehen kann, zeigt das Github-Repository
-demoscs.
+https://github.com/cardsplus/bootscs[demoscs].
 
 Besonders bemerkenswert ist, dass jeder Kommentar der Entwickler auch im Wiki veröffentlicht werden und damit für alle Projektbeteiligten lesbar.
 Anhand dieser Kommentare und mit den eingebetteten Code-Fragmenten kann die Dokumentation von jedem Leser überprüft wrerden.
