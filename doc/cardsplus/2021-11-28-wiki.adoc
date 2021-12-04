@@ -5,13 +5,14 @@ Mit allen am Ergebnis des Entwicklungsprozesses - dem Produkt - beteiligten Pers
 
 Eine Pro­­dukt­­doku­­men­­tation hat das Ziel, den Zustand eines Pro­dukt­­es so exakt wie mög­­lich zu beschrei­­ben.
 Ein Wiki ist ein geeignetes Instrument, um dieses Wissen als Produktdokumentation bereitzustellen.
-Inhalte im Wiki lassen sich schnell ändern und erweitern.
-Mit nur einem Mausklick wechselt ein Leser in den Editiermodus, wird zum Schreiber.
+Es ist ein wesent­licher Bestand­teil des Gesamt­kon­zep­tes von cards+.
 
 ____
 Der Ausdruck _wiki_ kommt aus dem Hawaiischen, bedeutet so viel wie "schnell, flink".
 ____
 
+Inhalte im Wiki lassen sich schnell ändern und erweitern.
+Mit nur einem Mausklick wechselt ein Leser in den Editiermodus, wird zum Schreiber.
 Änderungen werden von anderen Lesern kontrolliert und gegebenenfalls erneut geändert.
 Das Prinzip der vielen Augen vermeidet Fehler oder führt zu Diskussionen.
 Durch die Kommentarfunktion im Wiki können solche Diskussion transparent für alle Leser gemacht werden.
@@ -19,9 +20,10 @@ Potentiell falsche Informationen werden durch einen Kommentar markiert.
 
 In Wikipedia werden Inhalte durch Quellen belegt.
 In einem Wiki mit einer Produktdokumentation ist Code ein Beleg für die Korrektheit von Inhalten.
+Was auch immer die Anforderungen an das Produkt waren.
+Am Ende zählt nur das, was tatsächlich realisiert wurde.
 Der Code ist die Wahrheit.
 
-Das Wiki ist ein wesent­licher Bestand­teil des Gesamt­kon­zep­tes von cards+.
 Durch _Domain-Driven Design_ (kurz DDD) haben Entwickler gelernt, die Software zu strukturieren.
 cards+ erfin­det DDD nicht neu.
 cards+ ist ein Ange­bot, ein agiler Ansatz, um die Ergeb­nisse der Modellierung aus dem DDD in einem Wiki zu sichern.
