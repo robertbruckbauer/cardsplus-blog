@@ -43,10 +43,10 @@ _Ascii­doc_ ist eine leicht­gewicht­ige Aus­zeich­nungs­sprache für eine 
 Eine Ascii­doc-Datei kann wie Quell­text ent­wickelt und versio­niert werden.
 ____
 
-Ausgehend von einer _Spring-Boot_-Anwendung mit -Spring-Data-JPA_ für Persistenz und -Spring-REST-Docs_ für die API-Spezifikation ergeben sich viele Möglichkeiten zur Dokumentation mit Code.
+Ausgehend von einer _Spring-Boot_-Anwendung mit _Spring-Data-JPA_ für Persistenz und _Spring-REST-Docs_ für die API-Spezifikation ergeben sich viele Möglichkeiten zur Dokumentation mit Code.
 Die Datei `application.yaml` zeigt die zentrale Konfiguration der Anwendung.
 Die Eigenschaften von JPA-Entitäten werden durch das Einbetten der annotierten Felder sehr gut beschrieben.
-Zu jeder Service-Klasse wird eine eigene _Asciidoc_-Datei angelegt, mit allen fachlichen Regeln und anderen wichtigen Hinweisen zur Implementierung.
+Zu jedem API wird eine eigene _Asciidoc_-Datei angelegt, mit allen wichtigen Hinweisen zur Implementierung.
 Wie so etwas im Detail aussehen kann, zeigt das Github-Repository
 https://cardsplus.github.io/demoscs/[demoscs].
 
