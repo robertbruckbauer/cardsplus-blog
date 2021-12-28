@@ -21,9 +21,8 @@ Potentiell falsche Informationen werden durch einen Kommentar markiert.
 
 In Wikipedia werden Inhalte durch Quellen belegt.
 In einem Wiki mit einer Produktdokumentation ist Code ein Beleg für die Korrektheit von Inhalten.
-Was auch immer die Anforderungen an das Produkt waren.
-Am Ende zählt nur das, was tatsächlich realisiert wurde.
 Der Code ist die Wahrheit.
+Am Ende zählt nur, was realisiert wurde.
 
 Durch _Domain-Driven Design_ (kurz DDD) haben Entwickler gelernt, die Software zu strukturieren.
 https://cardsplus.info[cards+]
