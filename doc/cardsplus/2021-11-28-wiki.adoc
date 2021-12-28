@@ -1,8 +1,7 @@
 Software-Entwicklungsprojekte sind häufig gekennzeichnet durch einen eklatanten Mangel an nützlicher Dokumentation.
 Wissen wird im Team geteilt, aber selten aufgeschrieben.
 *Jedes* Mitglied eines Entwicklungsteams hat daher Wissen über die Software.
-Es lohnt sich, dieses wertvolle Wissen zu teilen.
-Mit allen am Ergebnis des Entwicklungsprozesses - dem Produkt - beteiligten Personen.
+Es lohnt sich, dieses wertvolle Wissen zu sichern.
 
 Eine Pro­­dukt­­doku­­men­­tation hat das Ziel, den Zustand eines Pro­dukt­­es so exakt wie mög­­lich zu beschrei­­ben.
 Ein Wiki ist ein geeignetes Instrument, um dieses Wissen als Produktdokumentation bereitzustellen.
