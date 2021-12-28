@@ -46,12 +46,22 @@ ____
 Ausgehend von einer _Spring-Boot_-Anwendung mit _Spring-Data-JPA_ für Persistenz und _Spring-REST-Docs_ für die API-Spezifikation ergeben sich viele Möglichkeiten zur Dokumentation mit Code.
 Die Datei `application.yaml` zeigt die zentrale Konfiguration der Anwendung.
 Die Eigenschaften von JPA-Entitäten werden durch das Einbetten der annotierten Felder sehr gut beschrieben.
-Durch spezielle Markierungen können wichtige Teile aus dem Code in eine _Asciidoc_-Spezifikation eingebettet werden.
+Durch spezielle Markierungen können wichtige Teile aus dem Code in eine Spezifikation eingebettet werden.
 Wie so etwas im Detail aussehen kann, zeigt das Github-Repository
 https://cardsplus.github.io/demoscs/[demoscs].
 
-Besonders bemerkenswert ist, dass Kommentare der Entwickler veröffentlicht und damit für alle Projektbeteiligten im Wiki lesbar werden.
-Anhand dieser Kommentare und mit den eingebetteten Code-Fragmenten kann die Dokumentation von jedem Leser überprüft wrerden.
+Das Ergebnis ist eine Produktdokumentation, die in einem großen Maß aus Code besteht.
+Code, der in der veröffentlichten Form tatsächlich als Teil der Softwate ausgeführt wird.
+Hinweise und Erläuterungen im Wiki erklären, warum es den Code gibt.
+Der Code selbst zeigt, wie die Lösung aussieht.
+
+Besonders bemerkenswert ist, dass mit dem Code auch Kommentare der Entwickler im Wiki lesbar werden.
+Damit kann die Spezifikation von jedem Leser überprüft werden.
+Durch das Einbeziehen des Codes in die Produktdokumentation wird sie prüfbar.
+Das schafft Qualität.
+
+
+
 
 
 
