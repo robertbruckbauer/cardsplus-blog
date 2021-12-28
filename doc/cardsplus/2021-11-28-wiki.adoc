@@ -1,5 +1,6 @@
 Software-Entwicklungsprojekte sind häufig gekennzeichnet durch einen eklatanten Mangel an nützlicher Dokumentation.
-*Jedes* Mitglied eines Entwicklungsteams hat Wissen über die Software.
+Wissen wird im Team geteilt, aber selten aufgeschrieben.
+*Jedes* Mitglied eines Entwicklungsteams hat daher Wissen über die Software.
 Es lohnt sich, dieses wertvolle Wissen zu teilen.
 Mit allen am Ergebnis des Entwicklungsprozesses - dem Produkt - beteiligten Personen.
 
@@ -46,7 +47,7 @@ ____
 Ausgehend von einer _Spring-Boot_-Anwendung mit _Spring-Data-JPA_ für Persistenz und _Spring-REST-Docs_ für die API-Spezifikation ergeben sich viele Möglichkeiten zur Dokumentation mit Code.
 Die Datei `application.yaml` zeigt die zentrale Konfiguration der Anwendung.
 Die Eigenschaften von JPA-Entitäten werden durch das Einbetten der annotierten Felder sehr gut beschrieben.
-Zu jedem API wird eine eigene _Asciidoc_-Datei angelegt, mit allen wichtigen Hinweisen zur Implementierung.
+Durch spezielle Markierungen können wichtige Teile aus dem Code in eine _Asciidoc_-Spezifikation eingebettet werden.
 Wie so etwas im Detail aussehen kann, zeigt das Github-Repository
 https://cardsplus.github.io/demoscs/[demoscs].
 
