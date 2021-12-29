@@ -1,66 +1,60 @@
 Software-Entwicklungsprojekte sind häufig gekennzeichnet durch einen eklatanten Mangel an nützlicher Dokumentation.
-Wissen wird im Team geteilt, aber selten aufgeschrieben.
-*Jedes* Mitglied eines Entwicklungsteams hat daher Wissen über die Software.
+Nützlich ist eine Dokumentation, wenn sie beschreibt, was tatsächlich realisiert wurde.
+Eine Produktdokumentation hat das Ziel, den Zustand eines Produktes so exakt wie möglich zu beschreiben.
+Wissen über die Software wird im Team geteilt.
 Es lohnt sich, dieses wertvolle Wissen zu sichern.
-
-Eine Pro­­dukt­­doku­­men­­tation hat das Ziel, den Zustand eines Pro­dukt­­es so exakt wie mög­­lich zu beschrei­­ben.
 Ein Wiki ist ein geeignetes Instrument, um dieses Wissen als Produktdokumentation bereitzustellen.
-Es ist ein wesent­licher Bestand­teil des Gesamt­kon­zep­tes von 
-https://cardsplus.info[cards+].
 
 ____
 Der Ausdruck _wiki_ kommt aus dem Hawaiischen, bedeutet so viel wie "schnell, flink".
 ____
 
-Inhalte im Wiki lassen sich schnell ändern und erweitern.
-Mit nur einem Mausklick wechselt ein Leser in den Editiermodus, wird zum Schreiber.
-Änderungen werden von anderen Lesern kontrolliert und gegebenenfalls erneut geändert.
+Das Wiki ist wesentlicher Bestandteil des Gesamtkonzeptes von 
+https://cardsplus.info[cards+].
+Inhalte lassen sich schnell ändern und erweitern.
+Mit nur einem Mausklick wechselt eine interessierte Person in den Editiermodus, wird zum Schreibenden.
+Änderungen werden von anderen interessierte Personen kontrolliert und gegebenenfalls erneut geändert.
 Das Prinzip der vielen Augen vermeidet Fehler oder führt zu Diskussionen.
-Durch die Kommentarfunktion im Wiki können solche Diskussion transparent für alle Leser gemacht werden.
+Durch die Kommentarfunktion im Wiki können solche Diskussion transparent für alle interessierte Personen gemacht werden.
 Potentiell falsche Informationen werden durch einen Kommentar markiert.
 
 In Wikipedia werden Inhalte durch Quellen belegt.
 In einem Wiki mit einer Produktdokumentation ist Code ein Beleg für die Korrektheit von Inhalten.
 Der Code ist die Wahrheit.
-Am Ende zählt nur, was realisiert wurde.
 
 Durch _Domain-Driven Design_ (kurz DDD) haben Entwickler gelernt, die Software zu strukturieren.
 https://cardsplus.info[cards+]
-erfin­det DDD nicht neu.
+erfindet DDD nicht neu.
 https://cardsplus.info[cards+]
-ist ein Ange­bot, ein agiler Ansatz, um die Ergeb­nisse der Modellierung aus dem DDD in einem Wiki zu sichern.
+ist ein Angebot, ein agiler Ansatz, um die Ergebnisse der Modellierung aus dem DDD in einem Wiki zu sichern.
 Die Bausteine von 
 https://cardsplus.info[cards+]
 geben dem Wiki eine nachvollziehbare Struktur.
 Eine Struktur, die sich im Code wiederholt, mit Elementen aus der gemeinsamen Sprache.
 
-Lesbarer Code kann direkt in der Dokumentation verwendet werden.
-Mit _Asciidoc_ und der _include_-Direktive ist es sehr einfach, Teile des Codes als Spezifikation in die Produktdokumentation im Wiki einzubetten.
+Der Einsatz von _Asciidoc_ ist ein weiterer wichtiger Bestandteil des Gesamtkonzeptes von 
+https://cardsplus.info[cards+].
 
 ____
-_Ascii­doc_ ist eine leicht­gewicht­ige Aus­zeich­nungs­sprache für eine text­basierte Doku­men­ten­generie­rung. 
-Eine Ascii­doc-Datei kann wie Quell­text ent­wickelt und versio­niert werden.
+_Asciidoc_ ist eine leichtgewichtige Auszeichnungssprache für eine textbasierte Dokumentengenerierung. 
+Eine _Asciidoc_-Datei kann wie Quelltext entwickelt und versioniert werden.
 ____
 
-Ausgehend von einer _Spring-Boot_-Anwendung mit _Spring-Data-JPA_ für Persistenz und _Spring-REST-Docs_ für die API-Spezifikation ergeben sich viele Möglichkeiten zur Dokumentation mit Code.
+Mit _Asciidoc_ und der _include_-Direktive ist es sehr einfach, Teile des Codes in die Produktdokumentation im Wiki einzubetten.
+Eine _Spring-Boot_-Anwendung mit _Spring-Data-JPA_ für Persistenz und _Spring-REST-Docs_ für die API-Spezifikation kann mit Code dokumentiert werden.
 Die Datei `application.yaml` zeigt die zentrale Konfiguration der Anwendung.
-Die Eigenschaften von JPA-Entitäten werden durch das Einbetten der annotierten Felder sehr gut beschrieben.
-Durch spezielle Markierungen können wichtige Teile aus dem Code in eine Spezifikation eingebettet werden.
+Die Eigenschaften von JPA-Entitäten werden durch die annotierten Felder sehr gut beschrieben. 
+Algorithmen, die nach den Prinzipen von _Clean Code_ implementiert wurden, sind lesbar.
+API-Tests produzieren während ihrer Ausführung _Asciidoc_-Fragmente.
 Wie so etwas im Detail aussehen kann, zeigt das Github-Repository
 https://cardsplus.github.io/demoscs/[demoscs].
 
 Das Ergebnis ist eine Produktdokumentation, die in einem großen Maß aus Code besteht.
-Code, der in der veröffentlichten Form tatsächlich als Teil der Softwate ausgeführt wird.
-Hinweise und Erläuterungen im Wiki erklären, warum es den Code gibt.
-Der Code selbst zeigt, wie die Lösung aussieht.
+Code, der in der veröffentlichten Form tatsächlich als Teil der Software ausgeführt wird.
+Hinweise und Erläuterungen im Wiki erklären, *warum* es den Code gibt.
+Der Code selbst zeigt, *wie* die konkrete Lösung aussieht.
 
 Besonders bemerkenswert ist, dass mit dem Code auch Kommentare der Entwickler im Wiki lesbar werden.
 Damit kann die Spezifikation von jedem Leser überprüft werden.
 Durch das Einbeziehen des Codes in die Produktdokumentation wird sie prüfbar.
 Das schafft Qualität.
-
-
-
-
-
-
