@@ -1,3 +1,5 @@
+= Produktdokumentation im Wiki
+
 Software-Entwicklungsprojekte sind häufig gekennzeichnet durch einen eklatanten Mangel an nützlicher Dokumentation.
 Nützlich ist eine Dokumentation, wenn sie erklärt, was realisiert wurde.
 Wissen über die Software wird im Team geteilt.
