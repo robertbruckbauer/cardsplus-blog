@@ -13,13 +13,15 @@ Das Wiki ist wesentlicher Bestandteil des Gesamtkonzeptes von
 https://cardsplus.info[cards+].
 Inhalte lassen sich schnell ändern und erweitern.
 Mit nur einem Mausklick wechselt eine interessierte Person in den Editiermodus, wird zum Schreibenden.
-Änderungen werden von anderen interessierte Personen kontrolliert und gegebenenfalls erneut geändert.
+Änderungen werden von anderen interessierten Personen kontrolliert und gegebenenfalls geändert.
 Das Prinzip der vielen Augen vermeidet Fehler oder führt zu Diskussionen.
-Durch die Kommentarfunktion im Wiki können solche Diskussion transparent für alle interessierte Personen gemacht werden.
-Potentiell falsche Informationen werden durch einen Kommentar markiert.
+Durch die Kommentarfunktion im Wiki können solche Diskussion transparent für alle interessierten Personen gemacht werden.
+Potentiell falsche Informationen werden durch einen Kommentar markiert und weisen interessierten Personen darauf hin, dass die markierte Information mit Vorsicht zu genießen ist.
 
 In Wikipedia werden Inhalte durch Quellen belegt.
 In einem Wiki mit einer Produktdokumentation ist Code ein Beleg für die Korrektheit von Inhalten.
+Egal, was in Studien, Konzepten, Anforderungen, etc. steht.
+Am Ende zählt nur, was die Software tatsächlich leistet.
 Der Code ist die Wahrheit.
 
 Durch _Domain-Driven Design_ (kurz DDD) haben Entwickler gelernt, die Software zu strukturieren.
