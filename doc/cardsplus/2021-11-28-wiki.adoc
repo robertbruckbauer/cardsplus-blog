@@ -1,0 +1,69 @@
+= Dokumentation mit Code in einem Wiki
+
+Software-Entwicklungsprojekte sind häufig gekennzeichnet durch einen eklatanten Mangel an nützlicher Dokumentation.
+Nützlich ist eine Dokumentation, wenn sie erklärt, was realisiert wurde.
+Wissen über die Software wird im Team geteilt.
+Es lohnt sich, dieses wertvolle Wissen zu sichern.
+Ein Wiki ist ein geeignetes Instrument, um dieses Wissen als Produktdokumentation bereitzustellen.
+Eine Produktdokumentation hat das Ziel, den Zustand und die Fähigkeiten eines Produktes so exakt wie möglich zu beschreiben.
+
+____
+Der Ausdruck _wiki_ kommt aus dem Hawaiischen, bedeutet so viel wie "schnell, flink".
+____
+
+Das Wiki ist wesentlicher Bestandteil des Gesamtkonzeptes von 
+https://cardsplus.info[cards+].
+Inhalte lassen sich schnell ändern und erweitern.
+Mit nur einem Mausklick wechselt eine interessierte Person in den Editiermodus, wird zum Schreibenden.
+Änderungen werden von anderen interessierten Personen kontrolliert und gegebenenfalls geändert.
+Das Prinzip der vielen Augen vermeidet Fehler oder führt zu Diskussionen.
+Durch die Kommentarfunktion im Wiki können solche Diskussion transparent für alle interessierten Personen gemacht werden.
+Potentiell falsche Informationen werden durch einen Kommentar markiert und weisen interessierten Personen darauf hin, dass die markierte Information bis zur Klärung mit Vorsicht zu genießen ist.
+Sobald die Klärung herbeigeführt wurde - oft in Verbindung mit einer Änderung am Code - wird der Kommentar entfernt.
+
+In Wikipedia werden Inhalte durch Quellen belegt.
+In einem Wiki mit einer Produktdokumentation ist Code ein Beleg für die Korrektheit von Inhalten.
+Egal, was in Studien, Konzepten, Anforderungen, etc. steht.
+Am Ende zählt nur, was die Software tatsächlich leistet.
+Der Code ist die Wahrheit.
+
+Durch _Domain-Driven Design_ (kurz DDD) haben Entwickler gelernt, die Software zu strukturieren.
+https://cardsplus.info[cards+]
+erfindet DDD nicht neu.
+https://cardsplus.info[cards+]
+ist ein Angebot, ein agiler Ansatz, um die Ergebnisse der Modellierung aus dem DDD in einem Wiki zu sichern.
+Die Bausteine von 
+https://cardsplus.info[cards+]
+geben dem Wiki eine nachvollziehbare Struktur.
+Eine Struktur, die sich im Code wiederholt, mit Elementen aus der gemeinsamen Sprache.
+
+Der Einsatz von _Asciidoc_ ist ein weiterer wichtiger Bestandteil des Gesamtkonzeptes von 
+https://cardsplus.info[cards+].
+
+____
+_Asciidoc_ ist eine leichtgewichtige Auszeichnungssprache für eine textbasierte Dokumentengenerierung. 
+Eine _Asciidoc_-Datei kann wie Quelltext entwickelt und versioniert werden.
+____
+
+Mit _Asciidoc_ und der _include_-Direktive ist es sehr einfach, Teile des Codes in die Produktdokumentation im Wiki einzubetten.
+Eine _Spring-Boot_-Anwendung mit _Spring-Data-JPA_ für Persistenz und _Spring-REST-Docs_ für die API-Spezifikation kann mit Code dokumentiert werden.
+Die Datei `application.yaml` zeigt die zentrale Konfiguration der Anwendung.
+Die Eigenschaften von JPA-Entitäten werden durch die annotierten Felder sehr gut beschrieben. 
+Algorithmen, die nach den Prinzipen von _Clean Code_ implementiert wurden, sind lesbar.
+API-Tests produzieren während ihrer Ausführung _Asciidoc_-Fragmente.
+Wie so etwas im Detail aussehen kann, zeigt das Github-Repository
+https://cardsplus.github.io/demoscs[demoscs].
+
+Das Ergebnis ist eine Produktdokumentation, die in einem großen Maß aus Code besteht.
+Code, der in der veröffentlichten Form tatsächlich als Teil der Software ausgeführt wird.
+Hinweise und Erläuterungen im Wiki erklären, *warum* es den Code gibt.
+Der Code selbst zeigt, *wie* die konkrete Lösung aussieht.
+
+Besonders bemerkenswert ist, dass mit dem Code auch Kommentare der Entwickler im Wiki lesbar werden.
+Damit kann die Spezifikation von jedem Leser überprüft werden.
+Durch das Einbeziehen des Codes in die Produktdokumentation wird sie prüfbar.
+Das schafft Qualität.
+
+https://cardsplus.info
+
+https://cardsplus.github.io/demoscs
