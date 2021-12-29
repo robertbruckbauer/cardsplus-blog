@@ -1,4 +1,4 @@
-= Produktdokumentation im Wiki
+= Dokumentation mit Code in einem Wiki
 
 Software-Entwicklungsprojekte sind häufig gekennzeichnet durch einen eklatanten Mangel an nützlicher Dokumentation.
 Nützlich ist eine Dokumentation, wenn sie erklärt, was realisiert wurde.
