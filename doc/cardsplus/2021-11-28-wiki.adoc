@@ -1,9 +1,9 @@
 Software-Entwicklungsprojekte sind häufig gekennzeichnet durch einen eklatanten Mangel an nützlicher Dokumentation.
-Nützlich ist eine Dokumentation, wenn sie beschreibt, was tatsächlich realisiert wurde.
-Eine Produktdokumentation hat das Ziel, den Zustand eines Produktes so exakt wie möglich zu beschreiben.
+Nützlich ist eine Dokumentation, wenn sie erklärt, was realisiert wurde.
 Wissen über die Software wird im Team geteilt.
 Es lohnt sich, dieses wertvolle Wissen zu sichern.
 Ein Wiki ist ein geeignetes Instrument, um dieses Wissen als Produktdokumentation bereitzustellen.
+Eine Produktdokumentation hat das Ziel, den Zustand und die Fähigkeiten eines Produktes so exakt wie möglich zu beschreiben.
 
 ____
 Der Ausdruck _wiki_ kommt aus dem Hawaiischen, bedeutet so viel wie "schnell, flink".
