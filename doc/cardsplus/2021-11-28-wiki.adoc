@@ -52,7 +52,7 @@ Die Eigenschaften von JPA-Entitäten werden durch die annotierten Felder sehr gu
 Algorithmen, die nach den Prinzipen von _Clean Code_ implementiert wurden, sind lesbar.
 API-Tests produzieren während ihrer Ausführung _Asciidoc_-Fragmente.
 Wie so etwas im Detail aussehen kann, zeigt das Github-Repository
-https://cardsplus.github.io/demoscs/[demoscs].
+https://cardsplus.github.io/demoscs[demoscs].
 
 Das Ergebnis ist eine Produktdokumentation, die in einem großen Maß aus Code besteht.
 Code, der in der veröffentlichten Form tatsächlich als Teil der Software ausgeführt wird.
@@ -63,3 +63,6 @@ Besonders bemerkenswert ist, dass mit dem Code auch Kommentare der Entwickler im
 Damit kann die Spezifikation von jedem Leser überprüft werden.
 Durch das Einbeziehen des Codes in die Produktdokumentation wird sie prüfbar.
 Das schafft Qualität.
+
+https://cardsplus.info
+https://cardsplus.github.io/demoscs
