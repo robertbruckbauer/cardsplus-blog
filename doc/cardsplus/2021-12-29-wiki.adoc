@@ -18,7 +18,7 @@ Mit nur einem Mausklick wechselt eine interessierte Person in den Editiermodus, 
 Änderungen werden von anderen interessierten Personen kontrolliert und gegebenenfalls geändert.
 Das Prinzip der vielen Augen vermeidet Fehler oder führt zu Diskussionen.
 Durch die Kommentarfunktion im Wiki können solche Diskussion transparent für alle interessierten Personen gemacht werden.
-Potentiell falsche Informationen werden durch einen Kommentar markiert und weisen interessierten Personen darauf hin, dass die markierte Information bis zur Klärung mit Vorsicht zu genießen ist.
+Potentiell falsche Informationen werden durch einen Kommentar markiert und weisen interessierte Personen darauf hin, dass die markierte Information bis zur Klärung mit Vorsicht zu genießen ist.
 Sobald die Klärung herbeigeführt wurde - oft in Verbindung mit einer Änderung am Code - wird der Kommentar entfernt.
 
 In Wikipedia werden Inhalte durch Quellen belegt.
@@ -51,8 +51,8 @@ Die Datei `application.yaml` zeigt die zentrale Konfiguration der Anwendung.
 Die Eigenschaften von JPA-Entitäten werden durch die annotierten Felder sehr gut beschrieben. 
 Algorithmen, die nach den Prinzipen von _Clean Code_ implementiert wurden, sind lesbar.
 API-Tests produzieren während ihrer Ausführung _Asciidoc_-Fragmente.
-Wie so etwas im Detail aussehen kann, zeigt das Github-Repository
-https://cardsplus.github.io/demoscs[demoscs].
+Wie so eine code-nahe Produktdokumentation im Detail aussehen kann, zeigt das Github-Repository
+https://cardsplus.github.io/demoscs[`demoscs`].
 
 Das Ergebnis ist eine Produktdokumentation, die in einem großen Maß aus Code besteht.
 Code, der in der veröffentlichten Form tatsächlich als Teil der Software ausgeführt wird.
@@ -67,3 +67,5 @@ Das schafft Qualität.
 https://cardsplus.info
 
 https://cardsplus.github.io/demoscs
+
+https://github.com/cardsplus/demoscs
