@@ -18,7 +18,7 @@ Die Liste sollte dann bei der Aufnahme jeder weiteren Technik oder Technologie a
 
 Dass Software nicht dem Stand der Technik entspricht, ist vielen Beteiligten nicht klar.
 Und wenn, dann sehen sie es nicht als Manko ihrer eigenen Leistung.
-Software, die nicht dem Stand der Technik entspricht, kann juristische Folgen nach sich ziehen. 
+Software, die nicht dem Stand der Technik entspricht, kann jedoch juristische Folgen nach sich ziehen. 
 
 > Moderne Architekturen, Programmiersprachen, Technologien und Werkzeuge sind nicht unbedingt Stand der Technik. 
 
@@ -27,18 +27,18 @@ Oftmals ist das aber eine auf keinerlei quantifizierbaren Erfahrungswerten beruh
 Motivation ist häufig der Wunsch, mit einer neuen, interessanten, modernen Technologie zu arbeiten.
 Auch wenn sie vielleicht fortschrittlich und bewährt sind, so sind sie per se nicht immer zielgerichtet.
 
-Nicht selten hat die Entscheidung für eine Technik oder der Wechsel einer Technologie großen Einfluss auf die Wirtschaftlichkeit.
-Nur ein kleiner Teil der Aufwände steckt in der Programmierung.
-Eine Steigerung der Produktivität bei der Entwicklung ist jedoch nur dann zielgerichtet, wenn andere Bereiche nicht darunter leiden.
+Nicht selten hat die Entscheidung für eine neue Technik oder der Wechsel einer Technologie großen Einfluss auf die Wirtschaftlichkeit.
+Nur ein Teil der Aufwände steckt in der Programmierung.
 Es entstehen Kosten für Weiterbildung.
 Dokumentation muss überarbeitet werden.
-Für den Betrieb sind neue Lösungen notwendig.
+Für den Betrieb sind ggfs. neue Lösungen notwendig.
+Eine Steigerung der Produktivität bei der Entwicklung ist nur dann zielgerichtet, wenn andere Bereiche nicht darunter leiden.
 
 > Gute Programmierer, Architekten oder Tester erstellen Software, die nicht dem Stand der Technik entspricht.
 
-Veraltete oder unpassende Technologien und Techniken werden eingesetzt, weil es "historische Gründe" gibt bzw. "zu hohe Kosten entstehenW, die Situation zu ändern.
+Veraltete oder unpassende Technologien und Techniken werden eingesetzt, weil es "historische Gründe" gibt.
 "Historische Gründe" sind zwar eine valide Erklärung, aber keine Entschuldigung.
-Software nachträglich auf den Stand der Technik bringen verursacht Kosten.
-Da die Kosten in der Regel hoch sind, werden sie nicht umgesetzt.
+Die Maßnahme, Software nachträglich auf den Stand der Technik bringen, verursacht Kosten.
+Da die Kosten in der Regel hoch sind, wird die Maßnahme nicht umgesetzt.
 Dem Management ist dabei oft gar nicht bewusst, dass sie durch diese Entscheidung ggfs. vertraglichen Anforderungen an die Software missachten.
 Sie riskieren Gewährleistungs- und Schadenersatzforderungen.
