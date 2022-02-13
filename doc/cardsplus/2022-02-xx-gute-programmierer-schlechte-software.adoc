@@ -1,0 +1,38 @@
+= Gute Programmierer – schlechte Software
+
+Mit großem Intetesse habe ich den Beitrag `Gute Programmieter - schlechte Software` im Online-Magazin Informatik Aktuell gelesen.
+Ich schätze mich selbst als guten Progrrammierer ein
+Gute Software zu produzieten war immer mein Ziel.
+Der Begriff Stand der Technik schien mir bis jetzt klar.
+
+> Der Stand der Technik ist kein technischer Begriff, sondern ein juristischer.
+
+Er ist eine sogenannte Technikklausel – ein in vielen Gesetzestexten verwendeter, aber nicht im Detail im Gesetz definierter Begriff.
+Entwickelt man kommerzielle Software, so muss diese also auf bewährten, zielgerichteten, fortschrittlichen Techniken und Technologien beruhen.
+Wer Software am Stand der Technik entwickelt, tut gut daran, eine Liste aller verwendeter Techniken und Technologien bereitzuhalten, um jederzeit überprüfen und nachweisen zu können, dass die zuvor genannten Bedingungen erfüllt und am Stand der Technik ist.
+Die Liste sollte dann bei der Aufnahme einer weiteren Technik und Technologie aktualisiert werden, wenm sie Stand der Technik ist.
+
+
+> Moderne Architekturen, Programmiersprachen, Technologien und Werkzeuge sind nicht unbedingt Stand der Technik. 
+
+Auch wenn sie vielleicht dem Entwicklungsstand entsprechen, fortschrittlich und bewährt sind, so sind sie per se nicht zielgerichtet.
+Erfahrene Entwickler sind davon überzeugt sind, mit diesen neuen Technologien die Aufgabenstellungen zielgerichtet lösen zu können. 
+Oftmals eine auf keinerlei quantifizierbaren Erfahrungswerten beruhende Überzeugung.
+Motivation ist häufig das Wunsch, mit einer neuen, interessanten, modernen Technologie zu arbeiten.
+Die Software ist aber nicht mehr auf dem Stand der Technik, weil die Wirtschaftlichkeit bei der Entscheidung weniger Einfluss hat, als das persönliche Interesse der handelnden Personen.
+Oft wird auch vergessen, dass nur ein kleiner Teil der Aufwände in der Programmierung steckt – erhöhte Produktivität in der Entwicklung ist jedoch nur dann sinnvoll, wenn andere Bereiche des Software Lifecycles (wie z. B. Recruiting, Lernkurve, Build, Test, Wartung) nicht darunter leiden.
+
+
+> Historische Gründe sind keine Entschuldigung für die Gegenwart
+
+Bei der Entscheidung für den Einsatz neuer Technologien und Techniken werden auch keine historischen Gründe geltend gemacht.
+Warum also beim Beharren auf ehemaligen und inzwischen erkannten Fehlentscheidungen?
+Die Kosten, veraltete, unpassende oder unwirtschaftliche Technologien und Techniken durch solche zu ersetzen, die dem Stand der Technik entsprechen, sind aber tatsächlich nicht vernachlässigbar.
+Dass Software nicht dem Stand der Technik entspricht, ist vielen der Beteiligten nicht klar.
+Und wenn, dann sehen sie es nicht als Manko ihrer eigenen Leistung.
+Software, die nicht dem Stand der Technik entspricht, kann juristische Folgen nach sich ziehen. 
+
+
+
+
+https://www.informatik-aktuell.de/entwicklung/methoden/warum-software-selten-dem-stand-der-technik-entspricht.html
