@@ -1,38 +1,44 @@
 = Gute Programmierer – schlechte Software
 
-Mit großem Intetesse habe ich den Beitrag `Gute Programmieter - schlechte Software` im Online-Magazin Informatik Aktuell gelesen.
+Mit großem Intetesse habe ich den Beitrag `Gute Programmierer - schlechte Software` im Online-Magazin Informatik Aktuell gelesen.
+
+https://www.informatik-aktuell.de/entwicklung/methoden/warum-software-selten-dem-stand-der-technik-entspricht.html
+
 Ich schätze mich selbst als guten Progrrammierer ein
-Gute Software zu produzieten war immer mein Ziel.
+Gute Software zu produzieren war immer mein Ziel.
 Der Begriff Stand der Technik schien mir bis jetzt klar.
 
 > Der Stand der Technik ist kein technischer Begriff, sondern ein juristischer.
 
-Er ist eine sogenannte Technikklausel – ein in vielen Gesetzestexten verwendeter, aber nicht im Detail im Gesetz definierter Begriff.
-Entwickelt man kommerzielle Software, so muss diese also auf bewährten, zielgerichteten, fortschrittlichen Techniken und Technologien beruhen.
-Wer Software am Stand der Technik entwickelt, tut gut daran, eine Liste aller verwendeter Techniken und Technologien bereitzuhalten, um jederzeit überprüfen und nachweisen zu können, dass die zuvor genannten Bedingungen erfüllt und am Stand der Technik ist.
-Die Liste sollte dann bei der Aufnahme einer weiteren Technik und Technologie aktualisiert werden, wenm sie Stand der Technik ist.
+Es handelt sich um eine sogenannte Technikklausel – ein in vielen Gesetzestexten verwendeter, aber nicht im Detail im Gesetz definierter Begriff.
+Entwickelt man kommerzielle Software, so muss diese auf bewährten, zielgerichteten, fortschrittlichen Techniken und Technologien beruhen.
+Wer Software am Stand der Technik entwickelt, tut gut daran, eine Liste aller verwendeter Techniken und Technologien bereitzuhalten.
+Mit dieser auch _Bill of materials_ genannten Liste kann man jederzeit nachweisen, dass die zuvor genannten Bedingungen erfüllt und die Software am Stand der Technik ist.
+Die Liste sollte dann bei der Aufnahme jeder weiteren Technik oder Technologie aktualisiert werden.
 
-
-> Moderne Architekturen, Programmiersprachen, Technologien und Werkzeuge sind nicht unbedingt Stand der Technik. 
-
-Auch wenn sie vielleicht dem Entwicklungsstand entsprechen, fortschrittlich und bewährt sind, so sind sie per se nicht zielgerichtet.
-Erfahrene Entwickler sind davon überzeugt sind, mit diesen neuen Technologien die Aufgabenstellungen zielgerichtet lösen zu können. 
-Oftmals eine auf keinerlei quantifizierbaren Erfahrungswerten beruhende Überzeugung.
-Motivation ist häufig das Wunsch, mit einer neuen, interessanten, modernen Technologie zu arbeiten.
-Die Software ist aber nicht mehr auf dem Stand der Technik, weil die Wirtschaftlichkeit bei der Entscheidung weniger Einfluss hat, als das persönliche Interesse der handelnden Personen.
-Oft wird auch vergessen, dass nur ein kleiner Teil der Aufwände in der Programmierung steckt – erhöhte Produktivität in der Entwicklung ist jedoch nur dann sinnvoll, wenn andere Bereiche des Software Lifecycles (wie z. B. Recruiting, Lernkurve, Build, Test, Wartung) nicht darunter leiden.
-
-
-> Historische Gründe sind keine Entschuldigung für die Gegenwart
-
-Bei der Entscheidung für den Einsatz neuer Technologien und Techniken werden auch keine historischen Gründe geltend gemacht.
-Warum also beim Beharren auf ehemaligen und inzwischen erkannten Fehlentscheidungen?
-Die Kosten, veraltete, unpassende oder unwirtschaftliche Technologien und Techniken durch solche zu ersetzen, die dem Stand der Technik entsprechen, sind aber tatsächlich nicht vernachlässigbar.
-Dass Software nicht dem Stand der Technik entspricht, ist vielen der Beteiligten nicht klar.
+Dass Software nicht dem Stand der Technik entspricht, ist vielen Beteiligten nicht klar.
 Und wenn, dann sehen sie es nicht als Manko ihrer eigenen Leistung.
 Software, die nicht dem Stand der Technik entspricht, kann juristische Folgen nach sich ziehen. 
 
+> Moderne Architekturen, Programmiersprachen, Technologien und Werkzeuge sind nicht unbedingt Stand der Technik. 
 
+Erfahrene Entwickler sind häufig davon überzeugt, mit neuen Technologien die Aufgabenstellungen zielgerichtet lösen zu können. 
+Oftmals ist das aber eine auf keinerlei quantifizierbaren Erfahrungswerten beruhende Überzeugung.
+Motivation ist häufig der Wunsch, mit einer neuen, interessanten, modernen Technologie zu arbeiten.
+Auch wenn sie vielleicht fortschrittlich und bewährt sind, so sind sie per se nicht immer zielgerichtet.
 
+Nicht selten hat die Entscheidung für eine Technik oder der Wechsel einer Technologie großen Einfluss auf die Wirtschaftlichkeit.
+Nur ein kleiner Teil der Aufwände steckt in der Programmierung.
+Eine Steigerung der Produktivität bei der Entwicklung ist jedoch nur dann zielgerichtet, wenn andere Bereiche nicht darunter leiden.
+Es entstehen Kosten für Weiterbildung.
+Dokumentation muss überarbeitet werden.
+Für den Betrieb sind neue Lösungen notwendig.
 
-https://www.informatik-aktuell.de/entwicklung/methoden/warum-software-selten-dem-stand-der-technik-entspricht.html
+> Gute Programmierer, Architekten oder Tester erstellen Software, die nicht dem Stand der Technik entspricht.
+
+Veraltete oder unpassende Technologien und Techniken werden eingesetzt, weil es "historische Gründe" gibt bzw. "zu hohe Kosten entstehenW, die Situation zu ändern.
+"Historische Gründe" sind zwar eine valide Erklärung, aber keine Entschuldigung.
+Software nachträglich auf den Stand der Technik bringen verursacht Kosten.
+Da die Kosten in der Regel hoch sind, werden sie nicht umgesetzt.
+Dem Management ist dabei oft gar nicht bewusst, dass sie durch diese Entscheidung ggfs. vertraglichen Anforderungen an die Software missachten.
+Sie riskieren Gewährleistungs- und Schadenersatzforderungen.
