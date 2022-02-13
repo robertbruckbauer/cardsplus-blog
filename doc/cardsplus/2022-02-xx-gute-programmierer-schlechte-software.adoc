@@ -4,7 +4,7 @@ Mit großem Intetesse habe ich den Beitrag `Gute Programmierer - schlechte Softw
 
 https://www.informatik-aktuell.de/entwicklung/methoden/warum-software-selten-dem-stand-der-technik-entspricht.html
 
-Ich schätze mich selbst als guten Progrrammierer ein
+Ich schätze mich selbst als guten Progrrammierer ein.
 Gute Software zu produzieren war immer mein Ziel.
 Der Begriff Stand der Technik schien mir bis jetzt klar.
 
