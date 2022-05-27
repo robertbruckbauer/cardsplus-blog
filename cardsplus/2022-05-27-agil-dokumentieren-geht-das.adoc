@@ -1,0 +1,52 @@
+= Agil dokumentieren, geht das?
+
+Das Ziel agiler Entwicklung ist es, den Entwicklungsprozess flexibler und schlanker zu gestalten, als das bei den klassischen Vorgehensmodellen der Fall ist.
+Man möchte sich mehr auf die zu erreichenden Ziele konzentrieren und stärker auf technische und soziale Probleme bei der Entwicklung eingehen.
+Die Werte agiler Entwicklung bilden das Fundament agiler Methoden und Vorgehensmodelle.
+Der Ansatz von Scrum ist empirisch, inkrementell und iterativ.
+Er beruht auf der Erfahrung, dass viele Projekte zu komplex sind, um in einen vollumfänglichen Plan gefasst werden zu können.
+Aber Scrum sagt nichts darüber aus, wie ein Produkt dokumentiert wird.
+
+Agil dokumentieren bedeutet für mich vor allem, nur das zu dokumentieren, was nicht bereits durch die Entwickler im Code oder durch die Tester als Testfall ausreichend genau beschrieben wurde.
+Ein Ziel muss sein, diesen Quell an Informationen für alle Projektmitglieder zu erschließen.
+
+Die Frage, wie agiles dokumentieren aussieht, habe ich vor einiger Zeit in einem Scrum-Forum gestellt.
+Ich bekam ein paar sehr interessante Antworten.
+
+> Funktioniert genau wie alles andere in Scrum.
+Jeden Sprint ein bisschen und die Dokumentation ist zusätzlich Teil der Definition of Done (DoD).
+
+Eine DoD bei Code basiert in vielen mir bekannten Projekten auf Metriken.
+Schwachstellen (engl. _code smells_) und Gefährdungen (engl. _vulnerabilities_) werden bewertet und gezählt.
+Duplizierter Code wird identifiziert und gezählt.
+Die Testabdeckung von Code wird gemessen.
+Das sind nur Beispiele.
+Wie funktioniert eine messbare DoD bei Dokumentation?
+
+> Die Dokumentation kann vom PO als Story priorisiert werden - und somit auch "potentiell lieferfähiges Produkt" sein.
+
+Interessanter Punkt.
+Für das Schreiben von Tests wird keine Story verlangt.
+Setzt ein Projekt auf DevOps, gehört Deployment zur DoD.
+Es gilt: _you build it, you run it_.
+Eine Story ist erst fertig, wenn das Produkt installiert wurde.
+Ich frage mich darum, warum es für eine Dokumentation ein Story geben muss?
+
+> Unsere Dokumentation ist das Backlog.
+
+Ein gut priorisiertes agiles Backlog ist extrem wichtig.
+Keine Frage.
+Es ist aber mehr als To-Do-Liste zu verstehen.
+Nach Abschluss aller Stories in einem Backlog ist das Produkt fertig.
+
+Stories werden häufig nach dem CCC-Modell geschrieben.
+Die Anforderung für eine Story muss auf einer Karte (engl. _card_) Platz finden.
+Die Story ist ein _token_, das die eigentliche Anforderung repräsentiert.
+Sie soll vor allem die Kommunikation (engl. _communication_) fördern und Akzeptanzkriterien (engl. _confirmation_) festlegen.
+Eine Story in einem Backlog enthält darum niemals jene Informationen, die durch Kommunikation erarbeitet werden.
+
+> Unsere Dokumentation ist der Code.
+
+Das ist nicht falsch.
+Code beantwortet auf jeden Fall die Frage, wie das Produkt funktioniert.
+Aber Code alleine beantwortet nicht die Frage, warum der Code das tut.
