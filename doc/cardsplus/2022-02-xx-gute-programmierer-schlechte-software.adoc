@@ -1,0 +1,44 @@
+= Gute Programmierer – schlechte Software
+
+Mit großem Intetesse habe ich den Beitrag `Gute Programmierer - schlechte Software` im Online-Magazin Informatik Aktuell gelesen.
+
+https://www.informatik-aktuell.de/entwicklung/methoden/warum-software-selten-dem-stand-der-technik-entspricht.html
+
+Ich schätze mich selbst als guten Progrrammierer ein.
+Gute Software zu produzieren war immer mein Ziel.
+Der Begriff Stand der Technik schien mir bis jetzt klar.
+
+> Der Stand der Technik ist kein technischer Begriff, sondern ein juristischer.
+
+Es handelt sich um eine sogenannte Technikklausel – ein in vielen Gesetzestexten verwendeter, aber nicht im Detail im Gesetz definierter Begriff.
+Entwickelt man kommerzielle Software, so muss diese auf bewährten, zielgerichteten, fortschrittlichen Techniken und Technologien beruhen.
+Wer Software am Stand der Technik entwickelt, tut gut daran, eine Liste aller verwendeter Techniken und Technologien bereitzuhalten.
+Mit dieser auch _Bill of materials_ genannten Liste kann man jederzeit nachweisen, dass die zuvor genannten Bedingungen erfüllt und die Software am Stand der Technik ist.
+Die Liste sollte dann bei der Aufnahme jeder weiteren Technik oder Technologie aktualisiert werden.
+
+Dass Software nicht dem Stand der Technik entspricht, ist vielen Beteiligten nicht klar.
+Und wenn, dann sehen sie es nicht als Manko ihrer eigenen Leistung.
+Software, die nicht dem Stand der Technik entspricht, kann jedoch juristische Folgen nach sich ziehen. 
+
+> Moderne Architekturen, Programmiersprachen, Technologien und Werkzeuge sind nicht unbedingt Stand der Technik. 
+
+Erfahrene Entwickler sind häufig davon überzeugt, mit neuen Technologien die Aufgabenstellungen zielgerichtet lösen zu können. 
+Oftmals ist das aber eine auf keinerlei quantifizierbaren Erfahrungswerten beruhende Überzeugung.
+Motivation ist häufig der Wunsch, mit einer neuen, interessanten, modernen Technologie zu arbeiten.
+Auch wenn sie vielleicht fortschrittlich und bewährt sind, so sind sie per se nicht immer zielgerichtet.
+
+Nicht selten hat die Entscheidung für eine neue Technik oder der Wechsel einer Technologie großen Einfluss auf die Wirtschaftlichkeit.
+Nur ein Teil der Aufwände steckt in der Programmierung.
+Es entstehen Kosten für Weiterbildung.
+Dokumentation muss überarbeitet werden.
+Für den Betrieb sind ggfs. neue Lösungen notwendig.
+Eine Steigerung der Produktivität bei der Entwicklung ist nur dann zielgerichtet, wenn andere Bereiche nicht darunter leiden.
+
+> Gute Programmierer, Architekten oder Tester erstellen Software, die nicht dem Stand der Technik entspricht.
+
+Veraltete oder unpassende Technologien und Techniken werden eingesetzt, weil es "historische Gründe" gibt.
+"Historische Gründe" sind zwar eine valide Erklärung, aber keine Entschuldigung.
+Die Maßnahme, Software nachträglich auf den Stand der Technik bringen, verursacht Kosten.
+Da die Kosten in der Regel hoch sind, wird die Maßnahme nicht umgesetzt.
+Dem Management ist dabei oft gar nicht bewusst, dass sie durch diese Entscheidung ggfs. vertraglichen Anforderungen an die Software missachten.
+Sie riskieren Gewährleistungs- und Schadenersatzforderungen.
