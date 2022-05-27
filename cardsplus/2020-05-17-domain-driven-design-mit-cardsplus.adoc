@@ -1,0 +1,30 @@
+= Domain-Driven Design mit cards+
+
+Domain-Driven Design kennen und nutzen Software-Entwickler seit [Evans2004] schon lange.
+[InfoQ2006], [Vernon2013] und [InnoQ2020] widmen sich diesem Thema ausführlich.
+Ich vertrete die Meinung, dass jede nicht triviale Software dokumentiert werden muss.
+Sich auf implizites Wissen in den Köpfen der Entwickler zu verlassen, halte ich persönlich für ein zu großes Risiko. 
+Domain-Driven Design gibt hier keine eindeutige Antwort.
+Natürlich ist das Domänenmodell Dokumentation. Natürlich ist die gemeinsame Sprache wertvolles Wissen. Lesbarer, sauberer Code ist in der Regel ein erklärtes Ziel der Entwickler.
+
+Ich beschäftige mich mit diesem Thema seit 2014 sehr intensiv.
+Mein Ziel ist es, den Entwicklungsprozess so zu gestalten, dass für Code, Tests *und* Dokumentation die gleichen Maßstäbe für Qualität gelten.
+Was liegt also näher, als "building blocks" für dokumentierte Informationen zu schaffen und sie im taktischen Design der Software fest zu verankern.
+Diese Idee verfolge ich mit den Bausteinen von cards+.
+
+In einer Reihe von Beiträgen möchte ich darum diese Bausteine präsentieren.
+Ich zeige, wie Ergebnisse aus dem strategischen und taktisches Design mit diesen Bausteinen dokumentiert werden können.
+[Cards2020] ist der Einstieg für Ungeduldige.
+Fragen beantworte ich sehr gerne.
+
+---
+
+[Cards2020] https://cardsplus.info/de/struktur/#10
+
+[Evans2004] Evans Eric; Domain-Driven Design, 2004.
+
+[InfoQ2006] https://www.infoq.com/minibooks/domain-driven-design-quickly
+
+[Vernon2013] Vernon Vaughn, Implementing Domain-Driven-Design, 2013.
+
+[InnoQ2020] https://www.innoq.com/de/articles/2020/02/warum-domain-driven-design
