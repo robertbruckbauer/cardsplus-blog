@@ -1,0 +1,21 @@
+= Ist Domain-Driven Design überbewertet?
+
+Mit Interesse verfolge ich schon lange die Podcasts und Blog-Beiträge der INNOQ.
+Die Frage "Ist Domain-Driven Design überbewertet?" hat mich sofort interessiert, weil die Konzepte und Prinzipien von DDD sehr gut zu cards+ passen.
+Aber hören bzw. lesen sie selbst.
+
+https://www.innoq.com/de/podcast/088-domain-driven-design-ueberbewertet/
+
+https://www.innoq.com/en/blog/is-domain-driven-design-overrated
+
+Der Einsatz von cards+ kann in einem Software-Entwicklungsprozess den Aufwand für die Erstellung und Wartung einer Produktdokumentation minimieren und die Qualität der Ergebnisse (inkl. Code, Tests, Spezifikationen) dauerhaft sichern.
+cards+ steht nicht in Konkurrenz zu agilen Methoden wie XP, Scrum oder Kanban, sondern ergänzt sie optimal.
+cards+ ist auf Neudeutsch "opinionated", also eine Methode mit eigener Meinung. Das bedeutet, dass mit den empfohlenen Werkzeugen (u.a. ein Wiki), der Struktur der Dokumentation und den dazu passenden Bausteinen automatisch ein bestimmtes Vorgehen verbunden ist.
+Und DDD war hier eine wichtige Inspiration.
+
+Das Fazit aus dem Blog-Beitrag von INNOQ passt auch hier: 
+
+> Make DDD part of your tool set, but make sure you don’t stop there. There is a life beyond DDD.
+
+cards+ harmoniert nach eigener Erfahrung ausgezeichnet mit DDD.
+Mit cards+ lässt sich DDD in jedes agile Software-Entwicklungsprojekt integrieren.
