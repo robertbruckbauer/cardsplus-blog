@@ -1,0 +1,34 @@
+= Agil dokumentieren, was ist das?
+
+Mit der Dokumentation verhält es sich ein bisschen, wie mit dem guten Vorsatz, mehr Sport zu treiben.
+Wir wissen, dass Sport gesund ist.
+Der innerer Schweinehund nimmt uns die Lust an Bewegung, bis uns das schlechte Gewissen zwingt, dies durch zusätzliche Trainingseinheiten zu kompensieren.
+Die Folge ist ein böser Muskelkater.
+Wäre es nicht besser, kontinuierlich Sport zu betreiben?
+
+> So viel wie nötig, so wenig wie möglich.
+
+In einem agilen Entwicklungsprozess wird dokumentiert, während das Produkt entsteht.
+Nicht Monate davor.
+Hunderte Seiten Lastenhefte oder Pflichtenheften beschreiben Dinge, die vielleicht nie implementiert werden.
+Nicht danach.
+"Dokumentationssprints" liefern Ergebnisse ohne Tiefe, weil wichtiges Wissen bereits verloren gegangen ist.
+
+In einem agilen Entwicklungsprozess wird dokumentiert, was auch wirklich da ist.
+Es muss zur Routine im Team gehören, das Produkt zu beschreiben, genau so wie es Routine ist, das Produkt zu testen und es betriebsbereit zur Verfügung zu stellen.
+Dokumentation ist integraler Bestandteil des Produkts.
+Sie aktuell zu halten ist Teil der _Definition of Done_.
+
+> Dokumente machen Zusammenhänge sichtbar.
+
+> Dokumente sind nur dann sinnvoll, wenn sie auch gelesen werden.
+
+> Dokumente brauchen einen Besitzer.
+
+https://www.agile-academy.com/de/scrum-master/agile-dokumentation-mehr-reden-weniger-schreiben
+
+https://www.thoughtworks.com/de-de/insights/blog/four-goals-agile-documentation-part-one
+
+https://www.thoughtworks.com/de-de/insights/blog/four-goals-agile-documentation-part-two
+
+https://explore.iteratec.com/blog/agilitaet-und-dokumentation-ein-gegensatz
